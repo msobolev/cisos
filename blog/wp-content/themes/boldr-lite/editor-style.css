@@ -1,0 +1,287 @@
+/**
+ *
+ * BoldR Lite WordPress Theme by Iceable Themes | http://www.iceablethemes.com
+ *
+ * Copyright 2013-2014 Mathieu Sarrasin - Iceable Media
+ *
+ * Editor Styles
+ *
+ */
+
+body {
+	font: 14px/20px Helvetica, Arial, Verdana, sans-serif;
+	text-transform: none;
+	letter-spacing: normal;
+	word-spacing: normal;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+	color: #333;
+	font-family: Helvetica, Arial, Verdana, sans-serif;
+	font-weight: bold;
+	margin-top: 24px;
+	margin-bottom: 24px;
+}
+
+/* Links */
+a, a:visited {
+	color: #25ceff;
+	text-decoration: none;
+	outline: 0;
+	transition: all .5s;
+	-moz-transition: all .5s;
+	-webkit-transition: all .5s;
+	-o-transition: all .5s;
+}
+
+a:hover, a:focus {
+	text-decoration: none;
+}
+
+p a, p a:visited {
+	line-height: inherit;
+}
+
+/*	Blockquotes  */
+blockquote, blockquote p {
+	font-size: 17px;
+	line-height: 24px;
+	color: #777;
+	font-style: italic;
+}
+
+blockquote {	
+	margin: 0 40px 20px 40px;
+	padding: 10px 20px;
+	border-left: 3px solid #DDD;
+}
+
+blockquote p {
+	margin-bottom: 0;
+}
+
+blockquote cite {
+	display: block;
+	font-size: 13px;
+	color: #555;
+}
+
+blockquote cite: before {
+	content: "\2014 \0020";
+}
+
+blockquote cite: after {
+	content: "";
+}
+
+blockquote cite a, blockquote cite a:visited, blockquote cite a:visited {
+	color: #555;
+}
+
+blockquote.center {
+	text-align: center;
+}
+
+blockquote.left {
+	text-align: left;
+}
+
+blockquote.right {
+	text-align: right;
+}
+
+/* Tables */
+th {
+	text-transform: uppercase;
+	font-size: 11px;
+	font-weight: bold;
+	background: #CCC;
+}
+
+tr:nth-child(even) { background: #EEE; }
+
+tr:nth-child(odd) { background: #DDD; }
+
+td { padding: 5px 20px; }
+
+th {
+	text-transform: uppercase;
+	font-size: 11px;
+	font-weight: bold;
+	background: #CCC;
+	text-align: center;
+}
+
+/* Lists */
+
+ul, ol { margin-bottom: 20px; padding: 0; }
+
+ul { list-style: none outside; }
+
+ol { list-style: decimal; margin-left: 40px; }
+
+ul ul,
+ol ul { margin: 4px 0 5px 15px; }
+
+ul ol,
+ol ol { margin: 4px 0 5px 30px; }
+
+ul ul li,
+ul ol li,
+ol ol li,
+ol ul li { margin-bottom: 6px; }
+
+li { line-height: 18px; margin-bottom: 12px; }
+
+li p { line-height: 21px; }
+
+ul > li { margin-left: 40px; list-style: disc; }
+
+ul ul li { margin-left: 0px; }
+
+ul ul > li,
+ol ul > li { margin-left: 10px; }
+
+dl { margin-bottom: 20px; }
+
+dl dt { font-weight: bold; margin-bottom: 5px; }
+
+dl dd { padding-left: 20px; margin-bottom: 10px; }
+
+/* Formatting tags */
+em { font-style: italic; }
+
+strong { font-weight: bold; }
+
+small { font-size: 80%; }
+
+q::before,
+cite::before { content: '"'; }
+
+q::after,
+cite::after { content: '"'; }
+
+q q::before,
+cite cite::before { content: "'"; }
+
+q q::after,
+cite cite::after { content: "'"; }
+
+cite { font-style: italic; border: none; }
+
+address {
+	font-family: 'Courier new', Courier, Monospace;
+	padding: 0 0 20px 20px;
+}
+
+pre {
+	display: block;
+	font-family: 'Courier New', Courier, Monospace;
+	padding: 15px;
+	word-wrap: break-word;
+}
+
+hr{
+	height:0px;
+	margin:5px;
+	border-color:#CCC;
+}
+
+sub { font-size: xx-small; vertical-align: sub; }
+
+sup { font-size: xx-small; vertical-align: super; }
+
+code,
+kbd,
+var { font-family: 'Courier new', Courier, Monospace; }
+
+del,
+strike { text-decoration: line-through; }
+
+ins { text-decoration: underline; }
+
+big { font-weight: bold; }
+
+acronym,
+abbr {
+    border-bottom: .1em dotted;
+    cursor: help;
+}
+
+/* Alignment */
+.alignnone {
+	margin: 5px 20px 20px 0 !important;
+}
+
+.alignright {
+	float: right;
+	margin: 5px 0 20px 20px !important;
+}
+
+.alignleft {
+	float: left;
+	margin: 5px 20px 20px 0 !important;
+}
+
+.aligncenter {
+	display: block;
+	margin: 5px auto 5px auto !important;
+}
+
+/* Images */
+img {
+	max-width: 100%;
+	height: auto;
+}
+@media \0screen {img { width: auto }} /* Prevent image distortion in IE8 */
+
+a img.alignright {
+	float: right;
+	margin: 5px 0 20px 20px;
+}
+
+a img.alignnone {
+	margin: 5px 20px 20px 0;
+}
+
+a img.alignleft {
+	float: left;
+	margin: 5px 20px 20px 0;
+}
+
+a img.aligncenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto
+}
+
+.wp-caption {
+	background: #fff;
+	border-color: #f0f0f0;
+	max-width: 96%; /* Image does not overflow the content area */
+	padding: 5px 3px 10px;
+	text-align: center;
+}
+
+.wp-caption.alignnone { margin: 5px 20px 20px 0; }
+
+.wp-caption.alignleft { margin: 5px 20px 20px 0; }
+
+.wp-caption.alignright { margin: 5px 0 20px 20px; }
+
+.wp-caption img {
+	border: 0 none;
+	height: auto;
+	margin: 0;
+	max-width: 98.5%;
+	padding: 0;
+	width: auto;
+}
+
+.wp-caption p.wp-caption-text {
+	font-size: 11px;
+	line-height: 17px;
+	margin: 0;
+	padding: 0 4px 5px;
+}

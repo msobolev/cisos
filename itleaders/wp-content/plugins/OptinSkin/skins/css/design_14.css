@@ -1,0 +1,130 @@
+.ois_form_14 {
+	text-align:center!important;
+}
+
+.ois_textbox_14,.ois_form_14 input[type="text"],.ois_form_14 input[type="email"] {
+	padding:5px 8px!important;
+	font-size:14px!important;
+	background-color:#FAFAFA!important;
+	background-image:none!important;
+	border:1px solid#DDD!important;
+	-webkit-box-shadow:inset 0 1px 1px 0 rgba(0,0,0,0.0976562)!important;
+	-moz-box-shadow:inset 0 1px 1px 0 rgba(0,0,0,0.0976562)!important;
+	box-shadow:inset 0 1px 1px 0 rgba(0,0,0,0.0976562)!important;
+	color:#888!important;
+	cursor:auto!important;
+	display:inline-block!important;
+	font-family:'Helvetica Neue',Helvetica,Arial,sans-serif!important;
+	font-style:normal!important;
+	font-variant:normal!important;
+	font-weight:400!important;
+	letter-spacing:normal!important;
+	line-height:18px!important;
+	margin:3px 0!important;
+	outline:none!important;
+	text-indent:0!important;
+	text-shadow:none!important;
+	text-transform:none!important;
+	vertical-align:baseline!important;
+	word-spacing:0!important
+}
+
+.ois_subtext_14 {
+	-webkit-border-horizontal-spacing:0!important;
+	-webkit-border-vertical-spacing:0!important;
+	background-attachment:scroll!important;
+	background-clip:border-box!important;
+	background-color:transparent!important;
+	background-image:none!important;
+	background-origin:padding-box!important;
+	border-bottom-color:#555!important;
+	border-bottom-style:none!important;
+	border-bottom-width:0!important;
+	border-collapse:collapse!important;
+	border-left-color:#555!important;
+	border-left-style:none!important;
+	border-left-width:0!important;
+	border-right-color:#555!important;
+	border-right-style:none!important;
+	border-right-width:0!important;
+	border-top-color:#555!important;
+	border-top-style:none!important;
+	border-top-width:0!important;
+	clear:none!important;
+	color:#555!important;
+	display:block!important;
+	font-family:sans-serif!important;
+	font-size:12px!important;
+	font-style:normal!important;
+	font-variant:normal!important;
+	font-weight:400!important;
+	left:auto!important;
+	line-height:16px!important;
+	list-style-image:none!important;
+	list-style-position:outside!important;
+	list-style-type:none!important;
+	margin-bottom:0!important;
+	margin-left:0!important;
+	margin-right:0!important;
+	margin-top:0!important;
+	max-width:none!important;
+	min-width:0!important;
+	overflow-x:visible!important;
+	overflow-y:visible!important;
+	padding-bottom:15px!important;
+	padding-left:15px!important;
+	padding-right:15px!important;
+	padding-top:15px!important;
+	position:static!important;
+	text-align:left!important;
+	top:auto!important;
+	vertical-align:baseline!important;
+	word-wrap:break-word!important
+}
+
+.ois_button_14,.ois_form_14 input[type="submit"] {
+	-webkit-appearance:none!important;
+	-webkit-border-horizontal-spacing:0!important;
+	-webkit-border-vertical-spacing:0!important;
+	-webkit-box-align:center!important;
+	-webkit-rtl-ordering:logical!important;
+	-webkit-user-select:text!important;
+	background-attachment:scroll!important;
+	background-clip:border-box!important;
+	background-color:#fff!important;
+	background-origin:padding-box!important;
+	border:none!important;
+	box-sizing:border-box!important;
+	clear:none!important;
+	cursor:default!important;
+	display:inline-block!important;
+	font-family:sans-serif!important;
+	font-size:12px!important;
+	font-style:normal!important;
+	font-variant:normal!important;
+	font-weight:400!important;
+	letter-spacing:normal!important;
+	line-height:15px!important;
+	list-style-image:none!important;
+	list-style-position:outside!important;
+	list-style-type:none!important;
+	margin:1px!important;
+	max-width:none!important;
+	min-width:0!important;
+	outline-color:#FFE557!important;
+	outline-style:none!important;
+	outline-width:0!important;
+	overflow-x:visible!important;
+	overflow-y:visible!important;
+	padding:5px 10px!important;
+	position:static!important;
+	text-align:center!important;
+	text-indent:0!important;
+	text-shadow:none!important;
+	text-transform:none!important;
+	top:auto!important;
+	vertical-align:baseline!important;
+	white-space:pre!important;
+	word-spacing:0!important;
+	word-wrap:break-word!important
+}

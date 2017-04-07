@@ -1,0 +1,450 @@
+.my_div{
+    background:url(../images/combo-box-arroe-bg.jpg) right top no-repeat;
+	width:251px;
+	margin:0px;
+	padding:0px;
+	max-height:200px;
+	overflow:auto;
+	display:block;
+	background-color:#FFFFFF;
+	font-family:tahoma,verdana,arial;
+	font-size:14px;
+	color:#737373;
+	z-index:999999;
+	text-align:left;
+	border:1px solid #98bdd3;
+	float:left;
+}
+.my_div .inner{
+	width:248px;
+	margin:0px;
+	padding:0px;
+	height:150px;
+	overflow:auto;
+	display:block;
+	background-color:#FFFFFF;
+	font-family:tahoma,verdana,arial;
+	font-size:14px;
+	color:#737373;
+	z-index:999999;
+	text-align:left;
+	border:1px solid #98bdd3;
+	float:left;
+}
+.my_div .inner a{ 
+	color:#737373;
+	font:Verdana, Arial, Helvetica, sans-serif;
+	font-size:15px;
+	text-decoration:none;
+	line-height:15px;
+	margin:0px;
+	padding-left:4px;
+	padding-bottom:2px;
+	padding-top:2px;
+	height:auto;
+	text-align:left;
+	display:block;
+	width:226px;
+	float:left;
+	border:0px solid red;
+}
+.my_div .inner a:hover{
+	width:226px;
+	background-color:#204080;
+	color:#ffffff;
+	font:Verdana, Arial, Helvetica, sans-serif;
+	font-size:15px;
+	padding-left:4px;
+	padding-bottom:2px;
+	padding-top:2px;
+	height:auto;
+	line-height:15px;
+	margin:0px;
+	display:block;
+	text-align:left;
+	float:left;
+}
+.my_div .inner input{
+	  display:block;
+	  margin:0px;
+	  padding-top:2px;
+	  width:228px;
+	  height:19px;
+	  border:none;
+	  font-family:Verdana;
+	  font-size:14px;
+	  font-weight:normal;
+	  color:#000000;
+	  text-align:left;
+	  text-decoration:none;
+	  background:white;
+	  border:none;
+	  float:right;
+	  border:0px solid red;
+
+     }
+
+.my_div_small{
+    background:url(../images/combo-box-arroe-bg.jpg) right top no-repeat;
+	width:125px;
+	margin:0px;
+	padding:0px;
+	max-height:200px;
+	overflow:auto;
+	display:block;
+	background-color:#FFFFFF;
+	font-family:tahoma,verdana,arial;
+	font-size:14px;
+	color:#737373;
+	z-index:999999;
+	text-align:left;
+	border:1px solid #98bdd3;
+	float:left;
+}
+.my_div_small .middle{
+	width:122px;
+	margin:0px;
+	padding:0px;
+	max-height:200px;
+	overflow:auto;
+	display:block;
+	background-color:#FFFFFF;
+	font-family:tahoma,verdana,arial;
+	font-size:14px;
+	color:#737373;
+	z-index:999999;
+	text-align:left;
+	border:1px solid #98bdd3;
+	float:left;
+}
+.my_div_small .middle a{ 
+	color:#737373;
+	font:Verdana, Arial, Helvetica, sans-serif;
+	font-size:15px;
+	text-decoration:none;
+	line-height:14px;
+	margin:0px;
+	padding-left:4px;
+	height:20px;
+	text-align:left;
+	display:block;
+	width:99px;
+	float:left;
+	border:0px solid red;
+}
+.my_div_small .middle a:hover{
+	width:99px;
+	background-color:#204080;
+	color:#ffffff;
+	font:Verdana, Arial, Helvetica, sans-serif;
+	font-size:14px;
+	padding-left:4px;
+	line-height:15px;
+	height:20px;
+	margin:0px;
+	display:block;
+	text-align:left;
+	float:left;
+}
+.my_div_small .middle input{
+	  display:block;
+	  margin:0px;
+	  padding-top:2px;
+	  width:99px;
+	  height:19px;
+	  border:none;
+	  font-family:Verdana;
+	  font-size:14px;
+	  font-weight:normal;
+	  color:#737373;
+	  text-align:left;
+	  text-decoration:none;
+	  background:white;
+	  border:none;
+	  float:left;
+	  border:0px solid red;
+     }
+
+.text-new-100{
+	width:99px;
+  	height:20px;
+	font-family:Verdana;
+	font-size:14px;
+	font-weight:normal;
+	color:#737373;
+	text-align:left;
+	text-decoration:none;
+	padding-top:3px;
+	margin:0px;
+	float:left;
+}
+.text-new-227{
+	width:226px;
+  	height:20px;
+	font-family:Verdana;
+	font-size:14px;
+	font-weight:normal;
+	color:#737373;
+	text-align:left;
+	text-decoration:none;
+	padding-top:3px;
+	margin:0px;
+	float:left;
+}
+
+.my_div .industry{
+	width:247px;
+	margin:0px;
+	padding:0px;
+	max-height:200px;
+	overflow:auto;
+	display:block;
+	background-color:#FFFFFF;
+	font-family:tahoma,verdana,arial;
+	font-size:14px;
+	color:#737373;
+	z-index:999999;
+	text-align:left;
+	border:1px solid #98bdd3;
+	float:left;
+}
+.my_div .industry a{ 
+	color:#737373;
+	font:Verdana, Arial, Helvetica, sans-serif;
+	font-size:15px;
+	text-decoration:none;
+	line-height:15px;
+	margin:0px;
+	padding-left:10px;
+	padding-bottom:2px;
+	padding-top:2px;
+	height:auto;
+	text-align:left;
+	display:block;
+	width:220px;
+	float:left;
+	border:0px solid red;
+}
+.my_div .industry a:hover{
+	width:220px;
+	background-color:#204080;
+	color:#ffffff;
+	font:Verdana, Arial, Helvetica, sans-serif;
+	font-size:15px;
+	padding-left:10px;
+	padding-bottom:2px;
+	padding-top:2px;
+	line-height:15px;
+	height:auto;
+	margin:0px;
+	display:block;
+	text-align:left;
+	float:left;
+}
+
+.my_div_160{
+    background:url(../images/combo-box-arroe-bg.jpg) right top no-repeat;
+	width:163px;
+	margin:0px;
+	padding:0px;
+	max-height:200px;
+	overflow:auto;
+	display:block;
+	background-color:#FFFFFF;
+	font-family:tahoma,verdana,arial;
+	font-size:14px;
+	color:#737373;
+	z-index:999999;
+	text-align:left;
+	border:1px solid #98bdd3;
+	float:left;
+}
+.my_div_160 .inner{
+	width:160px;
+	margin:0px;
+	padding:0px;
+	height:150px;
+	overflow:auto;
+	display:block;
+	background-color:#FFFFFF;
+	font-family:tahoma,verdana,arial;
+	font-size:14px;
+	color:#737373;
+	z-index:999999;
+	text-align:left;
+	border:1px solid #98bdd3;
+	float:left;
+}
+.my_div_160 .inner a{ 
+	color:#737373;
+	font:Verdana, Arial, Helvetica, sans-serif;
+	font-size:15px;
+	text-decoration:none;
+	line-height:15px;
+	margin:0px;
+	padding-left:4px;
+	padding-bottom:2px;
+	padding-top:2px;
+	height:auto;
+	text-align:left;
+	display:block;
+	width:138px;
+	float:left;
+	border:0px solid red;
+}
+.my_div_160 .inner a:hover{
+	width:138px;
+	background-color:#204080;
+	color:#ffffff;
+	font:Verdana, Arial, Helvetica, sans-serif;
+	font-size:15px;
+	padding-left:4px;
+	padding-bottom:2px;
+	padding-top:2px;
+	height:auto;
+	line-height:15px;
+	margin:0px;
+	display:block;
+	text-align:left;
+	float:left;
+}
+.my_div_160 .inner input{
+	  display:block;
+	  margin:0px;
+	  padding-top:2px;
+	  width:140px;
+	  height:19px;
+	  border:none;
+	  font-family:Verdana;
+	  font-size:14px;
+	  font-weight:normal;
+	  color:#000000;
+	  text-align:left;
+	  text-decoration:none;
+	  background:white;
+	  border:none;
+	  float:right;
+	  border:1px solid red;
+
+     }
+.text-new-160{
+	width:140px;
+  	height:20px;
+	font-family:Verdana;
+	font-size:14px;
+	font-weight:normal;
+	color:#737373;
+	text-align:left;
+	text-decoration:none;
+	padding-top:3px;
+	margin:0px;
+	float:left;
+}
+.text-new-158{
+	width:158px;
+  	height:20px;
+	font-family:Verdana;
+	font-size:14px;
+	font-weight:normal;
+	color:#737373;
+	text-align:left;
+	text-decoration:none;
+	padding-top:3px;
+	margin:0px;
+	float:left;
+}	 
+/* New ComboBox 2010-12-20 */
+
+.my_div_small_new{
+    background:url(../images/combo-box-arroe-bg.jpg) right top no-repeat;
+	width:65px;
+	margin:0px;
+	padding:0px;
+	max-height:200px;
+	overflow:auto;
+	display:block;
+	background-color:#FFFFFF;
+	font-family:tahoma,verdana,arial;
+	font-size:14px;
+	color:#737373;
+	z-index:999999;
+	text-align:left;
+	border:1px solid #98bdd3;
+	float:left;
+}
+.my_div_small_new .middle{
+	width:62px;
+	margin:0px;
+	padding:0px;
+	max-height:200px;
+	overflow:auto;
+	display:block;
+	background-color:#FFFFFF;
+	font-family:tahoma,verdana,arial;
+	font-size:14px;
+	color:#737373;
+	z-index:999999;
+	text-align:left;
+	border:1px solid #98bdd3;
+	float:left;
+}
+.my_div_small_new .middle a{ 
+	color:#737373;
+	font:Verdana, Arial, Helvetica, sans-serif;
+	font-size:15px;
+	text-decoration:none;
+	line-height:14px;
+	margin:0px;
+	padding-left:4px;
+	height:20px;
+	text-align:left;
+	display:block;
+	width:40px;
+	float:left;
+	border:0px solid red;
+}
+.my_div_small_new .middle a:hover{
+	width:40px;
+	background-color:#204080;
+	color:#ffffff;
+	font:Verdana, Arial, Helvetica, sans-serif;
+	font-size:14px;
+	padding-left:4px;
+	line-height:15px;
+	height:20px;
+	margin:0px;
+	display:block;
+	text-align:left;
+	float:left;
+}
+.my_div_small_new .middle input{
+	  display:block;
+	  margin:0px;
+	  padding-top:2px;
+	  width:60px;
+	  height:19px;
+	  border:none;
+	  font-family:Verdana;
+	  font-size:14px;
+	  font-weight:normal;
+	  color:#737373;
+	  text-align:left;
+	  text-decoration:none;
+	  background:white;
+	  border:none;
+	  float:left;
+	  border:1px solid red;
+     }
+.text-new-50{
+	width:40px;
+  	height:20px;
+	font-family:Verdana;
+	font-size:14px;
+	font-weight:normal;
+	color:#737373;
+	text-align:left;
+	text-decoration:none;
+	padding-top:3px;
+	margin:0px;
+	float:left;
+}

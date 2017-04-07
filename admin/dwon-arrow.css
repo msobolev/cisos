@@ -1,0 +1,155 @@
+div.sexy {
+    white-space: nowrap;
+    height: 21px;
+    border: 0;
+    margin: 0;
+    padding: 0;
+    width: 245px;
+}
+div.custom {
+    white-space: nowrap;
+    height: 21px;
+    border: 0;
+    margin: 0;
+    padding: 0;
+    width: 92px;
+}
+
+div.sexy input, div.custom input  {
+    margin: 0 0 0 0;
+    padding:3px;
+    background:#fff;
+    border:1px solid #98bdd3;
+    height: 15px;
+    line-height:15px;
+    vertical-align:middle; 
+    left: 0px;
+    top: 0px; 
+    width: 245px;  
+	color:#777;
+
+}
+div.custom input{
+	width: 95px;  
+}
+div.sexy div.icon, div.custom div.icon  {
+    width:21px;
+    height:20px;
+    border: 0;
+    background:transparent url(../images/down.png) no-repeat 0 0;
+    cursor:pointer;
+    top:1px;
+    left: 231px; 
+}
+div.custom div.icon {
+	left:81px;
+}
+
+
+div.sexy div.list-wrapper,div.custom div.list-wrapper {
+    left: 0px;
+    top: 23px;
+    border: 1px solid #98bdd3;
+    background-color: #FFFFFF;
+    padding: 0;
+    margin: 0;
+    width:250px;
+    bottom: auto;
+}
+div.custom div.list-wrapper{
+	width:101px;
+}
+
+div.sexy div.list-wrapper-up, div.custom div.list-wrapper-up {
+    top: auto;
+    bottom: 21px;
+}
+
+div.sexy ul , div.custom ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    height: 200px;
+}
+
+
+div.sexy  li, div.custom li{
+    padding: 0;
+    padding-left: 5px;
+    font:normal 14px tahoma, arial, helvetica, sans-serif;
+    background-color: #FFFFFF;
+    cursor: pointer;
+    margin: 0;
+}
+
+div.sexy li.active , div.custom li.active{
+    background-color: rgb(255, 255, 255);
+}
+div.sexy a, div.sexy a:visited, div.sexy a:active , div.custom  a:active , div.custom a, div.custom a:visited{
+    display: block;
+	width: 100%;
+	width: 245px;
+	text-decoration: none;
+    font:normal 14px  tahoma, arial, helvetica, sans-serif;
+	color: #000000;
+    cursor: pointer;
+    margin: 0;	
+	height: 20px;
+}
+
+div.sexy input.empty , div.custom input.empty{
+    color: gray;
+}
+
+a.to-highlight:hover {
+    background-color: rgb(255, 255, 255);
+}
+
+div.combo {
+    position:relative;
+    left: 0px;
+    top: 0px;
+	width:225px;
+}
+
+.combo input {
+    position: absolute;
+}
+
+.combo div.icon {
+    position:absolute;
+}
+
+.combo div.list-wrapper {
+    position: absolute;
+    overflow: hidden;
+    height: 200px; 
+    max-height: 200px;
+    z-index: 99999;
+
+}
+
+.combo div.list-wrapper-up {}
+
+.combo ul {}
+
+.combo  li {
+    height: 20px;
+}
+.combo li.active {}
+
+
+.combo .visible {
+    display: block;
+}
+
+.combo .invisible {
+    display: none;
+}
+
+.combo input.empty {}
+
+.datebox {
+	width:125px;
+	float:left;
+}

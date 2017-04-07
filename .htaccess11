@@ -1,0 +1,71 @@
+# turn on the module for this directory
+ExpiresActive on
+# set default
+ExpiresDefault "access plus 24 hours"
+ExpiresByType image/jpg "access plus 1 months"
+ExpiresByType image/gif "access plus 1 months"
+ExpiresByType image/jpeg "access plus 1 months"
+ExpiresByType image/png "access plus 1 months"
+ExpiresByType css/images/jpg "access plus 1 months"
+ExpiresByType css/images/gif "access plus 1 months"
+ExpiresByType css/images/jpeg "access plus 1 months"
+ExpiresByType css/images/png "access plus 1 months"
+
+ExpiresByType images/spinner.gif "access plus 1 months"
+ExpiresByType images/check-small.png "access plus 1 months"
+ExpiresByType images/scroll.png "access plus 1 months"
+ExpiresByType images/sharethis_16.png "access plus 1 months"
+ExpiresByType images/sprite_32_small.png "access plus 1 months"
+
+ExpiresByType text/css "access plus 1 months"
+ExpiresByType text/javascript "access plus 1 months"
+ExpiresByType application/javascript "access plus 1 months"
+ExpiresByType application/x-shockwave-flash "access plus 1 months"
+
+RewriteEngine On
+
+Rewritecond %{http_host} ^ctosonthemove.com [nc]
+RewriteRule ^(.*)$ https://www.ctosonthemove.com/$1 [r=301,nc]
+
+#Rewritecond %{http_host} !^www\.ctosonthemove\.com [NC]
+Rewritecond %{http_host} !^itleaders\.ctosonthemove\.com [NC]
+Rewritecond %{http_host} !^itexecs\.ctosonthemove\.com [NC]
+Rewritecond %{http_host} !^techleaders\.ctosonthemove\.com [NC]
+Rewritecond %{http_host} !^techexecs\.ctosonthemove\.com [NC]
+
+
+RewriteRule index.html$ index.php [QSA,L]
+RewriteRule index.html$ index.php [QSA,L]
+RewriteRule why-cto.html$ why-cto.php [QSA,L]
+RewriteRule team.html$ team.php [QSA,L]
+RewriteRule partners.html$ partners.php [QSA,L]
+RewriteRule press-news.html$ press-news.php [QSA,L]
+RewriteRule terms-use.html$ terms-use.php [QSA,L]
+RewriteRule privacy-policy.html$ privacy-policy.php [QSA,L]
+RewriteRule copyright-policy.html$ copyright-policy.php [QSA,L]
+RewriteRule contact-us.html$ contact-us.php [QSA,L]
+RewriteRule pricing.html$ pricing.php [QSA,L]
+RewriteRule onedollaroffer.html$ onedollaroffer.php [QSA,L]
+RewriteRule site-map.html$ site-map.php [QSA,L]
+RewriteRule faq.html$ faq.php [QSA,L]
+RewriteRule white-paper.html$ white-paper.php [QSA,L]
+RewriteRule ITExecutivesDirectory.html$ ITExecutivesDirectory.php [QSA,L]
+RewriteRule thankyou.html$ thankyou.php [QSA,L]
+RewriteRule offer-off-page.php$ offer-off-page.php [QSA,L]
+RewriteRule offer-(.*)$ onedollaroffer.php [QSA,L]
+RewriteRule ^(.*)-at-(.*)$ movement.php [QSA,L]
+RewriteRule ^(.*)-from-(.*)$ movement.php [QSA,L]
+RewriteRule ^(.*)-Appoint(.*)$ movement.php [QSA,L]
+RewriteRule ^(.*)-appoint(.*)$ movement.php [QSA,L]
+RewriteRule ^(.*)-Promot(.*)$ movement.php [QSA,L]
+RewriteRule ^(.*)-promot(.*)$ movement.php [QSA,L]
+RewriteRule ^(.*)-Retire(.*)$ movement.php [QSA,L]
+RewriteRule ^(.*)-retire(.*)$ movement.php [QSA,L]
+RewriteRule ^(.*)-Resign(.*)$ movement.php [QSA,L]
+RewriteRule ^(.*)-resign(.*)$ movement.php [QSA,L]
+RewriteRule ^(.*)-Terminat(.*)$ movement.php [QSA,L]
+RewriteRule ^(.*)-terminat(.*)$ movement.php [QSA,L]
+RewriteRule ^(.*)-Job-Opening(.*)$ movement.php [QSA,L]
+RewriteRule ^(.*)_Company_(.*)$ company-profile.php [QSA,L]
+RewriteRule ^(.*)_Exec_(.*)$ personal-profile.php [QSA,L]
+ErrorDocument 404 https://www.ctosonthemove.com

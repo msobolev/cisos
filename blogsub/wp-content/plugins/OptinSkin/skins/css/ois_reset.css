@@ -1,0 +1,68 @@
+/* 
+	Based on Eric Meyer's CSS Reset
+	Reworked by Graeme Boy (graemeboy@gmail.com)
+	http://meyerweb.com/eric/tools/css/reset/ 
+   	v2.0 | 20110126
+   	License: none (public domain)
+*/
+
+.ois_wrapper div, .ois_wrapper span, .ois_wrapper applet, .ois_wrapper object, .ois_wrapper iframe,
+.ois_wrapper h1, .ois_wrapper h2, .ois_wrapper h3, .ois_wrapper h4, .ois_wrapper h5, .ois_wrapper h6, .ois_wrapper p, .ois_wrapper blockquote, .ois_wrapper pre,
+.ois_wrapper a, .ois_wrapper abbr, .ois_wrapper acronym, .ois_wrapper address, .ois_wrapper big,  .ois_wrapper cite, .ois_wrapper code,
+.ois_wrapper del, .ois_wrapper dfn, .ois_wrapper em, .ois_wrapper img, .ois_wrapper ins, .ois_wrapper kbd, .ois_wrapper q, .ois_wrapper s, .ois_wrapper samp, .ois_wrapper small, .ois_wrapper strike, .ois_wrapper strong, .ois_wrapper sub, .ois_wrapper sup, .ois_wrapper tt, .ois_wrapper var,
+.ois_wrapper b, .ois_wrapper u, .ois_wrapper i, .ois_wrapper center,
+.ois_wrapper dl, .ois_wrapper dt, .ois_wrapper dd, .ois_wrapper ol, .ois_wrapper ul, .ois_wrapper li,
+.ois_wrapper fieldset, .ois_wrapper form, .ois_wrapper label, .ois_wrapper legend,
+.ois_wrapper table, .ois_wrapper caption, .ois_wrapper tbody, .ois_wrapper tfoot, .ois_wrapper thead, .ois_wrapper tr, .ois_wrapper th, .ois_wrapper td,
+.ois_wrapper article, .ois_wrapper aside, .ois_wrapper canvas, .ois_wrapper details, .ois_wrapper embed, .ois_wrapper 
+.ois_wrapper figure, .ois_wrapper figcaption, .ois_wrapper footer, .ois_wrapper header, .ois_wrapper hgroup, .ois_wrapper 
+.ois_wrapper menu, .ois_wrapper nav, .ois_wrapper output, .ois_wrapper ruby, .ois_wrapper section, .ois_wrapper summary,
+.ois_wrapper time, .ois_wrapper mark, .ois_wrapper audio, .ois_wrapper video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+	background-color: transparent !important;
+	border: none;
+	text-align: left;
+	overflow: visible;
+}
+.ois_wrapper ol, .ois_wrapper ul {
+	list-style: none;
+}
+.ois_wrapper table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+.ois_wrapper iframe { 
+	overflow: hidden !important;
+}
+.ois_wrapper input[type="submit"] {
+	cursor: pointer !important;
+	width: auto;
+}
+.ois_wrapper img, .ois_wrapper table, .ois_wrapper table tr td {
+	border: none !important;
+	margin: 0 !important;
+	padding: 0 !important;
+	box-shadow: none !important;
+	-webkit-box-shadow: none !important;
+	-moz-box-shadow: none !important;
+	max-width: none !important;
+}
+.ois_wrapper input[type="submit"] {
+	width: auto !important;
+	height: auto !important;
+	background: none !important;
+	background-image: none !important;
+}
+.ois_stick {
+	position:fixed;
+	top:0;
+	z-index: 99;
+}
+.ois_popup {
+	display:none;
+}

@@ -1,0 +1,180 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BoldR Lite 1.1\n"
+"POT-Creation-Date: 2013-06-03 10:54+0100\n"
+"PO-Revision-Date: 2013-07-04 14:55+0200\n"
+"Last-Translator: Dmitriy <wordpress.crimea.ua@gmail.com>\n"
+"Language-Team: Iceable Themes <contact@iceablethemes.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.6\n"
+"X-Poedit-KeywordsList: __;_e;_x;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:25
+msgid "404"
+msgstr "404"
+
+#: ../404.php:29
+msgid "Page Not Found"
+msgstr "Страница не найдена"
+
+#: ../404.php:30 ../index.php:108 ../page-full-width.php:55 ../page.php:55
+#: ../single.php:147
+msgid "What you are looking for isn't here..."
+msgstr "К сожалению по Вашему запросу ничего не найдено."
+
+#: ../404.php:31
+msgid "Maybe a search will help ?"
+msgstr "Возможно Вам поможет поиск?"
+
+#: ../comments.php:17
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Эта запись защищена паролем. Введите пароль чтобы увидеть ее полностью."
+
+#: ../comments.php:24
+#, php-format
+msgid "One Response to %2$s"
+msgstr "Один ответ на %2$s"
+
+#: ../comments.php:30
+msgid "Reply"
+msgstr "Ответить"
+
+#: ../comments.php:38
+msgid "Older comments"
+msgstr "Старые комментарии"
+
+#: ../comments.php:41
+msgid "Newer comments"
+msgstr "Новые комментарии"
+
+#: ../comments.php:53
+msgid "Comments are closed."
+msgstr "Комментарии отключены."
+
+#: ../footer.php:27
+msgid "Proudly powered by"
+msgstr "Сайт работает на"
+
+#: ../functions.php:89
+#, php-format
+msgid "Page %s"
+msgstr "Страница %s"
+
+#: ../functions.php:130
+msgid "Default Sidebar"
+msgstr "Сайдбар по умолчанию"
+
+#: ../functions.php:142
+msgid "Footer"
+msgstr "Подвал"
+
+#: ../functions.php:233
+msgid "Read More"
+msgstr "Читать далее"
+
+#: ../index.php:32
+msgid "Search Results for "
+msgstr "Результаты поиска для"
+
+#: ../index.php:37
+msgid "Tag: "
+msgstr "Тэги:"
+
+#: ../index.php:42
+msgid "Category: "
+msgstr "Категория:"
+
+#: ../index.php:67 ../single.php:44
+msgid "No"
+msgstr "№"
+
+#: ../index.php:67 ../single.php:44
+msgid "1"
+msgstr "1"
+
+#: ../index.php:67 ../single.php:44
+msgid "%"
+msgstr "%"
+
+#: ../index.php:68 ../single.php:45
+msgid "Comment"
+msgstr "Комментарий"
+
+#: ../index.php:68 ../single.php:45
+msgid "Comments"
+msgstr "Комментарии"
+
+#: ../index.php:68 ../single.php:45
+msgid "Comments Off"
+msgstr "Комментарии отключены"
+
+#: ../index.php:72 ../single.php:49
+msgid "by "
+msgstr "по"
+
+#: ../index.php:74 ../page-full-width.php:40 ../page.php:40 ../single.php:51
+msgid "Edit"
+msgstr "Редактировать"
+
+#: ../index.php:89 ../single.php:68
+msgid "Posted in"
+msgstr "Опубликовано в"
+
+#: ../index.php:107 ../page-full-width.php:54 ../page.php:54 ../single.php:146
+msgid "Not Found"
+msgstr "Не найдено"
+
+#: ../index.php:114
+msgid "Previous Posts"
+msgstr "Предыдущие записи"
+
+#: ../index.php:117
+msgid "Next Posts"
+msgstr "Следующие записи"
+
+#: ../sidebar.php:16
+msgid "Recent Posts"
+msgstr "Последние записи"
+
+#: ../sidebar.php:22
+msgid "Archives"
+msgstr "Архивы"
+
+#: ../sidebar.php:28
+msgid "Meta"
+msgstr "Мета"
+
+#: ../single.php:75
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: ../single.php:80
+msgid "Next page"
+msgstr "Следующая страница"
+
+#: ../single.php:81
+msgid "Previous page"
+msgstr "Предыдущая страница"
+
+#: ../single.php:100
+msgid "Previous Image"
+msgstr "Предыдущее изображение"
+
+#: ../single.php:103
+msgid "Next Image"
+msgstr "Следующее изображение"
+
+#: ../single.php:109 ../single.php:132
+msgid "Previous Post"
+msgstr "Предыдущая запись"
+
+#: ../single.php:112 ../single.php:135
+msgid "Next Post"
+msgstr "Следующая запись"

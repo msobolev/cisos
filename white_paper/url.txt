@@ -1,0 +1,88 @@
+.htaccess activation forum
+http://blog.danigunawan.com/web/activate-mod_rewrite-in-apache/
+http://www.apachefriends.org/f/viewtopic.php?p=131861&sid=5021ea486a1f14b6fec5abaac2e0fb5c
+
+category/subcategories list 
+
+http://www.codeassembly.com/How-to-display-infinite-depth-expandable-categories-using-php-and-javascript/
+
+PDF Create
+
+http://www.astahost.com/info.php/Create-Pdf-Php_t4972-0.html
+
+download option in oscommerce
+
+http://www.scribd.com/doc/13684817/OSCommerce-Digital-Download-Settings
+http://forums.oscommerce.com/topic/322940-digital-download-content-with-paypal-ipn/
+
+sitemap infomation
+http://www.sitemaps.org/protocol.php#top
+
+PayPal Website Payments Standard oscommerce
+http://forums.oscommerce.com/index.php?showtopic=39217&st=40
+
+IDEAL Payment GetaWay
+https://ideal.rabobank.nl/ideal/documentationMad.jsp
+
+
+<FORM METHOD="post" ACTION="https://idealtest.rabobank.nl/ideal/mpiPayInitRabo.do";;
+id=form1 name=form1> <!--adjust URL to required enviroment-->
+<INPUT type="hidden" NAME="merchantID" value="your_merchant_id_here"><!--adjust merchant number-->
+<INPUT type="hidden" NAME="subID" value="0">
+<INPUT type="hidden" NAME="amount" VALUE="$aData[fSummary]" >
+<INPUT type="hidden" NAME="purchaseID" VALUE="$iOrder">
+<INPUT type="hidden" NAME="language" VALUE="nl">
+<INPUT type="hidden" NAME="currency" VALUE="EUR">
+<INPUT type="hidden" NAME="description" VALUE="iDEAL Lite purchase">
+<INPUT type="hidden" NAME="itemNumber1" VALUE="your_ideal_product_number_here"><!--adjust product number-->
+<INPUT type="hidden" NAME="itemDescription1" VALUE="Order ID $iOrder ">
+<INPUT type="hidden" NAME="itemQuantity1" VALUE="1">
+<INPUT type="hidden" NAME="itemPrice1" VALUE="$aData[fSummary]">
+<INPUT type="hidden" NAME="paymentType" VALUE="ideal">
+<INPUT type="hidden" NAME="validUntil" VALUE=" 2007-01-01T12:00:00:0000Z">
+<INPUT type="hidden" NAME="urlCancel" VALUE="your_cancel_url_here"><!--adjust URL-->
+<INPUT type="hidden" NAME="urlSuccess" VALUE="your_succes_url_here"><!--adjust URL-->
+<INPUT type="hidden" NAME="urlError" VALUE="your_error_url_here"><!--adjust URL-->
+<INPUT TYPE="image" SRC="http://217.194.103.68/uploads/documents/57.gif";; id=submit2 name=submit2 BORDER="0" ALT="iDEAl"><!--Please use your own iDEAl logo-->
+</form>
+
+iDEAL Payment for oscommerce
+http://www.oscommerce.com/community/contributions,3759/download,11591
+
+Perl book info
+http://docs.google.com/viewer?url=http%3A%2F%2Fblob.perl.org%2Fbooks%2Fbeginning-perl%2F3145_Chap01.pdf
+
+magento
+http://onerutter.com/web/magento-custom-category-images-listing-block-tutorial.html
+
+Paypal Code
+https://cms.paypal.com/us/cgi-bin/?&cmd=_render-content&content_ID=developer/library_code
+
+clickbank
+http://www.clickbank.com/help/vendor-help/vendor-guides/creating-a-recurring-billing-product/
+
+Demo Credit card number
+
+https://www.paypal.com/en_US/vhelp/paypalmanager_help/credit_card_numbers.htm
+
+FaceBook link
+http://www.facebook.com/facebook-widgets/share.php
+
+Drupal info (contribution)
+http://groups.drupal.org/node/5036
+
+image gallery in drupal
+http://jamestombs.co.uk/2009-03-18/create-a-simple-image-gallery-in-drupal-6-using-cck-and-views/996
+
+Album in drupal
+http://jamestombs.co.uk/2009-05-12/create-an-album-based-image-gallery-in-drupal-6-using-cck-and-views/1045
+
+http://clownfishrevealed.com/
+
+clickbank info
+http://www.clickbank.com/help/vendor-help/vendor-guides/going-global-with-your-product/
+
+Ajax live search in php
+
+http://www.w3schools.com/PHP/php_ajax_livesearch.asp
+

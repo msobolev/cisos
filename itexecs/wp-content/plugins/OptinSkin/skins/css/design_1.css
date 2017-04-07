@@ -1,0 +1,63 @@
+.ois_form_15 {
+	display:inline!important
+}
+
+.ois_textbox_15,.ois_form_15 input[type="text"],.ois_form_15 input[type="email"] {
+	text-align:center!important;
+	padding:5px!important;
+	background-color:#FAFAFA!important;
+	background-image:none!important;
+	box-sizing: border-box !important;
+	-webkit-box-sizing: border-box !important;
+	-moz-box-sizing: border-box !important;
+	border:1px solid#DDD!important;
+	-webkit-box-shadow:inset 0 1px 1px 0 rgba(0,0,0,0.0976562)!important;
+	-moz-box-shadow:inset 0 1px 1px 0 rgba(0,0,0,0.0976562)!important;
+	box-shadow:inset 0 1px 1px 0 rgba(0,0,0,0.0976562)!important;
+	color:#888!important;
+	cursor:auto!important;
+	display:inline-block!important;
+	font-family:'Helvetica Neue',Helvetica,Arial,sans-serif!important;
+	font-style:normal!important;
+	font-variant:normal!important;
+	font-weight:300!important;
+	letter-spacing:normal!important;
+	line-height:18px!important;
+	margin:2px 0!important;
+	outline:none!important;
+	text-indent:0!important;
+	text-shadow:none!important;
+	text-transform:none!important;
+	vertical-align:baseline!important;
+	word-spacing:0!important
+}
+
+.ois_button_15,.ois_form_15 input[type="submit"] {
+	background: none !important;
+	background-image:url(../../front/images/white-grad.png) !important;;
+	background-color:#fff!important;
+	border:1px solid#BBB!important;
+	border-radius:11px!important;
+	-webkit-border-radius:11px!important;
+	-moz-border-radius:11px!important;
+	
+	color:#464646!important;
+	cursor:pointer!important;
+	display:inline-block!important;
+	font-family:sans-serif!important;
+	font-size:12px!important;
+	font-style:normal!important;
+	font-variant:normal!important;
+	font-weight:400!important;
+	letter-spacing:normal!important;
+	line-height:13px!important;
+	margin:1px!important;
+	margin-top:5px!important;
+	outline:none!important;
+	padding:4px 8px!important;
+	text-align:center!important;
+	text-decoration:none!important;
+	text-indent:0!important;
+	text-shadow:#fff 0 1px 0!important;
+	text-transform:none!important
+}

@@ -1,0 +1,16 @@
+User-agent: *
+
+Allow: /
+
+Disallow: /cto2/
+Disallow: /product/
+Disallow: /page/
+Disallow: /users/registration/
+Disallow: /search-result.php
+
+User-agent: dotbot 
+Disallow: /
+
+
+User-agent: Googlebot-Image
+Disallow: /

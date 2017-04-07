@@ -1,0 +1,1666 @@
+[12/11/2012 4:07 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+txn_type=subscr_signup, subscr_id=I-39EXUHRX9CXF, last_name=Samanta, residence_country=US, mc_currency=USD, item_name=CTOsOnTheMove - Subscription, business=ananga_1275462143_biz@gmail.com, amount3=97.00, recurring=1, address_street=1 Main St, verify_sign=Abu8MqZSsBiVnxJaA0UDWFcYh9C1AzLsYryfa4TdvAIL7PcdtGmEdMT1, payer_status=verified, test_ipn=1, payer_email=ananga_1275896260_per@gmail.com, address_status=confirmed, first_name=Ananga, receiver_email=ananga_1275462143_biz@gmail.com, address_country_code=US, payer_id=4XYC83KSSPYSG, address_city=San Jose, reattempt=1, address_state=CA, subscr_date=03:06:40 Dec 11, 2012 PST, address_zip=95131, charset=windows-1252, notify_version=3.7, period3=1 M, address_country=United States, mc_amount3=97.00, address_name=Ananga Samanta, ipn_track_id=7463277442a34, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[12/11/2012 4:07 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=97.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=4XYC83KSSPYSG, address_street=1 Main St, payment_date=03:06:46 Dec 11, 2012 PST, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=Ananga, mc_fee=3.11, address_country_code=US, address_name=Ananga Samanta, notify_version=3.7, subscr_id=I-39EXUHRX9CXF, payer_status=verified, business=ananga_1275462143_biz@gmail.com, address_country=United States, address_city=San Jose, verify_sign=Ab0ImuatfZWFuWJKlUTi9S6trWw6ASFkYa4RUW7c8epMr2DjecCZusLj, payer_email=ananga_1275896260_per@gmail.com, txn_id=5A6386424G4821626, payment_type=instant, last_name=Samanta, address_state=CA, receiver_email=ananga_1275462143_biz@gmail.com, payment_fee=3.11, receiver_id=VBY9KVYU7NR88, pending_reason=paymentreview, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, test_ipn=1, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=97.00, ipn_track_id=7463277442a34, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[12/11/2012 4:17 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=97.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=4XYC83KSSPYSG, address_street=1 Main St, payment_date=03:16:50 Dec 11, 2012 PST, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=Ananga, mc_fee=3.11, address_country_code=US, address_name=Ananga Samanta, notify_version=3.7, subscr_id=I-V90F7W1VMDLV, payer_status=verified, business=ananga_1275462143_biz@gmail.com, address_country=United States, address_city=San Jose, verify_sign=AdZ5phDNYPcOnjfDeHw7ItVViqVKA-37PgUKS4z3JwwGEsJ1svdi4Nq6, payer_email=ananga_1275896260_per@gmail.com, txn_id=1UE35024F1434645J, payment_type=instant, last_name=Samanta, address_state=CA, receiver_email=ananga_1275462143_biz@gmail.com, payment_fee=3.11, receiver_id=VBY9KVYU7NR88, pending_reason=paymentreview, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, test_ipn=1, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=97.00, ipn_track_id=766f98c8cb5a, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[12/11/2012 4:17 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+txn_type=subscr_signup, subscr_id=I-V90F7W1VMDLV, last_name=Samanta, residence_country=US, mc_currency=USD, item_name=CTOsOnTheMove - Subscription, business=ananga_1275462143_biz@gmail.com, amount3=97.00, recurring=1, address_street=1 Main St, verify_sign=AmD51riCEGdWmUwiggP.jC70WrnIAMGSAuO2Bxx3uud34HmgeL2RYWkB, payer_status=verified, test_ipn=1, payer_email=ananga_1275896260_per@gmail.com, address_status=confirmed, first_name=Ananga, receiver_email=ananga_1275462143_biz@gmail.com, address_country_code=US, payer_id=4XYC83KSSPYSG, address_city=San Jose, reattempt=1, address_state=CA, subscr_date=03:16:44 Dec 11, 2012 PST, address_zip=95131, charset=windows-1252, notify_version=3.7, period3=1 M, address_country=United States, mc_amount3=97.00, address_name=Ananga Samanta, ipn_track_id=766f98c8cb5a, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[12/11/2012 4:25 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+txn_type=subscr_cancel, subscr_id=I-39EXUHRX9CXF, last_name=Samanta, residence_country=US, mc_currency=USD, item_name=CTOsOnTheMove - Subscription, business=ananga_1275462143_biz@gmail.com, amount3=97.00, recurring=1, address_street=1 Main St, verify_sign=AvpChUsBUopi.Aq6UChzPesxXpXTAsnWfDMAX6BPeBrPpMCZhzNKTvi-, payer_status=verified, test_ipn=1, payer_email=ananga_1275896260_per@gmail.com, address_status=confirmed, first_name=Ananga, receiver_email=ananga_1275462143_biz@gmail.com, address_country_code=US, payer_id=4XYC83KSSPYSG, address_city=San Jose, reattempt=1, address_state=CA, subscr_date=03:22:33 Dec 11, 2012 PST, address_zip=95131, charset=windows-1252, notify_version=3.7, period3=1 M, address_country=United States, mc_amount3=97.00, address_name=Ananga Samanta, ipn_track_id=58e0733d24315, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[01/11/2013 6:48 PM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+txn_type=subscr_eot, subscr_id=I-39EXUHRX9CXF, last_name=Samanta, residence_country=US, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, business=ananga_1275462143_biz@gmail.com, verify_sign=AV8IJJxA7InJxzcNe.zaNd897MfXARIOdjVF7gAGZGdmH3r.0TCRn4Tv, payer_status=verified, test_ipn=1, payer_email=ananga_1275896260_per@gmail.com, first_name=Ananga, receiver_email=ananga_1275462143_biz@gmail.com, payer_id=4XYC83KSSPYSG, charset=windows-1252, notify_version=3.7, ipn_track_id=e39e4ee823e5b, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Sat, 12 Jan 2013 01:48:17 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=IfNbFxPuUFKhLow6VPjSdTjF35qzWFFULKhQ4YKB0ljAgMvbf_7qmlHobxPSI8OA1ZTfphU5xbnp4l1U5bls41OsOGbvBjSSvwnjKye4Jeu5f50vjff39TW1Bv-VIPnMF2hABW%7cB--j2byW_qUQ6RunvqYr8_m3ICnfAS30RSepKEXNtJJe4aJA5Lhnr3szXR7-g77gCXymlm%7cXfIfWgBdGSVEzSJTdCVATJhUj9zzzJuSGXK1fIxJfqS_kVbyRU5jIUJJgO8iCot6krwzoW%7c1357955297; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 10-Jan-2023 01:48:17 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 07-Jan-2033 01:48:17 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1357955597~id=cookieiiuVWXUrf0WygqUiLuYGv/CZxYtxuH3Me0Ah8oyRMAI/3N2A81fnNkp3RRiVQ6SA+Lwk9f+WsRtevmdNijbticiZnDX0kV/1pbkMzUVJmYWynKENCPr387XlBhsdFGCU; expires=Sat, 12-Jan-2013 01:53:17 GMT; path=/; domain=.paypal.com
+
+INVALID
+
+[01/11/2013 6:48 PM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=97.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=4XYC83KSSPYSG, address_street=1 Main St, payment_date=17:47:10 Jan 11, 2013 PST, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=Ananga, mc_fee=3.11, address_country_code=US, address_name=Ananga Samanta, notify_version=3.7, subscr_id=I-V90F7W1VMDLV, payer_status=verified, business=ananga_1275462143_biz@gmail.com, address_country=United States, address_city=San Jose, verify_sign=AGgysvsOOqTAK6R-KKpAGnG8ou9bAkFmhkeBMfLxWFAfg13PVO6L3.8w, payer_email=ananga_1275896260_per@gmail.com, txn_id=41J742379J852601C, payment_type=instant, last_name=Samanta, address_state=CA, receiver_email=ananga_1275462143_biz@gmail.com, payment_fee=3.11, receiver_id=VBY9KVYU7NR88, pending_reason=paymentreview, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, test_ipn=1, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=97.00, ipn_track_id=6f00e2539a61d, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Sat, 12 Jan 2013 01:48:19 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=mThLtMhoimRd7sA7HXbYKUiqx3yGbvIsqj_0gWibNsAEzZblqET8LVaaB8KXJis6WnVKLJHSPKJVyjOa8HFW2uWta8WttxOVSbfyCnCSy6ioCwMy9wqSS_LD8jm%7clM1bud2u1Biu5luE_azYnFF_4a_PZFgwj81iOkcUwwOvU4LQN5N3THc-RxDwlcjLUMrfKm%7cY6QOH-tAztWx-861NboidNCSBY6PjcqD60waCvlTNfder7ks0B6YoPR8pfamQ_7ukietSm%7c1357955299; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 10-Jan-2023 01:48:19 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 07-Jan-2033 01:48:19 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1357955599~id=cookie04oGIZECdPn6r0kulAOx5jAMyM2HQqJusa8Q9ROKztiT2vsSdGXsBebV0XZF+FqR8vNHmxeYOdOfGzetuGSBIU9ka2UD9eK57CEFSbURlBKdmbLppA0dV3hSFxPa+es/; expires=Sat, 12-Jan-2013 01:53:19 GMT; path=/; domain=.paypal.com
+
+INVALID
+
+[02/11/2013 5:03 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=97.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=4XYC83KSSPYSG, address_street=1 Main St, payment_date=04:02:38 Feb 11, 2013 PST, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=Ananga, mc_fee=3.11, address_country_code=US, address_name=Ananga Samanta, notify_version=3.7, subscr_id=I-V90F7W1VMDLV, payer_status=verified, business=ananga_1275462143_biz@gmail.com, address_country=United States, address_city=San Jose, verify_sign=AGVCrKunUwZqAh7ORkFVvQgn7JHAAP65rxR1ThgGX5kPlkL2y.A6ZS76, payer_email=ananga_1275896260_per@gmail.com, txn_id=69G85927N5864294G, payment_type=instant, last_name=Samanta, address_state=CA, receiver_email=ananga_1275462143_biz@gmail.com, payment_fee=3.11, receiver_id=VBY9KVYU7NR88, pending_reason=paymentreview, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, test_ipn=1, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=97.00, ipn_track_id=b08e83c73c47e, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Mon, 11 Feb 2013 12:03:16 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=8jidWraWgk-6toy2FDvzhgQiOKLyVUTGsRgyliAtJM7EpsZ0WjEBlUHx3aD19X2fwmb-2akByTAdyb-VR5rrdPwLiaijQiJIEtDFBwdYF4AxDz5X-HtGHn_1_gRdxgLSNTWKDG%7cGFxSlq1ITA1rERuuTaIzTmKHpoTivrg_bNAAGQ1xH8A79GY8IExjQi01uUeBCfRYNn-qtG%7cQ21t8hoMqyMQKGKNCM4A92wBJmCOVIyrjUUgpyCW2wRAswhWLygka9N1dHfl6QSWK0CkZG%7c1360584196; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 09-Feb-2023 12:03:16 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 06-Feb-2033 12:03:16 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1360584496~id=cookiejSvQnXDqr18J2Zp65IZSqUfz07yoFRrkGmTS6kOCjVDkb0U/wFeuXhApUjPWT+Ei5E8rSNDWlyj1Ub8BAGXg30NXW0YSsg0BY+pSNqpSTsAK2v31m2Ih+Zw0y44Zw72h; expires=Mon, 11-Feb-2013 12:08:16 GMT; path=/; domain=.paypal.com
+
+INVALID
+
+[02/14/2013 2:57 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=7.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=4XYC83KSSPYSG, address_street=1 Main St, payment_date=01:57:27 Feb 14, 2013 PST, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=Ananga, mc_fee=0.50, address_country_code=US, address_name=Ananga Samanta, notify_version=3.7, subscr_id=I-V9030D1NLDLV, payer_status=verified, business=ananga_1275462143_biz@gmail.com, address_country=United States, address_city=San Jose, verify_sign=A48amsQ6-S9gm3eZXZgciQHbQIBSACltSquh0Wubo9f2dk0BusLDiwjH, payer_email=ananga_1275896260_per@gmail.com, txn_id=7R551838KA984061W, payment_type=instant, last_name=Samanta, address_state=CA, receiver_email=ananga_1275462143_biz@gmail.com, payment_fee=0.50, receiver_id=VBY9KVYU7NR88, pending_reason=paymentreview, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, test_ipn=1, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=7.00, ipn_track_id=d48aa93e2925f, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 14 Feb 2013 09:57:46 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=FUphRmtxSE5DtaV2HkGKqBqI7cO7q84ma4S9HZst194Iz6pAEllypV_DLBVSfrZKPxQvSL-ZSIAqzJG-psZZAIP0pMG0XCz-_AGMevJhyR06ADyUpf5eB67f7me%7cUw8csHQkG1VOrqf9gCP2eoQTWzSZOO0bq7hup932Vu5Icc1pA05yqlIM3rGrz6a20J_RRG%7crWrAOIL-TfJjeRyrPrDcxKC74VJp8u_eJxTPHu_XCdXKVNCVcaZjPy8S-RXP5rQE2FQTgW%7c1360835866; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 12-Feb-2023 09:57:46 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 09-Feb-2033 09:57:46 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1360836166~id=cookieEdah8riCMa9+ZkvNZc6zlKoGDi5iWXgI2INwSn4YN8+Ctu2Hyi1wBcHWWo5n+da8OSDDPgMma0GXU+hqoccZv/mix6qRAmcVG+KJBY7Yan782hmMFNPqcjNfAloX6WFv; expires=Thu, 14-Feb-2013 10:02:46 GMT; path=/; domain=.paypal.com
+
+INVALID
+
+[02/14/2013 2:58 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+amount1=7.00, amount3=97.00, address_status=confirmed, subscr_date=01:57:21 Feb 14, 2013 PST, payer_id=4XYC83KSSPYSG, address_street=1 Main St, mc_amount1=7.00, mc_amount3=97.00, charset=windows-1252, address_zip=95131, first_name=Ananga, reattempt=1, address_country_code=US, address_name=Ananga Samanta, notify_version=3.7, subscr_id=I-V9030D1NLDLV, payer_status=verified, business=ananga_1275462143_biz@gmail.com, address_country=United States, address_city=San Jose, verify_sign=AjbX1EO4P.UXkn875ht-TB9CBSqhARDhfps1CrgEDttc0M.yvkL-F81P, payer_email=ananga_1275896260_per@gmail.com, last_name=Samanta, address_state=CA, receiver_email=ananga_1275462143_biz@gmail.com, recurring=1, txn_type=subscr_signup, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, test_ipn=1, period1=1 M, period3=1 M, ipn_track_id=d48aa93e2925f, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 14 Feb 2013 09:58:00 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=0oz-vl4a5Nzx28_-o5hj1OpLGT_8-O4MdXqgcPhOHhrgn0piVOre1Fb3_IolS2rGUFlYbRK-hxj6VOsqQUmGQ1Om5BKGgeh5_1YUPt8nW4BHg1YYFOVfvlRfltb71wGrr6on80%7cSJMoZo6CQUp4wVl8apypXGzH_3tHsW9vG9c4sFg5O9yqFCVpvjowA377X2fM72CPqt9Hvm%7cSFkIiCPuQGJ6J2UQVCuq7tqaYwpuuNGzqAfmcUKETbCL8qBRi6chiCQ5_ILB3ybDscJx8m%7c1360835880; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 12-Feb-2023 09:58:00 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 09-Feb-2033 09:58:00 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1360836180~id=cookieBVCVJK+2jdrXW5AH7Yis+focZt2kmevI/kmEIcNeRlWzV07GCaAkniGCbIBxqX3wpHWVlGWjL1lO9W47Ztm0H9eKXle+GH3vieEH91lqMvurONgzx2o2ik+yFfJFq994; expires=Thu, 14-Feb-2013 10:03:00 GMT; path=/; domain=.paypal.com
+
+INVALID
+
+[02/14/2013 3:18 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+amount1=7.00, amount3=247.00, address_status=confirmed, subscr_date=02:17:33 Feb 14, 2013 PST, payer_id=4XYC83KSSPYSG, address_street=1 Main St, mc_amount1=7.00, mc_amount3=247.00, charset=windows-1252, address_zip=95131, first_name=Ananga, reattempt=1, address_country_code=US, address_name=Ananga Samanta, notify_version=3.7, subscr_id=I-PX80W7UGEJSA, payer_status=verified, business=ananga_1275462143_biz@gmail.com, address_country=United States, address_city=San Jose, verify_sign=A0NQ3iUW.DM9WqqgiVhRytX2kUF0AKbHvrQl4ADu9x1kjt8Dbncvcn99, payer_email=ananga_1275896260_per@gmail.com, last_name=Samanta, address_state=CA, receiver_email=ananga_1275462143_biz@gmail.com, recurring=1, txn_type=subscr_signup, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, test_ipn=1, period1=1 M, period3=1 M, ipn_track_id=2d10c4fcc6716, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 14 Feb 2013 10:18:17 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=TgxxJmA09zAXXI3TnhZfqyP0h18eoxxxdIbaAQYsbprZPo8y9Znowcs8YDQp42JsGuF6sSvnYv_AkQ2vtlWvjZgzLg82mJVMNHkWH3SAycDfLQZMe49svuHtS2fJCIsk_c43j0%7cxd6AOc4KGOBemJKfX3djx8wYou0Nx3gXbaOA6PTJNjABn5HNM4gpnruaVtYS9JbGUoIkQG%7ctsH2oK1PONRxi1qWgdXFyH-2z0bkT4GZoeZRZWolHjRuiKglIX8hts_9zSJYJfbOcCBacG%7c1360837097; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 12-Feb-2023 10:18:17 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 09-Feb-2033 10:18:17 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1360837397~id=cookiea4VvULGkgarlPO/ich34kepi1sLBuhUjpfk8S6FKfnIBWmt7wGbiVWP8YvrnlouvJ6IXPHgAXEQ0H9s2u1qdcXYo5Svy8/v8plQhRynfY3RjZFcj1QsfjpaNKSkcTtXl; expires=Thu, 14-Feb-2013 10:23:17 GMT; path=/; domain=.paypal.com
+
+INVALID
+
+[02/14/2013 3:18 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=7.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=4XYC83KSSPYSG, address_street=1 Main St, payment_date=02:17:38 Feb 14, 2013 PST, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=Ananga, mc_fee=0.50, address_country_code=US, address_name=Ananga Samanta, notify_version=3.7, subscr_id=I-PX80W7UGEJSA, payer_status=verified, business=ananga_1275462143_biz@gmail.com, address_country=United States, address_city=San Jose, verify_sign=ATSyb.XfyXLx5jYkpD8Me39fjrhQA6Sw2ZE1RPOBFciUmN59Nd6T-7Tu, payer_email=ananga_1275896260_per@gmail.com, txn_id=48V36175NA195913A, payment_type=instant, last_name=Samanta, address_state=CA, receiver_email=ananga_1275462143_biz@gmail.com, payment_fee=0.50, receiver_id=VBY9KVYU7NR88, pending_reason=paymentreview, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, test_ipn=1, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=7.00, ipn_track_id=2d10c4fcc6716, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 14 Feb 2013 10:18:22 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=YyxZxos3WhfE0ZsK3DsPgTJm7aU6XyjpmJwFQ4qazZqKpYYPcjQxBMa7botQT6cKY079XSdRbH14H9DnXGb5P23YKztnSy_t2Mr6sZrrX7G3pjdgZvr8zD2_faG%7cG7dUtS3hbRU1pk6mOTUPqlDcXQ0tun3zbKs7Jb20MWfXhenx24M8V3h3eHA3VfkPHtyGPW%7cy-MIjLrjA8hvY5F_TP0C1AWgSdlCabXZ668qxr6ojrELmpLrL-pHFK69yB541zvlSqKOam%7c1360837102; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 12-Feb-2023 10:18:22 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 09-Feb-2033 10:18:22 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1360837402~id=cookieVqmaUyRGlAT2/oiLHfvknWgH5GIuz/C2UXc8xa9Z/gSc5iVFsAGzaQcs75akWhv/9vizGJ2MJhHNb4pJUGZiF5RXmvYgz2bTdrSgGQwq33ChuXIt06hvv47Y9/YVW01e; expires=Thu, 14-Feb-2013 10:23:22 GMT; path=/; domain=.paypal.com
+
+INVALID
+
+[02/14/2013 4:11 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=7.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=4XYC83KSSPYSG, address_street=1 Main St, payment_date=03:10:25 Feb 14, 2013 PST, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=Ananga, mc_fee=0.50, address_country_code=US, address_name=Ananga Samanta, notify_version=3.7, subscr_id=I-G1FYVR4BJ5TD, payer_status=verified, business=ananga_1275462143_biz@gmail.com, address_country=United States, address_city=San Jose, verify_sign=AnUwOU7C62NJR0ps9gDU-qlyPuA8ApNuHnLjfUo68OYBWAbovTvomDNO, payer_email=ananga_1275896260_per@gmail.com, txn_id=7N3771313B7587327, payment_type=instant, last_name=Samanta, address_state=CA, receiver_email=ananga_1275462143_biz@gmail.com, payment_fee=0.50, receiver_id=VBY9KVYU7NR88, pending_reason=paymentreview, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, test_ipn=1, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=7.00, ipn_track_id=cc6729ab5192, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 14 Feb 2013 11:11:19 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=KvlEfd9LAPzjCBi5paEgPLG2YD3p3mIqFzcwJwhne1j5IgHXUrJ8rp9br683ZNtUZ-H1g-BM-Y-M9CUFMdqeB5TfaAiC8siYzVDrdfCK1hJOknKJX3hvZRrEWrRKFfU4TI0WRW%7cDqReJdX5ISQx8Bk_eA7jObl-6ynZ88A9wyDeS-1nyWhQQarwX8zFNC8LAEfBQaSqtB6Omm%7c1GHNVG9enqN5-35Arl2xq3kDSQsRZ616-iC08w9cFky5Ph1VUFD7KGX4h-m8iIbU283zVG%7c1360840279; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 12-Feb-2023 11:11:19 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 09-Feb-2033 11:11:19 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1360840579~id=cookie6B3GXuU+o2b/ir7WYspG1X6Q3V2llD3V6B7pLQ/1PApoN6g0I6GZTa+yf9CWdU8YNY8zxODjiGn+Fpkv/aY77F6VQZFNu0NEYCpn7aGMSHC8dQIzfXoi8hqJd3nf9924; expires=Thu, 14-Feb-2013 11:16:19 GMT; path=/; domain=.paypal.com
+
+INVALID
+
+[02/14/2013 4:11 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+amount1=7.00, amount3=157.00, address_status=confirmed, subscr_date=03:10:20 Feb 14, 2013 PST, payer_id=4XYC83KSSPYSG, address_street=1 Main St, mc_amount1=7.00, mc_amount3=157.00, charset=windows-1252, address_zip=95131, first_name=Ananga, reattempt=1, address_country_code=US, address_name=Ananga Samanta, notify_version=3.7, subscr_id=I-G1FYVR4BJ5TD, payer_status=verified, business=ananga_1275462143_biz@gmail.com, address_country=United States, address_city=San Jose, verify_sign=Al11WZ12ygW2Lxl4Avq5VWAY18waAGbvu9hj6YMEZNsd-m7qxso6t2-c, payer_email=ananga_1275896260_per@gmail.com, last_name=Samanta, address_state=CA, receiver_email=ananga_1275462143_biz@gmail.com, recurring=1, txn_type=subscr_signup, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, test_ipn=1, period1=1 M, period3=1 M, ipn_track_id=cc6729ab5192, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 14 Feb 2013 11:11:20 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=LB1likwMMk5sJfU1Hi6EzcK01qFjFhdPEi3AQ7wi5Xbbi1IedHvbROriitYk4ECFw2ox7lHXfrz2LLoPCHF3aEK-Gy2TRYLiD8-Gasb6VUqJwSbTDvwrnlJxwjamG_ZRaRnko0%7c2DtJMiTOqaTwI5QYlEZzAl7Couk-Hf9qAJ42W8wqXa-DgV8GyNQmZJ-BKXvQMMOhHidPZW%7cT71DrVjBR15qCCT1opAgRCKXQAWRwHbtyiFe2BLsN_K63wcse7MSlapDGywG8PEwtW9evm%7c1360840280; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 12-Feb-2023 11:11:20 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 09-Feb-2033 11:11:20 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1360840580~id=cookieqLlqDaQnDEHFrckVDbMcqaT8jCpja/cREdBTX3uQjy90gIPGhXurwXZY8B8+62qFrX/gE/i3FnOHI4Zt847hjnCojr2JuqdNTXppFKA3ZI5jC0gyILYRKAt2PXXfLcq+; expires=Thu, 14-Feb-2013 11:16:20 GMT; path=/; domain=.paypal.com
+
+INVALID
+
+[02/14/2013 4:46 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=5.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=4XYC83KSSPYSG, address_street=1 Main St, payment_date=03:46:29 Feb 14, 2013 PST, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=Ananga, mc_fee=0.45, address_country_code=US, address_name=Ananga Samanta, notify_version=3.7, subscr_id=I-8X8AFJV2YYHL, payer_status=verified, business=ananga_1275462143_biz@gmail.com, address_country=United States, address_city=San Jose, verify_sign=A7QbDfpcJaoNp-RS1BGXqOoCcVpvAVo17SwnvAdg0jyzkEUAHCQ5AoTx, payer_email=ananga_1275896260_per@gmail.com, txn_id=5G0533980G625502L, payment_type=instant, last_name=Samanta, address_state=CA, receiver_email=ananga_1275462143_biz@gmail.com, payment_fee=0.45, receiver_id=VBY9KVYU7NR88, pending_reason=paymentreview, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, test_ipn=1, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=5.00, ipn_track_id=470bcc63cdd31, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 14 Feb 2013 11:46:47 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=2bPeoWUBLYdlBZntE-FncpHDQwFvyQ8u9Lyg9fET8Xm2ySQ--d4e9PcSpcRLdWd0RF7EhmNeFoUrzS2KdccpkuJUUTP2Qq31tmN1kSPRzbDUeKBDh5jx3MJT9Q0%7cuGa-DULZooEnMKrLBb6ZJOfC5f-88-fFuXnQwvAEoYmlEzSrhWy3x1yVfttKfIQaNvS24W%7c_jpf2jSEDKlYUL8BQhvI3LnzhdbrF4pRaHJMTbHk26zGVVxGjeA697mbdUhvilnuSZrip0%7c1360842407; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 12-Feb-2023 11:46:47 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 09-Feb-2033 11:46:47 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1360842707~id=cookie1h0rNh4DI0mi8i3OiTEgkUjLr8gestFwKMcGYw/Vv54Gcoc/4+o2wgS60lZ2LzcwXd6VcUO/WY8r6He63WfXq70OS1HhQEvJVPkjg+lk1vojUlI43j4b0an6JY8Bi9Kx; expires=Thu, 14-Feb-2013 11:51:47 GMT; path=/; domain=.paypal.com
+
+INVALID
+
+[02/14/2013 4:47 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+amount1=5.00, amount3=97.00, address_status=confirmed, subscr_date=03:46:22 Feb 14, 2013 PST, payer_id=4XYC83KSSPYSG, address_street=1 Main St, mc_amount1=5.00, mc_amount3=97.00, charset=windows-1252, address_zip=95131, first_name=Ananga, reattempt=1, address_country_code=US, address_name=Ananga Samanta, notify_version=3.7, subscr_id=I-8X8AFJV2YYHL, payer_status=verified, business=ananga_1275462143_biz@gmail.com, address_country=United States, address_city=San Jose, verify_sign=AED3h87IAls17eOex1jfiMOGoqRNA2oc3MfbLDC5lfzKknWDwTou9AFu, payer_email=ananga_1275896260_per@gmail.com, last_name=Samanta, address_state=CA, receiver_email=ananga_1275462143_biz@gmail.com, recurring=1, txn_type=subscr_signup, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, test_ipn=1, period1=1 M, period3=1 M, ipn_track_id=470bcc63cdd31, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 14 Feb 2013 11:47:20 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=BLYUVKuZpCOlHMVPXxrAlKDAXLSuxn7O4rL91sKFmMj4FwZWZLzuEOXRirf4u9D6SdXnIQfsqyzD7o0FqnJDuEovj2J63plW2mjtQqDTC7vPwVNURN_NIQkUjooLoB0J_ub4tm%7cViT2vk-HsPUoR1N8rfyjpNVnopIZLe3-Bo_88lAHJ1h8pPF5s2B420HcbPwSucbDWaaK60%7cPgmE8EOYQTMSbVC7XzgzAs-23ADfiIuMai5AleWPw1rD_sqK4UFj6vAkLV8ali5ue-V7-m%7c1360842440; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 12-Feb-2023 11:47:20 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 09-Feb-2033 11:47:20 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1360842740~id=cookieKEBWmtUDaArqUSaWFgBUjHN+IcWKy9/nhDq6DlAzd0TZQC2+HxpCJY2wXy2f34xJkYzMjTtjh3eHLkCI+5dM70/Ls5NPY9KkEolQ+y5sQarToaqBIFMGZ3d6qdPpjCZJ; expires=Thu, 14-Feb-2013 11:52:20 GMT; path=/; domain=.paypal.com
+
+INVALID
+
+[02/14/2013 4:55 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+amount1=5.00, amount3=157.00, address_status=confirmed, subscr_date=03:54:02 Feb 14, 2013 PST, payer_id=4XYC83KSSPYSG, address_street=1 Main St, mc_amount1=5.00, mc_amount3=157.00, charset=windows-1252, address_zip=95131, first_name=Ananga, reattempt=1, address_country_code=US, address_name=Ananga Samanta, notify_version=3.7, subscr_id=I-M10D5GBDLD55, payer_status=verified, business=ananga_1275462143_biz@gmail.com, address_country=United States, address_city=San Jose, verify_sign=Aup2dri4jY8B9eZ6pvEirDM0OtHzAcMDTxGsKjrF5gfiC-CZOe05oWou, payer_email=ananga_1275896260_per@gmail.com, last_name=Samanta, address_state=CA, receiver_email=ananga_1275462143_biz@gmail.com, recurring=1, txn_type=subscr_signup, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, test_ipn=1, period1=1 M, period3=1 M, ipn_track_id=41f839887701d, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 14 Feb 2013 11:55:18 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=17P5EZTWL37eShdFblVdTXqfd5tIZ7c5aK0Df4VSGj0DGak39xX-RAHdbl0L4MJFszQ8c_6rwxxb1xkyXXxUebUZuzz8Uz5ozaZyDSGja4giTbVJGDgD1JksAQW%7cJddhF08G6Ou7Y2Ix6v9JDbWJSVEWNHrI42Si8DJTAKqFBGrdEP3tnV8OwdTTkVhct5E0WG%7cgh5gWZZVJJTbl8x1itCCw11jIGATiA_BtmS459fzSDm0MQvCUDY0l8Zoq3jEyE_8rKUzHm%7c1360842918; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 12-Feb-2023 11:55:18 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 09-Feb-2033 11:55:18 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1360843218~id=cookieXXJl2sYTzjArqtBJzJG/dBSA20Yv6hKoVMJtmyNGt3pugfOlbDdg87eabcwW/T9vhAyzT/k53PPaTtmX/xpX9tqvT/FQZSzqI8oZgAstnbp7logxhUIsjeGCTy+VGYgH; expires=Thu, 14-Feb-2013 12:00:18 GMT; path=/; domain=.paypal.com
+
+INVALID
+
+[02/14/2013 4:55 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=5.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=4XYC83KSSPYSG, address_street=1 Main St, payment_date=03:54:08 Feb 14, 2013 PST, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=Ananga, mc_fee=0.45, address_country_code=US, address_name=Ananga Samanta, notify_version=3.7, subscr_id=I-M10D5GBDLD55, payer_status=verified, business=ananga_1275462143_biz@gmail.com, address_country=United States, address_city=San Jose, verify_sign=AjEYnmINk4Xuguup1fJTVC2Iqk53Azq1SUXI8a7x3vKSQg1s.IEcbkP7, payer_email=ananga_1275896260_per@gmail.com, txn_id=1P050728L1874560F, payment_type=instant, last_name=Samanta, address_state=CA, receiver_email=ananga_1275462143_biz@gmail.com, payment_fee=0.45, receiver_id=VBY9KVYU7NR88, pending_reason=paymentreview, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, test_ipn=1, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=5.00, ipn_track_id=41f839887701d, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 14 Feb 2013 11:55:22 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=eoUCPvvd-iAyN4R5Ye-ut85mgU09OMtl_oTn_APSBeVq5CNOLen9N1C9TzU-3YH-SnfRy9ah5kYFEJZQeDA6ELI3SJawzCLZC-EVCgmmV_SK1Ql2pQoTjDJiFpXERV5tZeb8lG%7cXp0g-U4WENCa2oDL9banso0lhMKnZRYLTqoZ9pfxpmALhYQZnPXpL4HfjSINDFK3nsoOWm%7c51q4Bm8malaPbIAQpNF-2Yc7QTVPq6P0pOvNP-xIuEx8EyRlGx12Kn8YOyUn29XYIcyjV0%7c1360842922; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 12-Feb-2023 11:55:22 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 09-Feb-2033 11:55:22 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1360843222~id=cookie7GDxRqiaa77fXk6evPmFfHexLUFgJ/GF1gkuP0jX/gE9dTkna/0u63N9+ib/1mYU1apDzrEZzGLHH7U7z7lX7taLPzMstjr/IoGS4LimkeL/mtlFsLQH0m9Qgw+hQJyU; expires=Thu, 14-Feb-2013 12:00:22 GMT; path=/; domain=.paypal.com
+
+INVALID
+
+[02/14/2013 5:05 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+amount1=5.00, amount3=157.00, address_status=confirmed, subscr_date=04:04:25 Feb 14, 2013 PST, payer_id=4XYC83KSSPYSG, address_street=1 Main St, mc_amount1=5.00, mc_amount3=157.00, charset=windows-1252, address_zip=95131, first_name=Ananga, reattempt=1, address_country_code=US, address_name=Ananga Samanta, notify_version=3.7, subscr_id=I-M10D5GBDLD55, payer_status=verified, business=ananga_1275462143_biz@gmail.com, address_country=United States, address_city=San Jose, verify_sign=A8qVpkUg71.vX4PENzfboMJY5uZ7APfMqFK0xMlvMosQkWMK5FmWw-k0, payer_email=ananga_1275896260_per@gmail.com, last_name=Samanta, address_state=CA, receiver_email=ananga_1275462143_biz@gmail.com, recurring=1, txn_type=subscr_cancel, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, test_ipn=1, period1=1 M, period3=1 M, ipn_track_id=4eef878b33bc3, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 14 Feb 2013 12:05:17 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=hnumdXNgBoXCarUngPMex12_80iy73Vr--n2lJOQff0Dkvz4ynfaz8bGOAyVhjB5QHOtgh65862GmRacnHXysuX-c-prSkbhZ7mRlhJd6uDHnPQGI8xD6rNXKjEtfK37gLS0bW%7cgSJCvF1ygtV27wgRAF3ZgknRmzKu8z4uVJcGSgxfZ-SH6S6hd9H5JSj-5gM4pdBIoGz8lm%7cZhVnu9t5IG4zhqE9syOuvL1Qx2Yiz2-GUvQViKVaIBhuaMnmqN4mQ-vsxgh38u56x59uKG%7c1360843517; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 12-Feb-2023 12:05:17 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 09-Feb-2033 12:05:17 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1360843817~id=cookiekttWn3U2yIFVexp62omf8taU5ceDleWwLoaewrgw+mhkPfb5oQgczqByLNn89DxSYmeAy/2gNK1c2eHN5nFfmFyl1tHrRW3F168ybnb7d5j74/ibbdOeDPeQcMBe8lqc; expires=Thu, 14-Feb-2013 12:10:17 GMT; path=/; domain=.paypal.com
+
+INVALID
+
+[02/14/2013 5:06 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+amount1=5.00, amount3=97.00, address_status=confirmed, subscr_date=04:05:47 Feb 14, 2013 PST, payer_id=4XYC83KSSPYSG, address_street=1 Main St, mc_amount1=5.00, mc_amount3=97.00, charset=windows-1252, address_zip=95131, first_name=Ananga, reattempt=1, address_country_code=US, address_name=Ananga Samanta, notify_version=3.7, subscr_id=I-8X8AFJV2YYHL, payer_status=verified, business=ananga_1275462143_biz@gmail.com, address_country=United States, address_city=San Jose, verify_sign=AJxoj0MpI.0ous-onhruo3iPQ1XOAOHahe5eSBKQ0sLLfJkilvdWj02a, payer_email=ananga_1275896260_per@gmail.com, last_name=Samanta, address_state=CA, receiver_email=ananga_1275462143_biz@gmail.com, recurring=1, txn_type=subscr_cancel, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, test_ipn=1, period1=1 M, period3=1 M, ipn_track_id=29a5d0f451832, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 14 Feb 2013 12:06:21 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=DtqhAHNnjiuohm_HUsWifuxKBwNo-EpblY3kC6NYJ-AA10axXAWsdhDafCkof68oyrf4klyIfX_JIfmcG9cdUiJRUQmjebis6d4rIYcTzqF4EQCN4oOuGsuddHTgxUgjgzJvS0%7cQeZeX5kEIhsbqLJgG4w6cADbFXTFqQ7kxstoXvBUXs3xghi_-NdQXyqH7jE8W58bXS1Km0%7cSnhkf_mFqf7hWMy6wmxuAukc93s5B6rQpw3KiZhH9_6AV8kzHx_56RNt4_ARpd5iYIMQLm%7c1360843581; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 12-Feb-2023 12:06:21 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 09-Feb-2033 12:06:21 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1360843881~id=cookiehbU1wylx3E9R+dcvmI57qzY4LbDP5xdh/MLm2RLXIOAi5p+1/rd7pnk2eaUNTszExpolE1TFTmqLEErj3KiwYZ3gqjtK46Rz+t/1+i1H1HSBhr98qEIhYQQZ1u+NQ1wQ; expires=Thu, 14-Feb-2013 12:11:21 GMT; path=/; domain=.paypal.com
+
+INVALID
+
+[02/14/2013 5:07 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+amount1=7.00, amount3=157.00, address_status=confirmed, subscr_date=04:07:00 Feb 14, 2013 PST, payer_id=4XYC83KSSPYSG, address_street=1 Main St, mc_amount1=7.00, mc_amount3=157.00, charset=windows-1252, address_zip=95131, first_name=Ananga, reattempt=1, address_country_code=US, address_name=Ananga Samanta, notify_version=3.7, subscr_id=I-G1FYVR4BJ5TD, payer_status=verified, business=ananga_1275462143_biz@gmail.com, address_country=United States, address_city=San Jose, verify_sign=AWHQueyYlP7Tgh4KsFN86gAPCCEKAmdPAtM0YxlAqyB7XPsJ8fsLp4eM, payer_email=ananga_1275896260_per@gmail.com, last_name=Samanta, address_state=CA, receiver_email=ananga_1275462143_biz@gmail.com, recurring=1, txn_type=subscr_cancel, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, test_ipn=1, period1=1 M, period3=1 M, ipn_track_id=fe3763256cd91, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 14 Feb 2013 12:07:25 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=TFZq1Ha-Gxm0c4QocZ5QrVsmN-4dPy7yZFwy1PRyDExZmuGaWvfTBUnx3lSlTzivZHtWyPK5cNiDAQdXUt054XBPx1PsbCMj9OLxCgjIh90s0iSc10nLGU-vDyG%7cR1IP25pg5RNjFl_evqVIzVmXOwPheFajdtB7gxDg9bVbUUjtYJ1FT8IDLLaSeeqaMU512m%7cOkbvKEhsGlnTDJS4vDSW6LPOtor8IjzSHi6WBeoR0XBiyKBUqQESFU-NZOrNmbroP0dFAG%7c1360843645; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 12-Feb-2023 12:07:25 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 09-Feb-2033 12:07:25 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1360843945~id=cookiecc1Un2CngD6MuxLH+rYYrraSYnO9V6IprL4Axt2u3KsmMEWhGoEny+bcAvtmNRdM6p1R15bP8NM/kGsnmMxrctqNCZPgWOjKkoDBZiBXRS324UHdC5o7q5/DqC8jUl9N; expires=Thu, 14-Feb-2013 12:12:25 GMT; path=/; domain=.paypal.com
+
+INVALID
+
+[02/14/2013 5:09 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+amount1=7.00, amount3=97.00, address_status=confirmed, subscr_date=04:09:05 Feb 14, 2013 PST, payer_id=4XYC83KSSPYSG, address_street=1 Main St, mc_amount1=7.00, mc_amount3=97.00, charset=windows-1252, address_zip=95131, first_name=Ananga, reattempt=1, address_country_code=US, address_name=Ananga Samanta, notify_version=3.7, subscr_id=I-V9030D1NLDLV, payer_status=verified, business=ananga_1275462143_biz@gmail.com, address_country=United States, address_city=San Jose, verify_sign=A-YH6Bfg73Cg5UqoqQr-5iALUm0AArrkhj27QSc9CGSG6Ez-Wsb.Vyo., payer_email=ananga_1275896260_per@gmail.com, last_name=Samanta, address_state=CA, receiver_email=ananga_1275462143_biz@gmail.com, recurring=1, txn_type=subscr_cancel, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, test_ipn=1, period1=1 M, period3=1 M, ipn_track_id=9ec00d5efcf7, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 14 Feb 2013 12:09:26 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=hDtVsnjWGl3UHa8lMdRIW3zpLyLB6UCepqS7nwdnuoK-Xgb2trSwHYnxcNGRJ816dWoz1zk6iezv3qTklRfbdckxKRO30Xln0IShqe_bsw5lpWISWA9oA1a2A_y%7c-FrOAHtchPhBRrI-0UoXWU6cUBq0uI31O-C3hTg1NxutSemZ42t2EWmM_ZWtvRfnQrjM00%7cu26teYnSz8vO-D7Ep3RWOy7Iwj_pv7jUaVshfU2HjTCFxHuq_le6YSUR7a43LnQSG47oXm%7c1360843766; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 12-Feb-2023 12:09:26 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 09-Feb-2033 12:09:26 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1360844066~id=cookiec7Wb9VUKzeDoeEp4pPB+E+N2yWTkICYrxWPl0c3wOIBpOqkGwOpaNYVfN5cAiBrR96KBq0n8HoVpj7cdMeUPVYMCFG2Jl7NSD1kL81p1DcFNQvKWTkvaxtWKrKVM2MZF; expires=Thu, 14-Feb-2013 12:14:26 GMT; path=/; domain=.paypal.com
+
+INVALID
+
+[03/11/2013 3:50 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=97.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=4XYC83KSSPYSG, address_street=1 Main St, payment_date=03:49:50 Mar 11, 2013 PDT, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=Ananga, mc_fee=3.11, address_country_code=US, address_name=Ananga Samanta, notify_version=3.7, subscr_id=I-V90F7W1VMDLV, payer_status=verified, business=ananga_1275462143_biz@gmail.com, address_country=United States, address_city=San Jose, verify_sign=AFCzvk1ZmyYUv3IZ1VTn.b1tHVd1Aq.qP4zguLchE7KqU2kz-WeD8N9L, payer_email=ananga_1275896260_per@gmail.com, txn_id=3RS27026MV8036624, payment_type=instant, last_name=Samanta, address_state=CA, receiver_email=ananga_1275462143_biz@gmail.com, payment_fee=3.11, receiver_id=VBY9KVYU7NR88, pending_reason=paymentreview, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, test_ipn=1, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=97.00, ipn_track_id=69b4fe8425d05, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Mon, 11 Mar 2013 10:50:17 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=kUmNEwdVavDLXFDdj4UhwiT39VY6XKzKuMugVfMQIV58mwfKAMfGBJJ0Qwdw8VdTcB9zqveBt5Abk2vzZrNutPgSBco5O94gl_8blTL-eiVzpfATlWOP8WhZn1K%7cU9Q9iijvrzA7zKDRpQRyiwAGsEK09tDqcFr48IZpxVSVtvwbiS4zmXIESC3XwlJjOAgHCW%7c82eGCs6vyaDqRl1z8SMyOX6ox2DF8R-oqR_puWO7C2ofJbF5T1joUANmVyRBKGyZ9mLdf0%7c1362999017; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 09-Mar-2023 10:50:17 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 06-Mar-2033 10:50:17 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1362999317~id=cookieR3JKQtcfBGZg1yxQ0cdMxipg36RTtfQtMrYA4QCoi/c0d+AAa5uCriSdxaNfrVtzAkeellSn/Asc33a8MYnutKIlg5+mtHWxIbS/jQHdLpF3kTZC8PyqmzmuvTeIVVUF; expires=Mon, 11-Mar-2013 10:55:17 GMT; path=/; domain=.paypal.com
+
+INVALID
+
+[03/14/2013 3:55 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=247.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=4XYC83KSSPYSG, address_street=1 Main St, payment_date=03:55:15 Mar 14, 2013 PDT, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=Ananga, mc_fee=7.46, address_country_code=US, address_name=Ananga Samanta, notify_version=3.7, subscr_id=I-PX80W7UGEJSA, payer_status=verified, business=ananga_1275462143_biz@gmail.com, address_country=United States, address_city=San Jose, verify_sign=AhCKRNyrSuMhjBpHjDy2DH4OESJaA7sMrJjIM9IOjlRpEmVf4gBjiE1z, payer_email=ananga_1275896260_per@gmail.com, txn_id=6ET098596R725244C, payment_type=instant, last_name=Samanta, address_state=CA, receiver_email=ananga_1275462143_biz@gmail.com, payment_fee=7.46, receiver_id=VBY9KVYU7NR88, pending_reason=paymentreview, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, test_ipn=1, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=247.00, ipn_track_id=fc5576d19f61, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 14 Mar 2013 10:55:40 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=4iKvrUzDkQudeSzIMtTClXWraMaxVGYuxNt5OxzpEcloqQbcpw3QGDdWWe4couOVWvf_-2iKRQq7SlZqDOVxUnsuM-PsFj0Q0YviBd42IldDny1hhk2bphhjRvniVhB8CuxVG0%7culkfkHAf5KJVFEsBmrEKDuqGBB9bFqmAvqFQmVNwZH2mZmtqeOgUdRiurrHYNU-aOHBWn0%7chHWah-l_NveiXTYcp3m2BCOs1P5Hd2RlnYlcxtJ7RLi2G_aJX_mr7sXdFnJrXB0_ZcnzsG%7c1363258540; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 12-Mar-2023 10:55:40 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 09-Mar-2033 10:55:40 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1363258840~id=cookie/79K7w5YMQbY9iMWpcWpXK3GJyGBB8AZvSdJMtvQD0Arx/YJRYw2SPc3dTweVs2jfyhKcPsLXYJK9w0t68aPkc22fXJa2VcwbkHDpl0bNTjRTsvW3KphFCaNwEjp+h63; expires=Thu, 14-Mar-2013 11:00:40 GMT; path=/; domain=.paypal.com
+
+INVALID
+
+[03/14/2013 3:57 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+txn_type=subscr_eot, subscr_id=I-8X8AFJV2YYHL, last_name=Samanta, residence_country=US, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, business=ananga_1275462143_biz@gmail.com, verify_sign=ABFGwJ1gBnG2YOn0utoPxHOj0nKOAgmT8AkVc2mPPEHnx9sL8LI6UFyw, payer_status=verified, test_ipn=1, payer_email=ananga_1275896260_per@gmail.com, first_name=Ananga, receiver_email=ananga_1275462143_biz@gmail.com, payer_id=4XYC83KSSPYSG, charset=windows-1252, notify_version=3.7, ipn_track_id=edd1d0c02e9b9, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 14 Mar 2013 10:57:20 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=Op-28I059aBLy0qWZEJY0KyVeHNa42x2gT0RKn6M0HrJ14yACw3chfxYXKQyH8APLkdyfOeSghJZFzMffi1JQvv0jjY-i4exTlPbRyDAJ2WIgxHWx1WYnvTKW8fqDZKrUrZxEm%7cNV7rO6T3LaXdxjMEnc106e0PpvD3w5iEp1Ehx6Su3sopp6LqK-xWzao27TDDbAm5ocv6-m%7czWQOKjPhxTWg4Eo2nJkAbHjoqwjMg1iJlTClmfn-ekZ4WiNXrSBjqS7nGqqOiwUyPnlXIm%7c1363258640; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 12-Mar-2023 10:57:20 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 09-Mar-2033 10:57:20 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1363258940~id=cookieD85fwYzZLxMGE7I3KCi2PHpbQrW07JHwOQg7Yc+MKZxl+dLxOPU1FPxOmrG8Vmiol2jQtuJ/J8sMuLijKcFsCmbLYwoHobORCMA9DxaHFrNmE/qmR0YQPUUxBHT6FE5a; expires=Thu, 14-Mar-2013 11:02:20 GMT; path=/; domain=.paypal.com
+
+INVALID
+
+[03/14/2013 3:57 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+txn_type=subscr_eot, subscr_id=I-G1FYVR4BJ5TD, last_name=Samanta, residence_country=US, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, business=ananga_1275462143_biz@gmail.com, verify_sign=Aiffzi8JVt.jkB3hUlPS.h-0aww4ALVXNquPOAwB9VAHYeVNApQOfpmr, payer_status=verified, test_ipn=1, payer_email=ananga_1275896260_per@gmail.com, first_name=Ananga, receiver_email=ananga_1275462143_biz@gmail.com, payer_id=4XYC83KSSPYSG, charset=windows-1252, notify_version=3.7, ipn_track_id=d7b597aa81ebd, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 14 Mar 2013 10:57:20 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=azEvTDklxmcXfK3UknRbVhtDMQNsfCWjmUHJ7NcYa76FckuaCGidJBW580jw9_0rjFwWFkqBLjazrgwgR8PNQq67YAbBdRA2ccL-AtRJstfxMiEItab_05JXWYxclOd8QTAA-m%7c5iInowHZDx32lUE6qOge3KIFkWMEnhIog0EwEx74_ySvkuhVRYuWOMs91IKAsZUBl4MiMG%7c3T6KivQ1LFLIUz0Lgnrr0ZwhrLENVqERtHp2VwpTqmtS9YBVb48DIzudvkxK3EpupHGTvG%7c1363258640; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 12-Mar-2023 10:57:20 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 09-Mar-2033 10:57:20 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1363258940~id=cookie6SUzZ6JwU6kEFcaZVznpSOb3ZzwldUDKhuJnrEs+4d4TtuhXocGypc1NODOBwAy3zxcocG6q8p2/hRf5qPOXVFfMYUxSCH5EjMyecoMihkwoalbTk1tq+IYjMtwdU4wg; expires=Thu, 14-Mar-2013 11:02:20 GMT; path=/; domain=.paypal.com
+
+INVALID
+
+[03/14/2013 3:57 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+txn_type=subscr_eot, subscr_id=I-M10D5GBDLD55, last_name=Samanta, residence_country=US, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, business=ananga_1275462143_biz@gmail.com, verify_sign=A78d7D0b67jpnK6QtkdvErA-klqDAteazCl-L.5t3fRilR.C6sKdpTt-, payer_status=verified, test_ipn=1, payer_email=ananga_1275896260_per@gmail.com, first_name=Ananga, receiver_email=ananga_1275462143_biz@gmail.com, payer_id=4XYC83KSSPYSG, charset=windows-1252, notify_version=3.7, ipn_track_id=6bc6054ec70cb, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 14 Mar 2013 10:57:20 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=Kb0l-jo3pc1xbiIaDtxqY8zLxFNFS95e5dwgZtGwnS-yae5XtV0Q5ZE1i1GrTB3vVe5slEHPdn7TUqfXVk_ZG57Wkbc_0z_X1V-RYAyuD6OgiUUNbIRT9qSYvWS%7cemuY_JLXdcSSyq1Hl1ekDwHzcpivUhHGAWMd_sFsW_K5qXFqZTjkkw_EO8XRb2SQkeblKG%7chlwSZonZMXW2Q5zQx5sB0m2rxtPCWf0UocUO_EOCX8U9mO_zbeA2XBLguPO77CRfw0wLQ0%7c1363258640; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 12-Mar-2023 10:57:20 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 09-Mar-2033 10:57:20 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1363258940~id=cookieRT0WnJi6tOGVRv7gUh61r0Q9l6xWAL+4k32UBcFvMhNyuI4jHgRKPfAy7luP5HM+TOOjzrGU63HFrc/c323NLkh6B5/kVTJHzYdf87kmUx2J9MNsPvhhs6u1ODGRAfI5; expires=Thu, 14-Mar-2013 11:02:20 GMT; path=/; domain=.paypal.com
+
+INVALID
+
+[03/14/2013 3:58 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+txn_type=subscr_eot, subscr_id=I-V9030D1NLDLV, last_name=Samanta, residence_country=US, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, business=ananga_1275462143_biz@gmail.com, verify_sign=AwGGWJdQ8sf.mrUAU8F8q1luaiu8AmXQGa7jxiyXxQJdMDBOAuDp4rJn, payer_status=verified, test_ipn=1, payer_email=ananga_1275896260_per@gmail.com, first_name=Ananga, receiver_email=ananga_1275462143_biz@gmail.com, payer_id=4XYC83KSSPYSG, charset=windows-1252, notify_version=3.7, ipn_track_id=197fcae447106, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 14 Mar 2013 10:58:27 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=h9JaxqPRUtAO8IOQqWHHIr5d36YAvMF3U6LljXL2QGYR7rDXNRJOph3NVOH3Y8sRaYwoAh9lhBVOBngmVQP1ooUahwaWaF6HCNvuCTAWxGBZUcAMdgCIQYVm7MgH55jMTQgA1m%7cYSDHEzlGdBsl49_7Kc4KCoUdGuEbqymR6GvUyPu_sPEsx6EvNI8MCoVV_aqEFfLkJyeBw0%7cf0lt8VF_rlg5VHgpSSWtQyGma-Ga7C8kJGm_e90MW1XsMSPzTLeNgGxr2h4Y77wZc7FLVW%7c1363258706; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 12-Mar-2023 10:58:26 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 09-Mar-2033 10:58:26 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1363259007~id=cookiegQlubvG1uAGEXozF6BJiopj+RII63nkG4yFq28Egj+VE9L1rm6W5kS3ZOCESRw8yOGf7oxe6xPqObRbG1Q7T4YvEEXHfY2qzB2kLnpkC2A4/MYGPflAni3STKdFS6Rdi; expires=Thu, 14-Mar-2013 11:03:27 GMT; path=/; domain=.paypal.com
+
+INVALID
+
+[04/11/2013 3:28 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=97.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=4XYC83KSSPYSG, address_street=1 Main St, payment_date=03:27:38 Apr 11, 2013 PDT, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=Ananga, mc_fee=3.11, address_country_code=US, address_name=Ananga Samanta, notify_version=3.7, subscr_id=I-V90F7W1VMDLV, payer_status=verified, business=ananga_1275462143_biz@gmail.com, address_country=United States, address_city=San Jose, verify_sign=ARG6k3Z7e7XjpgS010mxTsKE1zVOAaWF0vGVpgSmZbOOxtfEh3aONst7, payer_email=ananga_1275896260_per@gmail.com, txn_id=52043954WG144470B, payment_type=instant, last_name=Samanta, address_state=CA, receiver_email=ananga_1275462143_biz@gmail.com, payment_fee=3.11, receiver_id=VBY9KVYU7NR88, pending_reason=paymentreview, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, test_ipn=1, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=97.00, ipn_track_id=3208486ec5fd1, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 11 Apr 2013 10:28:16 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=vGgJj785w4UgqimiYWBe_Le5AeRm7ArQyVrT4Ksu3Wu4kjHS5TQRDy4ROGyg-WjRZ6Jv_NdlVTNcTTmjyWU0YjCpRmAD5GAXfG2LGvgDYodc7N-rp7fzy1TFO8bIhSqbV7HNcG%7ctw_UeOutYxDmnMlpKeUlNDdBqCUUV77WjdZ6YDl-65kCkFin9ChKMghY7inpv5AgulxxTm%7cA7Cmv1wmqj9kKtjFyPOpEtebDer8t8RsSdz_zdMIPWznicu9jZeoflbVoct-NkOAJloTRm%7c1365676096; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 09-Apr-2023 10:28:16 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 06-Apr-2033 10:28:16 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1365676396~id=cookieictBhjc9tcmpIu1Ov9Qtsz1qsH8EMnmbPQneRtlU5ImtVtQ/gy2pcyZ2Q784uCYH4zof6MdWqc7WeV+4e7dh7Ad9ydgjXnIGIxb8REZeap5DUmsl6jj5F2QqZ/4w7Gyj; expires=Thu, 11-Apr-2013 10:33:16 GMT; path=/; domain=.paypal.com
+
+INVALID
+
+[04/14/2013 3:29 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=247.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=4XYC83KSSPYSG, address_street=1 Main St, payment_date=03:28:28 Apr 14, 2013 PDT, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=Ananga, mc_fee=7.46, address_country_code=US, address_name=Ananga Samanta, notify_version=3.7, subscr_id=I-PX80W7UGEJSA, payer_status=verified, business=ananga_1275462143_biz@gmail.com, address_country=United States, address_city=San Jose, verify_sign=Aqx5XwECFnrJizCguaIj21moFwnVANHFRxqvmYzgTBzanbSHpaP0GruO, payer_email=ananga_1275896260_per@gmail.com, txn_id=9U417784718163843, payment_type=instant, last_name=Samanta, address_state=CA, receiver_email=ananga_1275462143_biz@gmail.com, payment_fee=7.46, receiver_id=VBY9KVYU7NR88, pending_reason=paymentreview, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, test_ipn=1, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=247.00, ipn_track_id=7de7429bcfe6, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Sun, 14 Apr 2013 10:29:13 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=GwV-0S74qt3N_H8GzBJX3snzTyEkagHCmLmr3_vbifc8tG7KNL5u9LlPP1wLdeQBFzBM_kwYei8rZueQTwurwo7_-kszyo4APDFfL11cTsEyZDFj3qumg5lw_jcJR9wfLj564G%7c6m5l0QJxJJdfVmYrBKjVQ2pUNk6I_p4jOLjm2nB0IluqnQDHoj1E9O3_cap1gF_LNgXDem%7cCU5xojm0oecsw1gCXaRuS28vTjojjzi1VIxCeK1FT2Dn97Glpagm6oEcSxVLOSkO1KQzvW%7c1365935353; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 12-Apr-2023 10:29:13 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 09-Apr-2033 10:29:13 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1365935653~id=cookiexgLmr0W5CVa1bbeSUWBExM3qTQnMjHjQ4UGxNlKMOED4IsDaR0elvKV4Y+iLqJR3RH9/WK06W9LLPFVEan9PWicER2HsMyaANIq7Mje15asHxiAvRK8naNp6Cjrg75zH; expires=Sun, 14-Apr-2013 10:34:13 GMT; path=/; domain=.paypal.com
+
+INVALID
+
+[05/11/2013 3:32 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=97.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=4XYC83KSSPYSG, address_street=1 Main St, payment_date=03:31:19 May 11, 2013 PDT, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=Ananga, mc_fee=3.11, address_country_code=US, address_name=Ananga Samanta, notify_version=3.7, subscr_id=I-V90F7W1VMDLV, payer_status=verified, business=ananga_1275462143_biz@gmail.com, address_country=United States, address_city=San Jose, verify_sign=A-sBbmkXrgKc8BQ-PTHJXbX4SAbeAusVKLFCq0y0pKtjB6jlPAuXleAI, payer_email=ananga_1275896260_per@gmail.com, txn_id=2WM54119JG9269105, payment_type=instant, last_name=Samanta, address_state=CA, receiver_email=ananga_1275462143_biz@gmail.com, payment_fee=3.11, receiver_id=VBY9KVYU7NR88, pending_reason=paymentreview, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, test_ipn=1, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=97.00, ipn_track_id=d81647b08daff, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Sat, 11 May 2013 10:32:21 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=2y-jVrC-EkGHe7mS4W0VLd-4flTncPRTZtH-OzoeHN1bTPMAVwpCh8IgjvQL90tY6FNxhwowewulVn0tHR_3ddPI4xBOxiyqWcxVynZjXySK4rSDpwhDbf489AW%7cDYJf3BT75sHoQKQgYnSrpSRwhLgJw3do1UPIgDajkm3q8yQDBtXb-ep5qBRm1IsGRr2xam%7cQpqKjYocZB9HENTDbHZUKY0VxSN1MNNuJmsPDMGbcAfE2dZHeHVAW2aaVukuNzwF348E70%7c1368268341; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 09-May-2023 10:32:21 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 06-May-2033 10:32:21 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1368268641~id=cookie0J4hbHwhWGFPumAnFPmnA+lrRQitTiJVowxbGMOXdA5ieMhUqC1WnMzvcIoXbsLj4RGtUFwHP9hFSBcDEjKJMRQTJj4EgUOFDZQsCDRw2w4g6uzVfEAJ4BhDKLLmYdvq; expires=Sat, 11-May-2013 10:37:21 GMT; path=/; domain=.paypal.com
+
+INVALID
+
+[05/14/2013 3:35 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=247.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=4XYC83KSSPYSG, address_street=1 Main St, payment_date=03:35:36 May 14, 2013 PDT, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=Ananga, mc_fee=7.46, address_country_code=US, address_name=Ananga Samanta, notify_version=3.7, subscr_id=I-PX80W7UGEJSA, payer_status=verified, business=ananga_1275462143_biz@gmail.com, address_country=United States, address_city=San Jose, verify_sign=AuYA.1lR30KNS0a67KtRzdB16TShAuFoqLNfLL0HuGwIp26xAc0c9Fmr, payer_email=ananga_1275896260_per@gmail.com, txn_id=5A96809460210341S, payment_type=instant, last_name=Samanta, address_state=CA, receiver_email=ananga_1275462143_biz@gmail.com, payment_fee=7.46, receiver_id=VBY9KVYU7NR88, pending_reason=paymentreview, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, test_ipn=1, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=247.00, ipn_track_id=ac50f3b2158e, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Tue, 14 May 2013 10:35:56 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=FZRFbSS3AQ8f_ud-05YgKlZg_L6yUm4yD1VTrByBkvvSKLx_uClgEAWEUyPnA9x8v4kYQf7myNr-_VCZpDLcRwPWXfuTXDoGO5DhZyxzCy7lbwvglBH3YP7Xqbe%7chTpQjFmvCJ3vRLRJ1o9qM4hIFJlfKzWteVr0cv3p-p-geCgFp5wo1uX9KPbNCr4rb0gua0%7cMu94jX2SQ8ycXHHKtLnCmoSfFr9R6CbhXBm1NguJ4AmF-LzJX80MocWdcadVOjTqdrwn_W%7c1368527756; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 12-May-2023 10:35:56 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 09-May-2033 10:35:56 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1368528056~id=cookiesXysRzb83fxuIieZHmhDUmnP2qqT6hz7DHTaGBUaifWDQZe+i3SlUeAo2CGzyBBpkWF3V7+Fck1DyBlYI4NU5ftMzleq9hYH1SRh+pWcllixy6qiSCA1t+6y0yZoV8Mx; expires=Tue, 14-May-2013 10:40:56 GMT; path=/; domain=.paypal.com
+
+INVALID
+
+[06/11/2013 3:36 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=97.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=4XYC83KSSPYSG, address_street=1 Main St, payment_date=03:35:32 Jun 11, 2013 PDT, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=Ananga, mc_fee=3.11, address_country_code=US, address_name=Ananga Samanta, notify_version=3.7, subscr_id=I-V90F7W1VMDLV, payer_status=verified, business=ananga_1275462143_biz@gmail.com, address_country=United States, address_city=San Jose, verify_sign=AG2YD58e39bG5qnRffWqaQA6.dUbALiUKYXtHVj.ZVHj3hq30TzoisS8, payer_email=ananga_1275896260_per@gmail.com, txn_id=9Y727663AK0421734, payment_type=instant, last_name=Samanta, address_state=CA, receiver_email=ananga_1275462143_biz@gmail.com, payment_fee=3.11, receiver_id=VBY9KVYU7NR88, pending_reason=paymentreview, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, test_ipn=1, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=97.00, ipn_track_id=9290b8c672cc0, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Tue, 11 Jun 2013 10:36:17 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=PFVeeh2z5SX8iBH60nJ_tz6p_MBReEm3rbyS_uzy3UfDv-mCHIrl_F5VkPeu07O6G1-_r9_aDxqXq6v-1mSLYsCI0O-SVtJc298Dwt6UY6MMWZ3R_L1mNLJZkXxtxlbT2gC4r0%7cKihUAftPuIV1EyNA0P1dAVutKbs4TNHweviF-X7rzS8TAZ_PB5FmQBdee8Fp3GI0flOeBW%7cu76GnmaLUxTBBZq81r3saI1ORXeZkiTKFksk3niwedHA0bLRjdOrPsNMPoHU30QGZ5xLnW%7c1370946977; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 09-Jun-2023 10:36:17 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 06-Jun-2033 10:36:17 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1370947277~id=cookiebZpQqzlwqXZHmI9GxtbWcUrnuqomXaMvlQu74rzR+LPotU0QRk9JWbOKmT8VvtO0hwj7OTs4ZB8Bol8oaLbAnPr21aVaTDCVWVSeTJPeLYhu15dmwDktOLeRsquAjZXt; expires=Tue, 11-Jun-2013 10:41:17 GMT; path=/; domain=.paypal.com
+
+INVALID
+
+[06/13/2013 4:47 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=1.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=JAMGCGRSS6CY6, address_street=5560 Brentwood Drive, payment_date=04:46:56 Jun 13, 2013 PDT, payment_status=Completed, charset=windows-1252, address_zip=60192, first_name=Nepal, mc_fee=0.33, address_country_code=US, address_name=Nepal Patel, notify_version=3.7, subscr_id=S-3KB15577VK2707250, payer_status=verified, business=admin@ctosonthemove.com, address_country=United States, address_city=Hoffman Estates, verify_sign=AG9jBY0wvCfKcCrdlcsZmoJDPZkoAfYs5UXJCXqyvvCJUnCKr5qHYZ2G, payer_email=nepalp@ciosynergy.com, txn_id=7Y852190PC100904R, payment_type=instant, last_name=Patel, address_state=IL, receiver_email=admin@ctosonthemove.com, payment_fee=0.33, receiver_id=TGEXKYGNDNRGW, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=1.00, ipn_track_id=3001f867f3366, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 13 Jun 2013 11:47:13 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=ovgPY7zCurNx-N0ns59GnQGIZScoVuyBw-qq5_v-JWPSZwewSP4gWUjn50nk0u0-b6KCWfkpef_ouYBbHMzHKuEqkmnuF1jGzq_nft3l-FVbOOKQDjgOP_MBByYjmNMqHfL2vW%7cwj7C9HggWl5bIgiAKd6t-8JoONBgSiSlgXojsO2Dzo3B25_miRKbTQoVFn14FLHkPWw_-m%7cduTn_jJ8PhNN6Fb9frkLaAcW56NIyOKBtJJ98UBfdRsPQ5jCpYujJT6cDsbT3ZdDVORRk0%7c1371124033; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 11-Jun-2023 11:47:13 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 08-Jun-2033 11:47:13 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1371124333~id=cookieLpPSaY2mAkTFrSr2BUDqO1xJvGJCtSIILZ8l276YC53aK0HMp1cx95qVdeH5ruv724fZm7T+shOoOioMOHXrbVX3RV39HwzOI5ZDRMdP15c+gDXEjwojR58F/pPrUUbo; expires=Thu, 13-Jun-2013 11:52:13 GMT; path=/; domain=.paypal.com
+
+VERIFIED
+
+[06/13/2013 4:47 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+amount1=1.00, amount3=247.00, address_status=confirmed, subscr_date=04:46:55 Jun 13, 2013 PDT, payer_id=JAMGCGRSS6CY6, address_street=5560 Brentwood Drive, mc_amount1=1.00, mc_amount3=247.00, charset=windows-1252, address_zip=60192, first_name=Nepal, reattempt=1, address_country_code=US, address_name=Nepal Patel, notify_version=3.7, subscr_id=S-3KB15577VK2707250, payer_status=verified, business=admin@ctosonthemove.com, address_country=United States, address_city=Hoffman Estates, verify_sign=AgF3W662SAP.iSusUjODLanysF3OAAus7zpN-eU4pZkdO.YwFRhD5kLp, payer_email=nepalp@ciosynergy.com, last_name=Patel, address_state=IL, receiver_email=admin@ctosonthemove.com, recurring=1, txn_type=subscr_signup, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, period1=1 M, period3=1 M, ipn_track_id=3001f867f3366, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 13 Jun 2013 11:47:14 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=D11zmVE1IfGmHnclP8mX1kF8KcO3fCGLpcByN4ooAemBAJl94ypmn0192jXIE9QEqqqLltXFDKo_SQWVH2uUZSUracfiYYcZuLRTf9lzZKtUJoMX12oNIsHkLzffPp6ChJi3_0%7cnG6ZvH-x7pEbu2fpXxfPw0kvkQXHg01r0mlsJBl0P8hPaMn7n7wvRdHmBVEg2Qn_AwE79m%7c2qTIcoYxKLdgSs_Koj9jpmPPjf31G9ZUTtfeLRBtjP9mDFsD-3k6bXe6LXzjxVFROt5JWW%7c1371124034; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 11-Jun-2023 11:47:14 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 08-Jun-2033 11:47:14 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1371124334~id=cookie235M0iR+nzcUNY2XczpuZ97NtOON/YJxSDi4qnziY9WqzH4qNhTSt4IZn0uo+Xnixav2BSmsCTb+KNXpgQaf8EzsEGl8oWAvlk4/6eVXP6F85xM7a889gWbwKHYaO68/; expires=Thu, 13-Jun-2013 11:52:14 GMT; path=/; domain=.paypal.com
+
+VERIFIED
+
+[06/14/2013 3:45 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=247.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=4XYC83KSSPYSG, address_street=1 Main St, payment_date=03:45:18 Jun 14, 2013 PDT, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=Ananga, mc_fee=7.46, address_country_code=US, address_name=Ananga Samanta, notify_version=3.7, subscr_id=I-PX80W7UGEJSA, payer_status=verified, business=ananga_1275462143_biz@gmail.com, address_country=United States, address_city=San Jose, verify_sign=AhvO94LX804-9I2GRNtifbAwsUtXAJqbNsZdomybMA53rC8O2gyBk-3J, payer_email=ananga_1275896260_per@gmail.com, txn_id=8C3408101A382330W, payment_type=instant, last_name=Samanta, address_state=CA, receiver_email=ananga_1275462143_biz@gmail.com, payment_fee=7.46, receiver_id=VBY9KVYU7NR88, pending_reason=paymentreview, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, test_ipn=1, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=247.00, ipn_track_id=ef1fd2d5aef90, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 14 Jun 2013 10:45:41 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=bPPZoyd00SBSaS1bbwdz0TQ1fOEKX9ZUcYqBeXykjRKGxhiQq5J37UW4ipcFl4f846uBMQuA5mmIAFB80-4ENJlaFGcBMP_ZU_RJG12kPaUlHrWAZQ3Rreb6Gya%7cv9qqZ8w_Df2TmcKdZDzKoHMZBBPrOCPfPwxLnFWy2hDwkP0RNaHNgPMoN8QphsBXPBXGG0%7cTlfOZhivO6BRfFeFGR5IPORBSVTikLMLa-WTEdSDHpJAOv9W0GQ5bS_2mdRtwvQ77LVc50%7c1371206741; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 12-Jun-2023 10:45:41 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 09-Jun-2033 10:45:41 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1371207041~id=cookiegYLCUZUvvSKdLD3/znSG6FGTpYFH9lZLdjdlJf6QBPll0XRiQRyhzxHyrEdH31NQGzGG3LkWC9JdQXbVLEjOGLKxiz7AfbxwJlBBuVWgTUW+dn+0Ocd7E+ZGAJQo+93l; expires=Fri, 14-Jun-2013 10:50:41 GMT; path=/; domain=.paypal.com
+
+INVALID
+
+[07/11/2013 4:05 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=97.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=4XYC83KSSPYSG, address_street=1 Main St, payment_date=04:04:38 Jul 11, 2013 PDT, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=Ananga, mc_fee=3.11, address_country_code=US, address_name=Ananga Samanta, notify_version=3.7, subscr_id=I-V90F7W1VMDLV, payer_status=verified, business=ananga_1275462143_biz@gmail.com, address_country=United States, address_city=San Jose, verify_sign=Ajki9h13Fc5y0t4fzojPvan62c0VArL5koUi.0XqhoTM4oizIgOgu3Po, payer_email=ananga_1275896260_per@gmail.com, txn_id=7C308506CC186981V, payment_type=instant, last_name=Samanta, address_state=CA, receiver_email=ananga_1275462143_biz@gmail.com, payment_fee=3.11, receiver_id=VBY9KVYU7NR88, pending_reason=paymentreview, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, test_ipn=1, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=97.00, ipn_track_id=e3d2993dac50f, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 11 Jul 2013 11:05:01 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=SqRLRF0APdgPU-Jn6QeGjRa9UOzpgPNMU0mhjjaRmPbz_8NwI9oE7v9rtOUUKm_iLxLxcg10y7pj_tyL3u40vwZypBdeDHDxtC5Q0T-zrWohUAuRAjhOIsZp-xk9OTklqokkRm%7coV-OoCvUI7Tj4cR-_meJQGEBxepA_qgtE_PUMYfQ-fagqL8qCV3Ow0dHXnVjtvUsv3NxyW%7c0C3HDDTBQaa_W2RSU0VN4S_sBMgRcGjOHRcq1WwBKXMhd7sz0DiiSBFmVLXqOPsea3emvW%7c1373540701; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 09-Jul-2023 11:05:01 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 06-Jul-2033 11:05:01 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1373541001~id=cookie0uH0kqZ4hOdUOV+IPVVkIefVEzYVEW2axFRiumYbfhr8ZaQ0HgVUJp0YhlwFKqsZCoZcrHACOdcc8DQogYm4ZTKLe2rErCp4+m0CUzTroYMiK5YPwBxamXbXafdGeP8Q; expires=Thu, 11-Jul-2013 11:10:01 GMT; path=/; domain=.paypal.com
+
+INVALID
+
+[07/14/2013 3:50 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=247.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=4XYC83KSSPYSG, address_street=1 Main St, payment_date=03:50:10 Jul 14, 2013 PDT, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=Ananga, mc_fee=7.46, address_country_code=US, address_name=Ananga Samanta, notify_version=3.7, subscr_id=I-PX80W7UGEJSA, payer_status=verified, business=ananga_1275462143_biz@gmail.com, address_country=United States, address_city=San Jose, verify_sign=AwCSHNkP-2F9DbL6QGkrgMEPm2vRAqK22aXEurXZEFBL23eo5Yhus0dG, payer_email=ananga_1275896260_per@gmail.com, txn_id=5MK76854F2632183H, payment_type=instant, last_name=Samanta, address_state=CA, receiver_email=ananga_1275462143_biz@gmail.com, payment_fee=7.46, receiver_id=VBY9KVYU7NR88, pending_reason=paymentreview, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, test_ipn=1, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=247.00, ipn_track_id=cb9411bcee8a4, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Sun, 14 Jul 2013 10:50:30 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=fyCr7l2c3YzATWgueDai_V_-D0-OmTattf8FJFTST5mV4oGthxCaw1iRtJIMdZdy2K5OFB83oV-TQlOzebzPGn_8WeQxRnaSJ9jlyCGMJ1Le63G-u990rM3mNqTWrgbsvLpWG0%7cZzymemim2ZqaxmBM7dYB2D5gOPO9cpn2Fh43re9iEQZIzWpIaPBWMWtBACa68F9lhsDolW%7cOKuCqSVyjHiSXYO8ku2WtqE2Ugx1y4mBZXN8u334eC6K03aUIIJSm9PjYNS9OylHEzxuDW%7c1373799030; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 12-Jul-2023 10:50:30 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 09-Jul-2033 10:50:30 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1373799330~id=cookieip1muYyCddfxGRxM+emhodtGXGDP5hRFmXWYrzbv6sE3Ef8ycx9fexcKfHAkdvKlMpE1ez7KINcLPeovRWrnrmvc3wYYAmYi5b+Qev0GKW1dxS3dbPFrjRJ/WukVYRbW; expires=Sun, 14-Jul-2013 10:55:30 GMT; path=/; domain=.paypal.com
+
+INVALID
+
+[07/14/2013 4:03 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+txn_type=subscr_failed, subscr_id=S-3KB15577VK2707250, last_name=Patel, residence_country=US, item_name=CTOsOnTheMove - Subscription, payment_gross=247.00, mc_currency=USD, business=admin@ctosonthemove.com, verify_sign=AiK6qVnueCmq1qpsx9A.QT.rH25jAHaRVdulGZ0JUU4rf6rWmomYBl91, payer_status=verified, payer_email=nepalp@ciosynergy.com, first_name=Nepal, receiver_email=admin@ctosonthemove.com, payer_id=JAMGCGRSS6CY6, retry_at=04:03:33 Jul 17, 2013 PDT, mc_gross=247.00, charset=windows-1252, notify_version=3.7, ipn_track_id=8253f61d9307c, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Sun, 14 Jul 2013 11:03:54 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=SKgnpGeRJxaeWLqGlq7Nr6G9DSUHwOFRGfomz67P4l_CQMJae8VAdk0LqYE6qW-G8_YImMBJOCxwI5dzm6slXRJvosFc8i5my2v_xGJCH8wuXgalXT1XU6zbiiFY1XPvyzuvEW%7cjhaz8aSyxskPfGiujtdE6B1jep9RsxTL35FF68AGdDppmmYG19m1UIExrXZdB9KF5KwiCW%7cL93xozZ46NWvEveUp2_fPbjw7JRV-xHa28_RSBBGdxstV_SSh9S88UMAPpBm3m-8H6aT0G%7c1373799834; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 12-Jul-2023 11:03:54 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 09-Jul-2033 11:03:54 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1373800134~id=cookieXUG4VCsU9uKenkBIoeDvh5/0ebo8IMXpQ/XEUFJ8WUoRlVqOF9tTn6muaK0rPVD1sa+TgknLJQPOaH7UiD83Yl1RNnDDi6l0uwQKgYQkqn8XsALB6IvEIzJVASGfzNmF; expires=Sun, 14-Jul-2013 11:08:54 GMT; path=/; domain=.paypal.com
+
+VERIFIED
+
+[07/17/2013 6:25 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=247.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=JAMGCGRSS6CY6, address_street=5560 Brentwood Drive, payment_date=06:25:08 Jul 17, 2013 PDT, payment_status=Completed, charset=windows-1252, address_zip=60192, first_name=Nepal, mc_fee=6.48, address_country_code=US, address_name=Nepal Patel, notify_version=3.7, subscr_id=S-3KB15577VK2707250, payer_status=verified, business=admin@ctosonthemove.com, address_country=United States, address_city=Hoffman Estates, verify_sign=AnD4cUqkgA8q4fxc1OTa6As7ydzrAWg6WmPYT1lm00UxZfWh9rhjJt2v, payer_email=nepalp@ciosynergy.com, txn_id=8N270096WX103825F, payment_type=instant, last_name=Patel, address_state=IL, receiver_email=admin@ctosonthemove.com, payment_fee=6.48, receiver_id=TGEXKYGNDNRGW, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=247.00, ipn_track_id=f5e9988b6dfd, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 17 Jul 2013 13:25:25 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=FHmLNz9OczKECTg2fcl197YaSMVUGPQEr0QIhxCwg4sC0vICU4xIOAokkyQnZ5feGdIq4r03Gyxg96v8LCjZViFMJLr6YrIr-KH_KSc7zxP3pLYlk1T5b-fcq_S5VSzpNFvGAm%7cSyKGl5NLUczhc-BjUYoeJMSTc0F7l2gWhWiFeEUOYgapTt1-whwVtXCgUKp68oHl7Wsgy0%7c8Fa0nh9msr7wgMzmdfxkz8U-9s-ibV0lIZiFDVsAHKNGlu-ybAZHwbivw3gbE8N_aDO1nm%7c1374067525; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 15-Jul-2023 13:25:25 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Tue, 12-Jul-2033 13:25:25 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1374067825~id=cookie0axbI+WvQnXFxwtLezI/MI/idZVb+D7oIXWUYllholvv6h6oV4+LqqfepB7pOLxqbTdysQ7RJJfB26LM5puxaWm4SiNkLnfm2X+UYOPuIVtZh2kkr0cxo5IKEM8jJAHJ; expires=Wed, 17-Jul-2013 13:30:25 GMT; path=/; domain=.paypal.com
+
+VERIFIED
+
+[08/09/2013 4:27 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+amount1=1.00, amount3=100.00, address_status=confirmed, subscr_date=04:26:54 Aug 09, 2013 PDT, payer_id=ERCNSX6M54FZL, address_street=5101 Pulaski St, mc_amount1=1.00, mc_amount3=100.00, charset=windows-1252, address_zip=75247, first_name=Robert, reattempt=1, address_country_code=US, address_name=BCD Electro Inc, notify_version=3.7, subscr_id=S-3Y182732SJ9354900, payer_status=verified, business=admin@ctosonthemove.com, address_country=United States, address_city=Dallas, verify_sign=AGZMOEpse1q2WEcK3rgoT4C.cNxTAxiJnhvD3lmFo9lbKbdYiMfkF0fo, payer_email=ramaya@bcdelectro.com, payer_business_name=BCD Electro Inc, last_name=Harris, address_state=TX, receiver_email=admin@ctosonthemove.com, recurring=1, txn_type=subscr_signup, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, period1=1 M, period3=1 M, ipn_track_id=2b40181fdfd7b, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 09 Aug 2013 11:27:13 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=6xWHp0IP-6WjIww25ie-mOsiedCfNubo52tB50cVglNe7qHULSCNdTFziwJtWzXgVxktBq0rvLzU5UTMu2YmGu-Tb4wXsMCpwPiv4IhyQTt8N5reLKL7EfODE4V4TJl_d-dnAPpRThD30KbhXeMx56l5JKjquPZWEl4a_SQxqHM087L3BUq3USlBK9iNXSi-_EHLx7QkU3eVxh1GL-cI17F6qoCT2sjDufrjighGaf7TBZ6kW4RmDT2QDmXWWfgCHzWpWqn6a3rEBL33cwuBrGp_EkR7auErtcyTYBKhbQqQkGZc7CsaodQP_AHhTgufdnCvQz2g50dIpalQLNgzbpP0_g8rwcNjIChKtOB_wVmPUOFiil5YdSRcuFYxwr8cqiWAR3cv0L9hqkxTtRBCPmPgQmT_MHlMCIB-YGRZYZYKIOzEYBPKv17LNz0; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 07-Aug-2023 11:27:13 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 04-Aug-2033 11:27:13 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1376047933~id=cookieB8jwMFzYxIUHvjByUnJbpRFLcgJDD9nqxerrG9k0N5C1HR0Vi1yomy95CHfb4BudiWAI9AkUYXxN5EeSdBDDACqiaP9RDVxRivCTXtAGBi6TYRTTRX0v0ZAh2K2qsDWp; expires=Fri, 09-Aug-2013 11:32:13 GMT; path=/; domain=.paypal.com
+
+VERIFIED
+
+[08/09/2013 4:27 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=1.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=ERCNSX6M54FZL, address_street=5101 Pulaski St, payment_date=04:26:55 Aug 09, 2013 PDT, payment_status=Completed, charset=windows-1252, address_zip=75247, first_name=Robert, mc_fee=0.33, address_country_code=US, address_name=BCD Electro Inc, notify_version=3.7, subscr_id=S-3Y182732SJ9354900, payer_status=verified, business=admin@ctosonthemove.com, address_country=United States, address_city=Dallas, verify_sign=AOC79YVHaDZRnlcMe4v9AkUP6HQWAH2gQX-irJpJ9YlvGKAtu6v.jCVR, payer_email=ramaya@bcdelectro.com, txn_id=41V33825D3206154H, payment_type=instant, payer_business_name=BCD Electro Inc, last_name=Harris, address_state=TX, receiver_email=admin@ctosonthemove.com, payment_fee=0.33, receiver_id=TGEXKYGNDNRGW, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=1.00, ipn_track_id=2b40181fdfd7b, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 09 Aug 2013 11:27:14 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=nqzXu4JJvCHhJ7LdZgJssX2UX_lEEetT0l5kwx6d3HQVDJEu0gDBo7tBMYJZGkdydicxw652Fw4RcW3hA9eGdA4lquufKJ_ufkvWLL8BtCiMbobUcbiZb2jxi-NVhdj16GJrikmIRXbXQ2h-lDtEprGCwvYx_AmQiXOw3p1oRKAScfNlnmcPzAk5auSFJ6k1HSsW1twJrBm1u2nTRjAjalKjOSc3UxclgtFP5EbewDyIrWpehYI_SFV03ntkKO1xg_cMgQ6Ee4q43csDK-dNfsIlRDK6fNkIVpvAgo_og8TzMlo3R4HKxy0VWlfjedslc0sGO5qz2zPc9Bba5fZXzJQ7Y7p42BYd5ysvRtRB6Ffyt_RnzWfxGrAHzXfM_QcgtHWkN1RjDT1f5Quaa9tFJdXVC0bxg3VqOANDnTrgLbQdqrKRsp36nvffwy4; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 07-Aug-2023 11:27:14 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 04-Aug-2033 11:27:14 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1376047934~id=cookieDC7hgdyo8hCVLPllGtRTX4/Ey3hB6IdbimhMTyIR3hcqrWtoFwZJKSODRega4AlHopHmi2Vs5GJ+IrRr5qnWKbw3Ua5g4YAtwDQAvCLArjffNpBeuxtEmvw7OnrJhwUY; expires=Fri, 09-Aug-2013 11:32:14 GMT; path=/; domain=.paypal.com
+
+VERIFIED
+
+[08/11/2013 3:56 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=97.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=4XYC83KSSPYSG, address_street=1 Main St, payment_date=03:55:15 Aug 11, 2013 PDT, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=Ananga, mc_fee=3.11, address_country_code=US, address_name=Ananga Samanta, notify_version=3.7, subscr_id=I-V90F7W1VMDLV, payer_status=verified, business=ananga_1275462143_biz@gmail.com, address_country=United States, address_city=San Jose, verify_sign=AG1dkV3Ze2l4TitYVnOxt6kwObL8AxRNFPmz1fiQRhdJ-21h.mkeAjVB, payer_email=ananga_1275896260_per@gmail.com, txn_id=49870150NH073951T, payment_type=instant, last_name=Samanta, address_state=CA, receiver_email=ananga_1275462143_biz@gmail.com, payment_fee=3.11, receiver_id=VBY9KVYU7NR88, pending_reason=paymentreview, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, test_ipn=1, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=97.00, ipn_track_id=f50ee74287783, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Sun, 11 Aug 2013 10:56:48 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=ZQDmV4A_ruxE7prxQWsvnez43GVby0wD8_T65PEKdr-C7jM4aOg8unIn3cgHw4d-NawoAO6w_L-YK6yu9o0Pl6NNAnie7gptXoN6LaClIzu1Csh-dd3NHdmGeeD-FElBlzHcKMlNi4hmg97LdixOCe4cG7grLeSx-nGcYkwOyMpoGJs8S6B4eej62RYqjA1mX1IyASwu1qg8PcGdkd47VtBhYvvsoe5ZSTJ-Uk1_eauoZFzMnV7UbLO12zHNUs60QDs0_iHRTD-cD5_wz_fIWuJYxbB4Zm72v8l2st8qR3H61vTtZZeI28mo9sxGJIpokEb2346CwBGQuWpFY8eptz5KbRyFtxt6DJXzvhRXOtanZA9yB5eK3iATh5Po374DVV3In3RwOOl_9GvS4dtixnG7KInenk0BldVCGx1rJ5YLKm9OPR4jGXEejjW; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 09-Aug-2023 10:56:47 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 06-Aug-2033 10:56:47 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1376218907~id=cookieBH8jJpkUxB7ON1rZogofu5L+AavXyHbURvcgOHTsSbyUfUnvFuFGUGcD18lvhx4KCtTi/+pXT6rfjgTgvL0U2b9uMqntaRZGB8p7vA3DryBmdGEYBk8CFlvTu+ajTDk0; expires=Sun, 11-Aug-2013 11:01:48 GMT; path=/; domain=.paypal.com
+
+INVALID
+
+[08/14/2013 4:07 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=247.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=4XYC83KSSPYSG, address_street=1 Main St, payment_date=04:06:57 Aug 14, 2013 PDT, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=Ananga, mc_fee=7.46, address_country_code=US, address_name=Ananga Samanta, notify_version=3.7, subscr_id=I-PX80W7UGEJSA, payer_status=verified, business=ananga_1275462143_biz@gmail.com, address_country=United States, address_city=San Jose, verify_sign=AkK7GR-O6-w0yIsH-cAmL3VeCuh0AVhdMWTUN7rwcBWL3IHIkzez4jHN, payer_email=ananga_1275896260_per@gmail.com, txn_id=461911452T793545J, payment_type=instant, last_name=Samanta, address_state=CA, receiver_email=ananga_1275462143_biz@gmail.com, payment_fee=7.46, receiver_id=VBY9KVYU7NR88, pending_reason=paymentreview, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, test_ipn=1, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=247.00, ipn_track_id=5c5fbd7ebeaa0, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 14 Aug 2013 11:07:42 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=GTsF4lt8EfzYErZjQJf32pKlegL4ioEcUNSQrkmW2Qbhd6hpFzUwl-dzNHfEn_Okxk1d632ecMQeP9-0iFHQw72eFQPq8daCQol5xog9uugMYkxLWpqbvi4wxzjHt_9vUakoaMfshTsCKTrxHlez58Bo9nS_8g6Q00YhyyL0jfEiVTDmlRkt-u5YfS9B_oxFMovgf3QYVZK7Xaa8m0HEz_GQN08JDpak4GgS1JXut5ONCLI7TLNNSc9h9Qvmf5sVKYABRliburrQ1T_wuG860kS6_v603LYV76kZzQ-u5Mkppiyhd4JsYxxi0OL__zcaGTHLcDMr6JB3LYdfhmfsrP6eorEnm7n9YWQ9-0SVdm-XVe2YFreq_LsEXfadBRIlikjlZO9u7rOWsoIBmEkWt7bHCpCn_zKCknU6eK_Rh_sToUIYoX5PNgMZIZm; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 12-Aug-2023 11:07:42 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Tue, 09-Aug-2033 11:07:42 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1376478762~id=cookieMK8jwHAm2wSnHXbDqb4k5LvlJLvRdEUmuO7u41h5etOG0W3YhUK8jEORdBB3ITiOgw1ZYTyhygqacoHVEOgEaU3Yma2q7Ms4n+3c4PJAhMzPruFei2IaS971mGB0FqRa; expires=Wed, 14-Aug-2013 11:12:42 GMT; path=/; domain=.paypal.com
+
+INVALID
+
+[08/14/2013 5:51 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=247.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=JAMGCGRSS6CY6, address_street=5560 Brentwood Drive, payment_date=05:51:41 Aug 14, 2013 PDT, payment_status=Completed, charset=windows-1252, address_zip=60192, first_name=Nepal, mc_fee=6.48, address_country_code=US, address_name=Nepal Patel, notify_version=3.7, subscr_id=S-3KB15577VK2707250, payer_status=verified, business=admin@ctosonthemove.com, address_country=United States, address_city=Hoffman Estates, verify_sign=Avg7LwDxiq29tiMFJcBapqNuZDYkAHtnuiQbkAu.ORR7bXJxAPjGa3Fl, payer_email=nepalp@ciosynergy.com, txn_id=4X6233617N673621V, payment_type=instant, last_name=Patel, address_state=IL, receiver_email=admin@ctosonthemove.com, payment_fee=6.48, receiver_id=TGEXKYGNDNRGW, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=247.00, ipn_track_id=808ab386aaf3f, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 14 Aug 2013 12:51:55 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=9hE44MuThI9BSwNi6xIL-BKpabH0WCjbd7Suh48HhzGqiZaL-9iL1qkFqN024ByPnpva_nx7qNQrrM8zN_lAc_B_XG9sZowkpfHYYmojbT5106KIr12U1TqM8BwUYgbqunDssuWVf60QWSvZtNKAQJICS5na3kGX3qf1ag3-pSj-DrNVLztY1-nZSADy9Gu9vOnZWHKBzFm73vFoqnLm_KlJQnC85QKF7PdctZUKiIf8m-hNnL16_A9ulOeTQxltnZsWTyfBfL3B8p9O_HGdkuXpGTXCk9TuRT0B2VpCXfr_W8EjIE_Bzz3rskiKsMmlRh73H-sLSW4zgja5bozsdrfZuWymDXNmALwxsZA-6EZXykl8kJcX04IocP5EAk9-HEX0JIeWTez01urFZ64C2aMqWY5ne2mU_drWuW; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 12-Aug-2023 12:51:54 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Tue, 09-Aug-2033 12:51:54 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1376485015~id=cookie8LfLwK4subkU0hSU46V6eAp6qCcmiIwCCoPdajCliiSDSnWrP/UHAuv+0gNNgtF3A3TX9yhPtQKwHKK629fFM0m2/t3NRVyBpKfae2Lh6TZ7XSo7u4Me6KyrCzytejkH; expires=Wed, 14-Aug-2013 12:56:55 GMT; path=/; domain=.paypal.com
+
+VERIFIED
+
+[09/10/2013 6:02 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=100.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=ERCNSX6M54FZL, address_street=5101 Pulaski St, payment_date=06:02:16 Sep 10, 2013 PDT, payment_status=Completed, charset=windows-1252, address_zip=75247, first_name=Robert, mc_fee=2.80, address_country_code=US, address_name=BCD Electro Inc, notify_version=3.7, subscr_id=S-3Y182732SJ9354900, payer_status=verified, business=admin@ctosonthemove.com, address_country=United States, address_city=Dallas, verify_sign=AHBgCiYzsbs.ZGrNuqkLSaJ2Cj3sA5cqCKAl0SWvCwh76OEB9Nq9p-8Y, payer_email=ramaya@bcdelectro.com, txn_id=8TU98827BS444460V, payment_type=instant, payer_business_name=BCD Electro Inc, last_name=Harris, address_state=TX, receiver_email=admin@ctosonthemove.com, payment_fee=2.80, receiver_id=TGEXKYGNDNRGW, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=100.00, ipn_track_id=628bd33fbc582, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Tue, 10 Sep 2013 13:02:34 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=E7FsX8i82-MqYIuWb_Uo0yR_2o8K1Jk0CYt7q0Cqu-b3GWjijkqp5Ox31hNxFHyRfFwqmTFdUVDqs_eSyn4xkBE6XVFeumsUWj--CqytawzHtE7zsU_lPw5aF-mziFkluclNDn6EJ5v2SCCOW86UQLJHpzYsL1cohPjyyyN90nSgP5CHsm4vYoCz_ZWKfr6NArhCMxfOAdj8Ldgw1qNoenEi6lu2891_PaiMErKerywISaiHFd5NgWkmsHJ8Czty9_Fh32a3zEKdytscqVTKfOhPRXEn7YyeMWHCJCYTzElPK7anJWxMOpCLVeB3U8Tocr_BSg5CTYQDV7OD-h4kO8eeP-NX7twz83xcV5492TUv12HvNBD3LNOCxBRjW8telIZ2mT32dRzVY5BVJ_Sy5ICjhwUljpvGyw-wdrls16YyEEzpQQc0d6FZsLy; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 08-Sep-2023 13:02:34 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 05-Sep-2033 13:02:34 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1378818454~id=cookieXp4cK0xhaO3mkwR5LzrBqBsOyLi2Wuv7GQVY7T17fJaRijQZGqESZWL9B6nEayBlAPo15fbbQnTUNwUwt9m1suHweuE+Rb/qfFVpCrqhCSIYWLWbN6ridCn7nI3W6oLF; expires=Tue, 10-Sep-2013 13:07:34 GMT; path=/; domain=.paypal.com
+
+VERIFIED
+
+[09/14/2013 4:23 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=247.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=4XYC83KSSPYSG, address_street=1 Main St, payment_date=04:02:48 Sep 14, 2013 PDT, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=Ananga, mc_fee=7.46, address_country_code=US, address_name=Ananga Samanta, notify_version=3.7, subscr_id=I-PX80W7UGEJSA, payer_status=verified, business=ananga_1275462143_biz@gmail.com, address_country=United States, address_city=San Jose, verify_sign=AWkEyPyf.bOsVtCvFOzt5g8lcnOOAYhsMjkpUZnAehv05hn5CMxEdp-9, payer_email=ananga_1275896260_per@gmail.com, txn_id=58B26398PC647030X, payment_type=instant, last_name=Samanta, address_state=CA, receiver_email=ananga_1275462143_biz@gmail.com, payment_fee=7.46, receiver_id=VBY9KVYU7NR88, pending_reason=paymentreview, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, test_ipn=1, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=247.00, ipn_track_id=437c5b06bd234, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Sat, 14 Sep 2013 11:23:16 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=8ICLIAdlK0CZNZzbXPzm1wQmt7diaXRKomFwd4UrpBmPWZglDO8v67O9Ie-CYylUbhL46cQerirqik-g2DOd9NuLvK4u_MfuCfc_PbRQzLQWPiKRL6zikIILOqaZZ5GKQlB-HNGMOss57PxOhrNQpaLlBENHE8egp4pbQ6zO588oTri07yO-m7WeSSQkqHel3r0rGWdzdVTptszPk3dBzCVS1-kRYwX0AQaPrCNyG8hEXBWbCXxthocF9DdoIubaQkBqWbPLBnnvK4NgWFRIwLjkqTlTUenb1mjrhtubtjXX3yeVNER0WlaL0f3AeZRQGdmaiSiiveoRiuRfvrgNeR0HU4_V_6MyVghkAuYATFLkYe2MQpA1ZqJIM-dJNRV_7ffOeXgxtiygt2A3KY0wrrqWWfy2KHa5RPPPihDsk3BzffqTP9e5DS3KYYa; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 12-Sep-2023 11:23:16 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 09-Sep-2033 11:23:16 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1379158096~id=cookie4+tvKNr9fSAm8wbGwP6ubGwMU0t1ouV5HxBiLBRem/7ByQ1sFXvU/2Mlweg+2EMDLynSaA8lsAhX3lGhAat4JIAJVjaXvUk4TGjzm0bqcOmTpw/eiuYaRqAbHWh1hPsK; expires=Sat, 14-Sep-2013 11:28:16 GMT; path=/; domain=.paypal.com
+
+INVALID
+
+[09/14/2013 4:58 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=247.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=JAMGCGRSS6CY6, address_street=5560 Brentwood Drive, payment_date=04:58:36 Sep 14, 2013 PDT, payment_status=Completed, charset=windows-1252, address_zip=60192, first_name=Nepal, mc_fee=6.48, address_country_code=US, address_name=Nepal Patel, notify_version=3.7, subscr_id=S-3KB15577VK2707250, payer_status=verified, business=admin@ctosonthemove.com, address_country=United States, address_city=Hoffman Estates, verify_sign=AnqLuyEJ249EwPR0xEC8sMYprgCIAAhlHU4PzAJGQDJFHPblpQhGZy-9, payer_email=nepalp@ciosynergy.com, txn_id=7JX20379F6603943E, payment_type=instant, last_name=Patel, address_state=IL, receiver_email=admin@ctosonthemove.com, payment_fee=6.48, receiver_id=TGEXKYGNDNRGW, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=247.00, ipn_track_id=cba80f7ce0148, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Sat, 14 Sep 2013 11:58:55 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=d-jx9ynVohn2vyk3c28QwSzGDb4Di_SM3vfmM0ylpuQT930jPSmkVLQIYCRXvn-Z27Warpp69JA8itumbos4bvDga7LptbQJF8gVRB63t96Kv3Nb0jYulPWrUT2HY8dSCfRL4I-guwac3O45AaFSPD9vK4cYvapMvhan0AbDmDFFAiRgfBzWglOqkivrijglj2I6RowPgFL5FYU82vE7RwptDjlwA_QgS6gGxI22NRj-q7tO1az64UNYDT970t7NHlG3al-tEcVOeD3hc9aG_NrqULrCs0oU1bYrcm0jGettt66qVXHLs6r_UHxtZw9fsoJiT_UrTrmkXEMPhbwb7-YGGT1W4eLMepSPT1Ml3yvijQVKXGUu-rw8WahCG_mqXAbC8N_Rjs2u86Vlr23Y613J0uS2EIRRpD-tNgXibI4BXpOnw8jTfvTQjxG; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 12-Sep-2023 11:58:55 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 09-Sep-2033 11:58:55 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1379160235~id=cookie8zZkpc83+mio7tqwLjFB9CCATKzGWHP3iY1HGfRVoNgWl8hmX6RJjJqjbLG0J+BA5YeundVhPTIYQotuWkbZFUkUVDRdv7qvD7OIuklshe8I0y7gBKI9yil7kkwLArmc; expires=Sat, 14-Sep-2013 12:03:55 GMT; path=/; domain=.paypal.com
+
+VERIFIED
+
+[10/10/2013 4:55 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=100.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=ERCNSX6M54FZL, address_street=5101 Pulaski St, payment_date=04:54:53 Oct 10, 2013 PDT, payment_status=Completed, charset=windows-1252, address_zip=75247, first_name=Robert, mc_fee=2.80, address_country_code=US, address_name=BCD Electro Inc, notify_version=3.7, subscr_id=S-3Y182732SJ9354900, payer_status=verified, business=admin@ctosonthemove.com, address_country=United States, address_city=Dallas, verify_sign=ApjoBhguF7Cm4xSLRGziZVflRthaAe.un70ZHKz1hvbumVfR-e4Ya0V4, payer_email=ramaya@bcdelectro.com, txn_id=9VF63203SU852232R, payment_type=instant, payer_business_name=BCD Electro Inc, last_name=Harris, address_state=TX, receiver_email=admin@ctosonthemove.com, payment_fee=2.80, receiver_id=TGEXKYGNDNRGW, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=100.00, ipn_track_id=42dbbe0436095, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 10 Oct 2013 11:55:16 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=WK7s7VYaxBdKpFjqzCKB-g7NBTdZqwzF_k_FnVqlQd9Ko0I6SxXhciJt8nPauun48qFDrHFtqjQiq_kOeC8etx-E2bTWsKIdVlRSjaAATpk405YiFqJ6d83UtOXP-8bRyB1DBc9XFZs3K8spjFS-iBJMtLMRtJi9x3yo9qPMpC_wdmlDyC3zxvs2uQSgvBFKzATdzX4f_XNQ1JP-JgWvZ79T-Md_pfgifYEGZXHmxV4WKhY4HAolHlOWmBLq2OjYEvx-aj0hdtoN_DwWn0-DYBmefakphM3760hDOtHsyNIQFMEdTLLJSUWT4SOZPzGgctTDPJPhCghnHTxxKmoQaa7S5LnshK24d5gWCvVMUw4VKeO88re5P15aoFIzadnvspN4XPA8QTE6RXBYsvowZBtkIJ2k2JH6rIptym6lSRLy-2ZkIjFQS2Ga1KC; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 08-Oct-2023 11:55:16 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 10-Oct-2015 11:55:16 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1381406416~id=cookieF4TMRxLachxD5Is33/RKorTvkW/zv1dSaFKsDdZd1humF59nf9KevguYKpqOh5frLypB6i9mx/TJxwXl3dfXETXrpfeyR0iGI8d2g3yd4vQuLdC2JSOhrD9gDE3bpwOn; expires=Thu, 10-Oct-2013 12:00:16 GMT; path=/; domain=.paypal.com
+
+VERIFIED
+
+[10/14/2013 3:55 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=247.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=JAMGCGRSS6CY6, address_street=5560 Brentwood Drive, payment_date=03:55:30 Oct 14, 2013 PDT, payment_status=Completed, charset=windows-1252, address_zip=60192, first_name=Nepal, mc_fee=6.48, address_country_code=US, address_name=Nepal Patel, notify_version=3.7, subscr_id=S-3KB15577VK2707250, payer_status=verified, business=admin@ctosonthemove.com, address_country=United States, address_city=Hoffman Estates, verify_sign=AHctXGQN3Z5XrSarlMQ17Dbcx00uAAy0meiJuXDg8SxNEnAo4PZb3eWi, payer_email=nepalp@ciosynergy.com, txn_id=8KC03353CH746325J, payment_type=instant, last_name=Patel, address_state=IL, receiver_email=admin@ctosonthemove.com, payment_fee=6.48, receiver_id=TGEXKYGNDNRGW, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=247.00, ipn_track_id=3c1a3f0c8d9c4, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Mon, 14 Oct 2013 10:55:54 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=G1xmWSDj0Wsy189xv4i9vlH430zwoy5J2wtj0mdlEwT8_7E52QrNBswGs8AJAkGUEsHOA5_GqvFRT_TdJkdO4n1RVQ6YoX1Pj-kaUtA-XsSjRSfLTxCMxf0ZGOadZDtxHYGIdpINQyyposkWw4uIIroj2xKJ6vIho9AxjUKiLDtFYUByyV_d6278WwcvsgvFTvNbcJmmhXLuMyzlZKKGG79EGR6dpTPt7zDAFD4EvcIzeqA_rktd0nk6A0Fv2jAgVg11a_dLK-6ONypu_q7ysLPbiZlMvdeO4gu7Uxdti4pMeGhzxwwQYmHqj_nW_loSEC0Xf3d8LMxYvzf2VWAHGggtygm8hz5yBaXMVOQhFjdHc2Fnbhcbl4Wbf676x4u9z33UVxLBaQanzViQGgkuEygp-gjatUgg7OYFRG; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 12-Oct-2023 10:55:53 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 14-Oct-2015 10:55:53 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1381748454~id=cookiegeKgs5oTVNWkPb2/modLy91XyCJ/ZDeiXSWgdATktVC/r63Evi4jhxlLQ2bnPEuDVE1sJdhWb/kLT0A1cCm/igDQlYLiZctn7VXW9iS+YNz+XQ8EbNvtaLvDA3UECRB4; expires=Mon, 14-Oct-2013 11:00:54 GMT; path=/; domain=.paypal.com
+
+VERIFIED
+
+[10/14/2013 4:13 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=247.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=4XYC83KSSPYSG, address_street=1 Main St, payment_date=03:56:59 Oct 14, 2013 PDT, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=Ananga, mc_fee=7.46, address_country_code=US, address_name=Ananga Samanta, notify_version=3.7, subscr_id=I-PX80W7UGEJSA, payer_status=verified, business=ananga_1275462143_biz@gmail.com, address_country=United States, address_city=San Jose, verify_sign=AJ1iAz.e2j7-AalkJMZYOkXai.OYAbrcTrxdsFG76hehRlnWRCYM6AKe, payer_email=ananga_1275896260_per@gmail.com, txn_id=01M85088NA7690118, payment_type=instant, last_name=Samanta, address_state=CA, receiver_email=ananga_1275462143_biz@gmail.com, payment_fee=7.46, receiver_id=VBY9KVYU7NR88, pending_reason=paymentreview, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, test_ipn=1, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=247.00, ipn_track_id=63934732a9bcd, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Mon, 14 Oct 2013 11:13:36 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=BF2BbO9S52EuclWfDuEpSj7pCH97SStbT2bhn5cRW1pzaarP6WzgZgG9CIXfnq5HS63kX0o4_nOOlWz8oZUBz0fn132JYjXNA0yJ-nwxKAi7dyuxoummZznsRHqXZ8xEMwdwXCeycsz2CtuHNLJJxAqD97UdMl6D8TdaMakTI4s4hrFhn9BlWBJV1MarBrSy6NmoGW_L8eMB8lfNsyNKvCzRO7rjiWZ4Zr7bNLI2k7jusHimYu5U_Eoe8GFnHLRYUZqgcxilQQ01hoHRoV1ATs4g3Xgu8m8RyO4dZBZyIjhEduBIYeFojGQafxprmq3qYQUZFu9nYLi_BTJH4aRnRT1_prTf142NSEPpZfWF_iC6KmFrW9EivNiUYCvXz2R2-WhCl7Wr-A7jPrUkutgnDnvNWD_s3xSOHxAbHw0ykk8ZWbCx5qY16dx15LW; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 12-Oct-2023 11:13:36 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 14-Oct-2015 11:13:36 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1381749516~id=cookieJILiyXRggT8Q6tq/hxS3CCWCYME+DDldAG6NHkZGj8ScnjzdjvatXVSz8Oaw4aIrrYkm84Rmpt8GjPp3wBIBOxTPWCVuulnHc5bRnjPBgy4zg5vGwX0EyjXfCbaP1oXF; expires=Mon, 14-Oct-2013 11:18:36 GMT; path=/; domain=.paypal.com
+
+INVALID
+
+[11/10/2013 4:58 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=100.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=ERCNSX6M54FZL, address_street=5101 Pulaski St, payment_date=03:58:20 Nov 10, 2013 PST, payment_status=Completed, charset=windows-1252, address_zip=75247, first_name=Robert, mc_fee=2.80, address_country_code=US, address_name=BCD Electro Inc, notify_version=3.7, subscr_id=S-3Y182732SJ9354900, payer_status=verified, business=admin@ctosonthemove.com, address_country=United States, address_city=Dallas, verify_sign=AP6tFiUiwHW.h1Juin.L3ENoJrjtA3FQ9gydHQOU9e-Tl9nQTkcmCU8v, payer_email=ramaya@bcdelectro.com, txn_id=4FG445161C515793J, payment_type=instant, payer_business_name=BCD Electro Inc, last_name=Harris, address_state=TX, receiver_email=admin@ctosonthemove.com, payment_fee=2.80, receiver_id=TGEXKYGNDNRGW, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=100.00, ipn_track_id=84ad7133175a7, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Sun, 10 Nov 2013 11:58:33 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=nuZxwJZ0MrInfKjTWVat6l-q6Xo_ItwVOYcrNZa_XzxCwx_6lY9rvDV80yE2cv6GsyOyOg92Ty0oQefYTFtrjUn6Lt4K9rSkMuGW_WtcTwmJAPyrBN_-R-P4RIFYWArHSouHxHBbipuiG6T8yw7WeAPOe6wqj3m7-Ipj3IqVJiUmPAyYUO5g5UgQLYGeOA0mDHvnT3pfHI6s7LOujioIe3QtCi9F47sl4Mis00xBDBy4uz9Z9u9cwJYuZE7oiiBGZyM_OqyLJvsB9u4G5rA7d5zqk8py_36qDr6TZ6sF0aCyfg7T0ICwMwDSpKfSGe3FZRSRvU2Hxc9P_0ouBN-mS6dUxqdjcHYtxu-0S_inF45l9dbQ2HEBEfkbBQJDpzLk6C1XEgu8aCyrCehbCXX0fd7KWrgfPNpZG-x2dxibhwfgVKgmWkBUHxq_kNS; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 08-Nov-2023 11:58:33 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Tue, 10-Nov-2015 11:58:33 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1384085013~id=cookieX++jL7sW3aaYqKr00q6ZZXVtpFHwhInvpD6/NZ/6yNz2RSAnwPa3jOQYP+I6nMdQbgiVEMDoME7BoXEqiJR1NG3/zSZfcfW9v8Ze/QSwQB6SQ07fCmkWVQMLpfNtDYHj; expires=Sun, 10-Nov-2013 12:03:33 GMT; path=/; domain=.paypal.com
+
+VERIFIED
+
+[11/14/2013 4:05 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=247.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=4XYC83KSSPYSG, address_street=1 Main St, payment_date=03:03:05 Nov 14, 2013 PST, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=Ananga, mc_fee=7.46, address_country_code=US, address_name=Ananga Samanta, notify_version=3.7, subscr_id=I-PX80W7UGEJSA, payer_status=verified, business=ananga_1275462143_biz@gmail.com, address_country=United States, address_city=San Jose, verify_sign=APNjHICHcKUizaTzXwLt3jQJR-sZACm1mnIv4CeCdWeeQzCVD3rmXikY, payer_email=ananga_1275896260_per@gmail.com, txn_id=4CW62969VJ454354Y, payment_type=instant, last_name=Samanta, address_state=CA, receiver_email=ananga_1275462143_biz@gmail.com, payment_fee=7.46, receiver_id=VBY9KVYU7NR88, pending_reason=paymentreview, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, test_ipn=1, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=247.00, ipn_track_id=36be351f7a39, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 14 Nov 2013 11:05:08 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=ZiSwcPpSbF4UjIB57FO3lOJTPyU5QuNmfFZ22whkUwsE2ZkSeSY0Z1d9TqUjbiYn9Arb88AeMl_iNUcv44V4Jt39D003Zl5bgECm8BijGg2plZxDNHQQBNHGI-miqAhQnM3ZKmJtrq9zeikX12MExSsToeYgcE1JfP9E6BUkTnYcEIc3S4DxxYDZQvNcUcTP9MNV9sRC3g0Zb_ENRr5zgjHlCgfv2sp1XLa8DsR8y5pmxshbX8k8ViIdlUi7PYNwHo9n3uaDVQt-1zCRBZY9hOBKqUNJ35OL1O7XghvW2ubB9DJK9kQOg-PUzomR0fofYcOicCmz0vHsz3lIRSUsPS42xTyxHCqNcEhFCnR-Svb8J7WJ5RYg7GMXqWm7s5IFMkst9tDX0_IbxXGImePpklTduXPbyvVmYVZ2JJNgWH_FIv4Pzrl_cSRrmAS; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 12-Nov-2023 11:05:08 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 14-Nov-2015 11:05:08 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1384427408~id=cookievysdRgFLkMxjSqj0mSYZzYhEZze6+fb9B/wjxlSQkefb6p+PibFUXAjQzvnm5kfmTfctvqyRWfhRFmR+47HVFfEecD1E2NWWSDljKtf65F6QNJiNHZS/JTAHFrHKtO+M; expires=Thu, 14-Nov-2013 11:10:08 GMT; path=/; domain=.paypal.com
+
+INVALID
+
+[11/14/2013 5:26 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=247.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=JAMGCGRSS6CY6, address_street=5560 Brentwood Drive, payment_date=04:25:47 Nov 14, 2013 PST, payment_status=Completed, charset=windows-1252, address_zip=60192, first_name=Nepal, mc_fee=6.48, address_country_code=US, address_name=Nepal Patel, notify_version=3.7, subscr_id=S-3KB15577VK2707250, payer_status=verified, business=admin@ctosonthemove.com, address_country=United States, address_city=Hoffman Estates, verify_sign=ATkclvjHi-1cmmPEFL2IQmOFaqtHAKbctzoxHnjx0Nmu.-v2YcZCo1YS, payer_email=nepalp@ciosynergy.com, txn_id=0XA1974028040631E, payment_type=instant, last_name=Patel, address_state=IL, receiver_email=admin@ctosonthemove.com, payment_fee=6.48, receiver_id=TGEXKYGNDNRGW, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=247.00, ipn_track_id=50274b7588943, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 14 Nov 2013 12:26:02 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=AcPY2kOi62UpNsduormRqTa7LU1vxFBvGMgzFRQxGy3pekTdLKKeNDYZbaNRgtm-Ezso0TvTNzAZxTUh8zvlTJuSKO4q6aOt6pKp4pAtqGuCjwEmr6Nr4HBcwE6izyMpn3Tj4gRf7Ai_SHo4nZOYDFHGU220qP_BzFAXlC78diWDS9sZanSWrCt_l_nmqsjGQQvnGbRa3x5O46WRhd9XO-vLybfHPpg-nOdyVAcdooYicgcwJJQJ7QN6Gl5hV6T6uOgjWI4hyyil8qFrR1fDHvxIObx6vssQlVYdg5f-ZtMmHoJwx8z4ufprUB_hoLMMsO6qN1KV6KDIjDE2AR7EW1cs9Q6ZjhPFKm2XGHum6k5ds61ay4Cd-qjTFWqjdeU7w8AhnxZmziyo5AEqo5TprjuwT_yOeVefpMnXAeaJCpkYFreizLZyl3TAeW8; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 12-Nov-2023 12:26:02 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 14-Nov-2015 12:26:02 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1384432262~id=cookiewSuVlZxWBU8kPdMswHH54RQpmqe8YbWLPXn5wi0z9eTSGJUN3PqrBvJcT6nLitA/VsjMEBfO1RiwO8BVYcnfb3znb2VAAtPx6QzBAQlWWLXw75n95viL3F089xws+MSX; expires=Thu, 14-Nov-2013 12:31:02 GMT; path=/; domain=.paypal.com
+
+VERIFIED
+
+[11/19/2013 10:16 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=1.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=TEU6WYW9S4QYE, address_street=5925 Dustin Trail, payment_date=09:16:35 Nov 19, 2013 PST, payment_status=Completed, charset=windows-1252, address_zip=75034, first_name=Kondala Rao, mc_fee=0.33, address_country_code=US, address_name=Kondala Rao Kandregula, notify_version=3.7, subscr_id=S-76A22332TT240691U, payer_status=verified, business=admin@ctosonthemove.com, address_country=United States, address_city=Frisco, verify_sign=AHwqRP4ZvwjbG7AXfGMKrcVWEzR0Ak7boY8iDhN2gVH.QJDdgly0m2FT, payer_email=lakkon@yahoo.com, txn_id=1C0171606R016810J, payment_type=instant, last_name=Kandregula, address_state=TX, receiver_email=admin@ctosonthemove.com, payment_fee=0.33, receiver_id=TGEXKYGNDNRGW, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=1.00, ipn_track_id=828f53ee1150f, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Tue, 19 Nov 2013 17:16:51 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=Tq4f7N_JAdMf7wuHnSaWITpraWDcrKeXAzAErRufs8KWrhqoiSUfTs9Wwlm92pZLo114djuiV7x_bbzD-pI3r_Ql1CXxtw_kEoxkN6o9HkS_yxBcuiD046CxScbGly8Ugh_6l8xvq0rk8n3ltmHzFkhVa0JqceeAC6Yx-bdT-EygNtF6LyfNx7B1MsYuUH0emGb6uyg1D9tesDcr2LHRbuL_1zdQwvvSQPJjNPFdqj9VUkVc8HbVJQVhjbKllLCA6GH1Gmw813GB1r0jsqXmV5aHPHszGy9UlG8yAtvfQjO5Yrl6lHhCbAxfMEWEPjVTT_iIa1tHj08FG1SmlMRvS4BFIITGWmH2WbCsKoEUKi9pbLpklSv7x3h3syP9zezgYrlFjyZqpWJhbdWH7TZY9Hud6vPU6kIU3cvUYfKyAz_5YOIXGrAulK_uiD0; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 17-Nov-2023 17:16:51 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 19-Nov-2015 17:16:51 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1384881711~id=cookieyVOCAWw0kCUKaH6ISKo4SaKLbsQ37TExRCySJwSr6WSsWO28rLCsSQsp57fQ046pPQpddT3tFuTFrJmBu48EY8LLrSPUnkK2ieO8QqBvXJmuzfM59nSbIKwiA1MoZBQk; expires=Tue, 19-Nov-2013 17:21:51 GMT; path=/; domain=.paypal.com
+
+VERIFIED
+
+[11/19/2013 10:16 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+amount1=1.00, amount3=747.00, address_status=confirmed, subscr_date=09:16:32 Nov 19, 2013 PST, payer_id=TEU6WYW9S4QYE, address_street=5925 Dustin Trail, mc_amount1=1.00, mc_amount3=747.00, charset=windows-1252, address_zip=75034, first_name=Kondala Rao, reattempt=1, address_country_code=US, address_name=Kondala Rao Kandregula, notify_version=3.7, subscr_id=S-76A22332TT240691U, payer_status=verified, business=admin@ctosonthemove.com, address_country=United States, address_city=Frisco, verify_sign=AXC52wHRhgbiQ7kTbpoKzlHeicdBAXxo5FmM2kX9ArVhPgXCELuQC5sk, payer_email=lakkon@yahoo.com, last_name=Kandregula, address_state=TX, receiver_email=admin@ctosonthemove.com, recurring=1, txn_type=subscr_signup, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, period1=1 M, period3=1 M, ipn_track_id=828f53ee1150f, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Tue, 19 Nov 2013 17:16:52 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=ihw2GTdpRJ_xs-3yxwt3bGHJMZ8hjGGzihG5uuI07VIn1K1Ciji1fbL7EguBP_ynhq7jXGHUdn9DCw5uLCWkk9rSm9fR6F4MjEA3EG3IfneyMk973H44rSuMvr6MaYSlgc44FAOUQzRtLINTtIl0Uhl7950mKASSkqyYNqUEQeaKTBZl3aYi-o08zJTYpWcxYft0h6dh48xX7UPkx7EbzLIoykLweq8hF2Ja0l0Bhdi0x-ksMEDzIEtufQ9-y7RT42Dod-EZeRyvWkgX-ggUvNYJgNurNNu0EOE9PA02lG_R6C5oX0W51VG3et6EPvMkkaIttAniXAkTcB34hNi7r0xrDq2TePCYXr6FfJBhFuu9G1VWrwJFRfEEe-pieTcKQhowfIy1JCDqOJuX6zPi2sMeXjMBqZpWGWSjGh356GkhpvKjO4ZG1olnpwK; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 17-Nov-2023 17:16:52 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 19-Nov-2015 17:16:52 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1384881712~id=cookieYqs33H2laxfqB1Bi2V1wlE/zV5hHso3XHCbtZmuqcT98REAtsmNttaTfGG3lVSFoEUPEd9dqPQ2LvdQJ9zW/MpscxJDRQe+ZRgVjiE2xg9egtOwKpKV/JUXnYQPtkQ7R; expires=Tue, 19-Nov-2013 17:21:52 GMT; path=/; domain=.paypal.com
+
+VERIFIED
+
+[11/26/2013 7:21 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+amount1=1.00, amount3=247.00, address_status=confirmed, subscr_date=06:21:38 Nov 26, 2013 PST, payer_id=JAMGCGRSS6CY6, address_street=5560 Brentwood Drive, mc_amount1=1.00, mc_amount3=247.00, charset=windows-1252, address_zip=60192, first_name=Nepal, reattempt=1, address_country_code=US, address_name=Nepal Patel, notify_version=3.7, subscr_id=S-3KB15577VK2707250, payer_status=verified, business=admin@ctosonthemove.com, address_country=United States, address_city=Hoffman Estates, verify_sign=AcdNXOjSXbsF7km9FvnnlLXpCtEhA4PEW13DhCrcLk-LQpzO.KWPqMhK, payer_email=nepalp@ciosynergy.com, last_name=Patel, address_state=IL, receiver_email=admin@ctosonthemove.com, recurring=1, txn_type=subscr_cancel, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, period1=1 M, period3=1 M, ipn_track_id=f5af44ad49ce1, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Tue, 26 Nov 2013 14:21:54 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=NHoryJnJTgZIbhfUHzzWokv6k5hpcuLOI1ZVGpTyuqM8lHl5A6EryE7sVur53TiBYO2ZXHiqFXJt8kErc2_HKT-MuAvbFg8A-fjxVnItIgI37-ceg2wzG3ppGuR_eaKtvc3cBg5Mpr4NHivy1-hELefHo9ddczf_be14oJdou8i67RVaHZCchCplp6bjWIbZeyv4Equ2axNNs7ntXbXvbrab1tBrGVaOwXTRBBY0AR6POWxZ8-qfXgebtakk6hqCcr-k0L-t9HcVXlzE2I2aCl7WZfi8_m7a_BSvLZr_sQzgkFHVP8x5a9P9BsmLO8wVMBXw17zVzWm5-2Fk2VMpzCfcVpUQcx_uqT47Q3yyc7azQLXXMfGrt8QlYoqcADw8J1Sc681vq3HMCQSfnSSWO6ZaURxTYrSiwh4WWNtiSynodFoimnbJxh3zQM8; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 24-Nov-2023 14:21:54 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 26-Nov-2015 14:21:54 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1385476014~id=cookieri8Vub7w6gGq062LfhKvLCBHS5xPPgQyThYyqmNhA/4xrHciCZgoo6ZnBg4+btDFC6sI2lLz3aqWyNsIPrVpNAA6x9X9Y91h+Tse0FkTSYQRqbMPTzY86a3G4/T5vQOw; expires=Tue, 26-Nov-2013 14:26:54 GMT; path=/; domain=.paypal.com
+
+VERIFIED
+
+[11/26/2013 7:21 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_currency=USD, receiver_email=admin@ctosonthemove.com, first_name=Nepal, notify_version=3.7, txn_type=subscr_eot, charset=windows-1252, residence_country=US, business=admin@ctosonthemove.com, payer_email=nepalp@ciosynergy.com, last_name=Patel, subscr_id=S-3KB15577VK2707250, item_name=CTOsOnTheMove - Subscription, verify_sign=A6PCib9UciyX2TaNJ.kSNdbeLZ5AATxyzogT4RMmpF0-6NvZ6MoXVD3A, payer_id=JAMGCGRSS6CY6, payer_status=verified, ipn_track_id=16051aa6ebe83, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Tue, 26 Nov 2013 14:21:55 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=3GLHffpn7zQwTsm1YYTzVnefCvadZOlrWXXGVzsgpZgVB9PsDEmaMYLBZqW9g6Q7uueCuTBWNYGx-1Bxgwecq-fcmsDJYc9fvtOojspTWVW_sMd-dKkTJP-7UPg_pNOFCdkLPnLpQoV8hHgtV_EOBX8oGUwbL3j80UGk8NuEcEfah25CjL3K6xiSIWjNWq0-Rv8w-d25WRc_PYyBlhppkryPP08Jm-Frw9c66SlOTTBbw9b9nzURx2QUEPKzojQDx2_P7QA7iuMJiHQlCpbgkS8x87FtWL2tl_GWOmkhdTHCD07LsV9eAYhStDDWFEqc2GHNzXnxnNubg4p44RJi54g3uB-b6907K8GNBZ0prRUVEH3Ek_lrZeR_K4Lth9kJRFSS7qEA0vI3VrW0d_iII1tluv6unNsLtjKYEssuqSIWqnNrlCo04SBTcmy; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 24-Nov-2023 14:21:55 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 26-Nov-2015 14:21:55 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1385476015~id=cookiew7x05anTgpxNcUikk4yJoZKw+fRv783t3Oua2ekU1mnR/f881Ii2SX2O9YJfJme03VuZPKXQWJq6brv9edJ7g9vPtXnpPFQspeUmWj/xJHw5nR20iZ9xnt08SpYRgBbi; expires=Tue, 26-Nov-2013 14:26:55 GMT; path=/; domain=.paypal.com
+
+VERIFIED
+
+[11/26/2013 7:22 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+amount1=1.00, amount3=247.00, address_status=confirmed, subscr_date=06:21:38 Nov 26, 2013 PST, payer_id=JAMGCGRSS6CY6, address_street=5560 Brentwood Drive, mc_amount1=1.00, mc_amount3=247.00, charset=windows-1252, address_zip=60192, first_name=Nepal, reattempt=1, address_country_code=US, address_name=Nepal Patel, notify_version=3.7, subscr_id=S-3KB15577VK2707250, payer_status=verified, business=admin@ctosonthemove.com, address_country=United States, address_city=Hoffman Estates, verify_sign=AcdNXOjSXbsF7km9FvnnlLXpCtEhA4PEW13DhCrcLk-LQpzO.KWPqMhK, payer_email=nepalp@ciosynergy.com, last_name=Patel, address_state=IL, receiver_email=admin@ctosonthemove.com, recurring=1, txn_type=subscr_cancel, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, period1=1 M, period3=1 M, ipn_track_id=f5af44ad49ce1, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Tue, 26 Nov 2013 14:22:25 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=0M4G7xt5Pr1knCQFRzrgiFJ-QjktgXyfE9-pVa2sQXnTtWcwaWj4vrXvT88lwJyxVHyd9HLbkZjX1WRn1OxmXdkMVC2VbOhrPkfvuaCOJyVU9jJHFzlPzX_yzw6NA9dnez-lK9Fj0zDLfXJdX1e3vxGljrGJTsZqAnYPfgKCPk88yKTP9Zd0JNt6lIzuq0RWIKI-mH7bKGiiIMs77q8n_Xj1owwRMkE3-OzUChShC3PBpaH5JxnkTALswLmf2NDy5wmRJAvqcQ0wJPx4ejs8vq-vBfQ-fyhfCSWnvhszhfEHd-wRdaysuSBYkh6n21k0AHy2rMnfwI0y6iTTZvKJoJLGdhDDNP96k6MXwk6HnyUe1r_IjO-BmBFbCaZlAWOpZSkgIEOxywg-firBP-OvCBZFQI_DfZWs0HKg-xQrJz7UeE77EkRgegT7ywa; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 24-Nov-2023 14:22:25 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 26-Nov-2015 14:22:25 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1385476045~id=cookieM9ZqExvMGmaG4HaeAPC1R9FGy0X7mCgim0HSidw8SIE2REVObO+JY2wnjPIPZ92feF6YXzjWHjC5qh09JfBRzbf+Sx3mu2RuIHe74pwDMYRhww9gjAGjM6smg24OfJ/W; expires=Tue, 26-Nov-2013 14:27:25 GMT; path=/; domain=.paypal.com
+
+VERIFIED
+
+[12/10/2013 5:28 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=100.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=ERCNSX6M54FZL, address_street=5101 Pulaski St, payment_date=04:28:32 Dec 10, 2013 PST, payment_status=Completed, charset=windows-1252, address_zip=75247, first_name=Robert, mc_fee=2.80, address_country_code=US, address_name=BCD Electro Inc, notify_version=3.7, subscr_id=S-3Y182732SJ9354900, payer_status=verified, business=admin@ctosonthemove.com, address_country=United States, address_city=Dallas, verify_sign=AjSXdmL7ju48lnHiJRS1JojuFvvNAqJOkV2m.vQs1nlg5nvDBduwpjTK, payer_email=ramaya@bcdelectro.com, txn_id=2JS769237Y577952N, payment_type=instant, payer_business_name=BCD Electro Inc, last_name=Harris, address_state=TX, receiver_email=admin@ctosonthemove.com, payment_fee=2.80, receiver_id=TGEXKYGNDNRGW, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=100.00, ipn_track_id=d29f3124756da, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Tue, 10 Dec 2013 12:28:53 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=reQJo_bSjH7wx5qVFTAi34V_OfOE2Lo0PAcRvmNUzfygcGGaCCYJclGILXM_QSr4BrCSZ3h7N5YZ4HqZn7UEVq3Bd0dQ51bwrTp8tf924_SnQ7SRkVS8XymUx2ufYYxH-TdfMBU2WIMAvb1vd9o54tskk35e7T59amIBboD-n5GrG5hUkrhHA17qyyRuk8SGhqenFCan3mAyqPJRGSJJMYL8b6SFzDRJ-pqw91qA6m2Eh2EzXhIrvM4oS4Q3iPMlSFPKUGJJWQPQX5C0-PIu6WTKhoquukzjrN3YBjPXXnVEXJUP_PnZeh7Gv-VA3ymeNeO2tE841i_9GhKeGbhokXr4HmCRojg9zSCdNsaaNnLtIUgivXYmQW5QGByxltzQc-icGXgRFNrG3sSNqM0XOzX8RNlYNfcJAECVNQiWdD-OXjW5ijoN_HFoDJa; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 08-Dec-2023 12:28:53 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 10-Dec-2015 12:28:53 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1386678833~id=cookieBl8f14Ffe08jy9rKBAvqXPXPPjqjOHSup8v2gsd2/V4VkCQvUcUd9t1YTW6p14KtEJNXUAj1SILoVQUbXIO8wVMgE/b6CSOs8cwKm0Agcpo1cL6WRLEUuFA3lx+QdpUx; expires=Tue, 10-Dec-2013 12:33:53 GMT; path=/; domain=.paypal.com
+
+VERIFIED
+
+[12/12/2013 4:08 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=-240.52, protection_eligibility=Eligible, payer_id=JAMGCGRSS6CY6, address_street=5560 Brentwood Drive, payment_date=15:08:27 Dec 12, 2013 PST, payment_status=Reversed, charset=windows-1252, address_zip=60192, first_name=Nepal, mc_fee=-6.48, address_country_code=US, address_name=Nepal Patel, notify_version=3.7, reason_code=buyer_complaint, subscr_id=S-3KB15577VK2707250, business=admin@ctosonthemove.com, address_country=United States, address_city=Hoffman Estates, verify_sign=AZHQaA4dyQEpHZFzHmIcyG62.X4NAxm6ggdW7-AEPh9tGFVbjHATlDXo, payer_email=nepalp@ciosynergy.com, parent_txn_id=0XA1974028040631E, txn_id=6HS55958X1556230F, payment_type=instant, last_name=Patel, address_state=IL, receiver_email=admin@ctosonthemove.com, payment_fee=-6.48, receiver_id=TGEXKYGNDNRGW, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=-240.52, ipn_track_id=c99cc8706130f, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 12 Dec 2013 23:08:43 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=9frlTTQ_1a1cx2WqUZwhxdygz9jPCru8dfbz1jUKdKay5CTrf3QEAx_6kiDnjXt_hBz847gtqEZdSYYxonUXBk5T26RrKT7TSqImPzKiSJPoBlRK4etF0Y3BbX3XilMsX7-ODlQn1v3DBCYBsHsXMpd7GH5y99ZjZx0insGZsfHQ1SYF05ejdj687u_UWdcYpWDWitR3QGR-P12oohUwxlm3NpWJP-rkGGPR96OBt4jTFxuBi-QPFWgxaErkc5YOPoncWxQuPqB7PRXhvVqfsjHzxaJMF4s8qmkqdwb9DAH4q1XoaFKiCfdEI7WuN9nUB470mOD-6c_NwuhJmq-emqoEaWk6whOuJgBufqDqS7Opcr4b9fRhjv_nGU8oYEYcE2ln2ptbMDpNrVFLv1uRTn54Wws588B6iSNMBXbwGsuXfynXjopBImQcbl4; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 10-Dec-2023 23:08:43 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 12-Dec-2015 23:08:43 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1386890023~id=cookieJMWIuW5XejRL/MWtDmCbLzUNWOHpfv3DUiZqzEto92uFQYAc+3xGoGfU9znqajwdqyV6eUEsmNet+tx6lZGqnxwYG0xniRQp+a4bwMuFMICpsALmXlCL38IXUiwrfRDS; expires=Thu, 12-Dec-2013 23:13:43 GMT; path=/; domain=.paypal.com
+
+VERIFIED
+
+[12/14/2013 4:16 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=247.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=4XYC83KSSPYSG, address_street=1 Main St, payment_date=03:13:40 Dec 14, 2013 PST, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=Ananga, mc_fee=7.46, address_country_code=US, address_name=Ananga Samanta, notify_version=3.7, subscr_id=I-PX80W7UGEJSA, payer_status=verified, business=ananga_1275462143_biz@gmail.com, address_country=United States, address_city=San Jose, verify_sign=AqONoOTVv3hQa3j3loLnTP2gUysEArQMeYSYNleB9Eb3hhQ.DxSlHp52, payer_email=ananga_1275896260_per@gmail.com, txn_id=5YM41061E31967716, payment_type=instant, last_name=Samanta, address_state=CA, receiver_email=ananga_1275462143_biz@gmail.com, payment_fee=7.46, receiver_id=VBY9KVYU7NR88, pending_reason=paymentreview, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, test_ipn=1, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=247.00, ipn_track_id=460a3c2e3b346, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Sat, 14 Dec 2013 11:16:35 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=HvZFVMXHDS6RrnI7cuF6oJCwZ7ZxStrnD-4UBj3C3FQZhvnLvUBZj4Obn-v2CSFGY523Luv8TuDOF2GZgQ3nOF2SDrpmC1lCBHjq0IkcWCICY1vO2NJ3KZT8HoYwQG8QlKJgEYtCUnqb7wwSEslZWmc2W2Sh7oWu9bDqAeowZy9L6CaayE9hQp-hDkTYr10kGiv5qGWKn5c0zUmHxPpbcaDhSvacm8suW0eWqFw0naDULCvocScD591ROao-sObhjKt2hj0DICTAZYwkECWg5KMeu7XgBRpdr8Cf3mr7YtZuT7wsZAW0EZtGi-AFmPbuGUIsRZQkkAw4KhtdOutLY1Ucwd8ciNWLK42RqAUrzXnR3RtNJ11aDxptwW4C6AQW7Om1B4ZW-Ad_QKfsGg0FKtxkeuad8oZow7uUnjeTYkfTHs2CZUqamQK1nbu; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 12-Dec-2023 11:16:35 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 14-Dec-2015 11:16:35 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1387020095~id=cookieSnV1V1wS6jaJvn7ej8iioyXRZYzJXwkzIolQIY7DXCEhBwUEpxOREePvVQ1hID8EJyoF9nYOgNtvx5hDCrY4bQJKIgzbp2E1JAP/+N4kDMGGX29teqws1tWAJjuTyYoG; expires=Sat, 14-Dec-2013 11:21:35 GMT; path=/; domain=.paypal.com
+
+INVALID
+
+[12/19/2013 4:22 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=240.52, protection_eligibility=Eligible, payer_id=JAMGCGRSS6CY6, address_street=5560 Brentwood Drive, payment_date=15:08:27 Dec 12, 2013 PST, payment_status=Canceled_Reversal, charset=windows-1252, address_zip=60192, first_name=Nepal, mc_fee=6.48, address_country_code=US, address_name=Nepal Patel, notify_version=3.7, reason_code=buyer_complaint, subscr_id=S-3KB15577VK2707250, business=admin@ctosonthemove.com, address_country=United States, address_city=Hoffman Estates, verify_sign=AQYTgL3v31I0V8X0-w0FFi87o1FAAYmLh0vpGtqCsad9iTYUuVDKD4Mq, payer_email=nepalp@ciosynergy.com, parent_txn_id=0XA1974028040631E, txn_id=6HS55958X1556230F, payment_type=instant, last_name=Patel, address_state=IL, receiver_email=admin@ctosonthemove.com, payment_fee=6.48, receiver_id=TGEXKYGNDNRGW, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=240.52, ipn_track_id=e17dac2623645, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 19 Dec 2013 11:22:06 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=RqfxUJYLr1IOyLedgj4cteHwEDb3lmoktB0-viLPDeB2u_qKwJ3INjFmyhfJsudnI0TBLpfvHvOuoBsd6cO-5IjKCf7FTTGJp9xNy4OPHGBbpR6wBny1cHSraiIxT_dTfALKD1TvUJDkeiiLy22A5YAFKBOu4BAGS_huIJkOppqqhHrUcIuImKJwyVbhMWR5Mg0HaGHzV-veAtJA-6_DoDNAGOETNeTaLzj8LTmiW0gtUpVby_yfMSY-I154DILoPBOoQjhdLnqwF3XW2RVaeWz5gk2Lx8OAf9FNzn-FgVNnnrkizgeV-kfVZzwQGZvI4OVeqF0gICCS91Fj31-HlVbpq5OG_XuFc_SJEuwqlk39lurOTDLKa5o_Ahf4WHWDHldbQuwaTdAvXFRldDf-RqdGhiBYgeUf3psgsFLVmyg-bJKry8hHJQPb-oi; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 17-Dec-2023 11:22:06 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 19-Dec-2015 11:22:06 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1387452426~id=cookieT827FOCSjhKJkhDsKdUIVmCgBhdtcKwrjsSbMkDroGmJxlTkqDEwyqnBksHHAtNfkaIkXlBakQmmwVTaTDP08TND78qQMykOGjUFCTuKbfpvNzOXtgtDad/WbZLq9Nla; expires=Thu, 19-Dec-2013 11:27:06 GMT; path=/; domain=.paypal.com
+
+VERIFIED
+
+[12/20/2013 3:26 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=747.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=TEU6WYW9S4QYE, address_street=5925 Dustin Trail, payment_date=02:26:34 Dec 20, 2013 PST, payment_status=Completed, charset=windows-1252, address_zip=75034, first_name=Kondala Rao, mc_fee=18.98, address_country_code=US, address_name=Kondala Rao Kandregula, notify_version=3.7, subscr_id=S-76A22332TT240691U, payer_status=verified, business=admin@ctosonthemove.com, address_country=United States, address_city=Frisco, verify_sign=AJULjXLWifX4Q3cXomBDoUlZUpqPANj83pigNxR3AeGHl22LPm4cNKOz, payer_email=lakkon@yahoo.com, txn_id=286489444S365213V, payment_type=instant, last_name=Kandregula, address_state=TX, receiver_email=admin@ctosonthemove.com, payment_fee=18.98, receiver_id=TGEXKYGNDNRGW, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=747.00, ipn_track_id=353103a75fdc1, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 20 Dec 2013 10:26:52 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=xqaSvb_n9KSvxkLLxw9P4wd6WmrXghsMXLsUI6DHcerpwGkCxzPwO51pqrTU3Habf5Y1-f48aVmrzM-CSAbnzPV1Dz_bCaDfvkHcFEv8J3hGMvFfDJ8Wm_gszpHPDQ0UhqhZqfOegHuhwB_JsYSlupW05ryQJoBgGmW_taEPZP80_yqjsudh4W4E1A9sxSEPmoJCJ0G1Za6JysJBbMDnOpw6u1kTbvT_0yv7u-_lBgYQ4V3Nz-NvI_0PBBYa27uhrzTQKe6ftwYndBwc-0n3Fj9i1WTxqN6nz4Gkkaed9sqK5uykCqx2okPfemj_t9EfZw-J1AnFhMfBn0IajIKyT40mt0RublhcSAjOnzYKFCIQDERUNPpEnihvQ-bQkB-RlheieRYJHQYBWbQ2QsWoOTY-9Sej5AxSoGDtBQXVejMWJUVT8QoYkmu8HFi; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 18-Dec-2023 10:26:52 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 20-Dec-2015 10:26:52 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1387535512~id=cookieeliyQqYyO7OIrS+Vjv/7la8l4Ah7KLwYd/m76oOC2I4c0yQdaLFrPUFGedO3FBEzQ4NAUsMZ3OqAuclVQ7Q3jwAao5g2UVonaZRN/svBdG0pwQDKSxuG4AkHe05it+o6; expires=Fri, 20-Dec-2013 10:31:52 GMT; path=/; domain=.paypal.com
+
+VERIFIED
+
+[12/24/2013 7:54 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=1.00, protection_eligibility=Partially Eligible - INR Only, address_status=unconfirmed, payer_id=WK5MRRB3JR5RA, address_street=303, Meghdoot Towers, Saibaba Nagar, MiraRoad(east),, payment_date=06:53:58 Dec 24, 2013 PST, payment_status=Completed, charset=windows-1252, address_zip=401107, first_name=Samir, mc_fee=0.34, address_country_code=IN, address_name=Samir Tiwari, notify_version=3.7, subscr_id=S-7BW53989AG919972H, payer_status=verified, business=admin@ctosonthemove.com, address_country=India, address_city=Mumbai, verify_sign=AV6bcURHcJIWh6zUZyqFcM2QCeYSAyuAtXSezmuzPW9bW250i420Vb-4, payer_email=samirtiwari@gmail.com, txn_id=2SX144012N8799939, payment_type=instant, last_name=Tiwari, address_state=Maharashtra, receiver_email=admin@ctosonthemove.com, payment_fee=0.34, receiver_id=TGEXKYGNDNRGW, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=IN, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=1.00, ipn_track_id=f3badd0ed1a94, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Tue, 24 Dec 2013 14:54:13 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=2sTV2yZWdYkljcJwJXiasHE6t0rtevH3AIspvYyFIkNGSShbFvmL_ToEUhA13mSYatMSEAheZa7bycp5OeSOCyD6SsNZD3y5WAKLv7R0QgvDpGcaYqmdkdwggdojYNUOFiXJjCWuwi5d9VuLVMBjjC7Erorezqr8gwTDhi9G8txjKXuqZ3w1aMTZqzOiPMDKkf00DyRyNuOwM7qe15bnyTgBtJmibvJ4s4CkQU70IvAt9fQejipu1kWQ7El06hYoss3Zbo8EVOD3p0CNNGGwMl75Xss54X6OLHnDwhZA7y5vWYvlljaKl7q4S-SXCFLDXIvHU1pIGTFZUFEQKQjjPCwUSMDfE7gUBI8GqEu4zCQ9WCtnR672UcXkW44vlOOcoVTnhX2Z2u67HhFTGSaf0EGeTWUSRT8q8-vEbOUrf6dVZqt3HvFN_PF-o2a; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 22-Dec-2023 14:54:13 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 24-Dec-2015 14:54:13 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1387897153~id=cookieoSM0fmCwgc0Gq9reUHtbnVhQ7WVs7gN/JiBczGwR+4A0F2AZMDekjYApXwF1LcJuWyyYpcvQTl7MgKDYhpdOcKawjVwM6yYxANzNvH1y8DLDmGo1B94banoXOwA8MZa1; expires=Tue, 24-Dec-2013 14:59:13 GMT; path=/; domain=.paypal.com
+
+VERIFIED
+
+[12/24/2013 7:54 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+amount1=1.00, amount3=747.00, address_status=unconfirmed, subscr_date=06:53:56 Dec 24, 2013 PST, payer_id=WK5MRRB3JR5RA, address_street=303, Meghdoot Towers, Saibaba Nagar, MiraRoad(east),, mc_amount1=1.00, mc_amount3=747.00, charset=windows-1252, address_zip=401107, first_name=Samir, reattempt=1, address_country_code=IN, address_name=Samir Tiwari, notify_version=3.7, subscr_id=S-7BW53989AG919972H, payer_status=verified, business=admin@ctosonthemove.com, address_country=India, address_city=Mumbai, verify_sign=AmzWqIXzusNcdgKEVbmSIu2DY27jABV3.rJ7B1V9Kt.KqbkMvjZYSJ7x, payer_email=samirtiwari@gmail.com, last_name=Tiwari, address_state=Maharashtra, receiver_email=admin@ctosonthemove.com, recurring=1, txn_type=subscr_signup, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=IN, period1=1 M, period3=1 M, ipn_track_id=f3badd0ed1a94, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Tue, 24 Dec 2013 14:54:13 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=VZtDP6y9xMqL-7iFGIFoJ1ROmqxiLzJ2xScXhjfLOx4TtQBw8y_nWf5Mln56GA4VyLADLM1Q9PWlU-4mCtfqAkIe0Hle599JUSAoIO-4bV9fmWge-E9YNvXQhnjI7KchCLFBVpvt7Ufr8bIkgDz0W0l-l-m8Z7Vf6SrXvMbG3QJITMfL8U8RgspTrY4p3N1XhSz-j9ITN09PnY-zjEFyyT8BCSZKXqWiEUdFVW5CDXLlJgU2PdP2N4gLbQPGFB2Yxkeu4sHqTfcpTktaYOos0UUMlmKkHusXxxYGkGY1iolUWhZR7Gy2qhR6nSXLDBE1oqfJ7Kk-BVKUhlWB8uht_ZFEtYqwrXqHck_cKBcrAps4yVe14gYlwl3UJGbscZR7RiZ_Ge1zOaqIyLZGTOf8v7DHW95HxtHJcp9TRNqi6QCAVYymkqnt7bniZ5e; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 22-Dec-2023 14:54:13 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 24-Dec-2015 14:54:13 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1387897153~id=cookiepe6BB8ccegKrixzmsY86w6igrQqRDFpZeaHfBs83QJ8n1wRzbRf6KuGHLrz+j1hlF+syiE5ccD2oN5li51jEAtyIEsJc1SzbBrpXu60Nbo4VJO77JBAzniExPTaqDODX; expires=Tue, 24-Dec-2013 14:59:13 GMT; path=/; domain=.paypal.com
+
+VERIFIED
+
+[01/10/2014 5:27 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=100.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=ERCNSX6M54FZL, address_street=5101 Pulaski St, payment_date=04:26:41 Jan 10, 2014 PST, payment_status=Completed, charset=windows-1252, address_zip=75247, first_name=Robert, mc_fee=2.80, address_country_code=US, address_name=BCD Electro Inc, notify_version=3.7, subscr_id=S-3Y182732SJ9354900, payer_status=verified, business=admin@ctosonthemove.com, address_country=United States, address_city=Dallas, verify_sign=AsWSauk3G7dMDsyTmmXBcZx-lpSiA4bQ1qhocsMXyQ6XSw4zpw1UsWf5, payer_email=ramaya@bcdelectro.com, txn_id=9G1499953V301045T, payment_type=instant, payer_business_name=BCD Electro Inc, last_name=Harris, address_state=TX, receiver_email=admin@ctosonthemove.com, payment_fee=2.80, receiver_id=TGEXKYGNDNRGW, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=100.00, ipn_track_id=5d1e3dd73d414, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Fri, 10 Jan 2014 12:27:01 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=C6ocuyPre1W9CnQbXY3-hDxAvO7CBOTyvm1n4RYkXC4Q4jHhud5EatYa8AZUKavJvsfoZWVS4RULjIXXIWdtVrp3nx48E6kWeeHMma1-8mnSVOrNmIIm4zjsiuabgwBSkBZDuVwrxaI_HeR46cPLQNfZSaCC5B20duNTn7iqu_f1YDiZjvSRKdEFgz7wzf_7h2KVJQDcxybryGel_Kj5uFylwv3pqpwkUxcWFkVJ25qkL9X88PuqGE7wQ91nhZTrzWMuAorVUBet4tomgug02fmJPfcVWSqSg9gqYzNKmG_vDHAn6xILUWAbEYYAiuYCdmi6RMdVEO1h69sp6vAieRjgg9BiodhqjjAtt2_Y8EOhHZFMeVI_t-P911aBda6EaYBf1uy97Xwfjv8Y2H9RKGpM58SGkqVNP1uVGk2Ky83UahUfTHTbHKbyMEq; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 08-Jan-2024 12:27:02 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 10-Jan-2016 12:27:02 GMT; domain=.paypal.com; path=/; HttpOnly
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+8
+VERIFIED
+0
+
+
+
+[01/14/2014 4:11 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=247.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=4XYC83KSSPYSG, address_street=1 Main St, payment_date=03:06:55 Jan 14, 2014 PST, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=Ananga, mc_fee=7.46, address_country_code=US, address_name=Ananga Samanta, notify_version=3.7, subscr_id=I-PX80W7UGEJSA, payer_status=verified, business=ananga_1275462143_biz@gmail.com, address_country=United States, address_city=San Jose, verify_sign=AKVWooZ4c2pRa4RkttdJTdYI-N2zA8--JoJSTu8iKKq6QauVaUGqDhvL, payer_email=ananga_1275896260_per@gmail.com, txn_id=3HY175694M741851W, payment_type=instant, last_name=Samanta, address_state=CA, receiver_email=ananga_1275462143_biz@gmail.com, payment_fee=7.46, receiver_id=VBY9KVYU7NR88, pending_reason=paymentreview, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, test_ipn=1, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=247.00, ipn_track_id=50afe1c4aa32, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Tue, 14 Jan 2014 11:11:50 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=besVV70mn4MSan2OiFchpuklsI2rMDrIU_5NBkqdlRAZzZZXPyiyGwqaMKG_5Jvf7wIZzrKT4I_qiew9yKyjdVRAb5TLDOBpxQwD75gtJE_tWkotUUUErXZa-Tji9UQViKlQZJVdsC1zpW9TazhbfRn8shxSlz08fu8kGybHXwOewSli7g273rP5VYtuqXwr4quMwNPXU-oVYn-3OHedFtUchuA1Yx_rlw-uHMv8I3Wk2qtEheuNSWfaliVY6gtwEVhDkasjLU96PFZybxcrIassel0pdtN339ozXNhVvL4mZ2Ubt_x-5lWQlGXlhdTtqDyzt0JEOtR4PqV7FuEmZedDkYn0-RUojPXsKeUQp2jZth7qdKZi9GAJaJC04s0P8PZGiC2Wczw8vKwl_65xa9-i0mt1sUmtLpHJBJL6B-nvB1Rw0cricWzaYN8; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 12-Jan-2024 11:11:50 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 14-Jan-2016 11:11:50 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1389698210~id=cookie3ypc+R0MVgoP3oAMjOM0E1zxB2TMG7alF/yrCBLIua+yvTLg2afXnZ8BnnbsCOQC9NgbtkL1j+nc1fZs6xjok0lptp3OyadimQk5c7da+R8f+zNgIaK7b5FK06QZkScg; expires=Tue, 14-Jan-2014 11:16:50 GMT; path=/; domain=.paypal.com
+
+INVALID
+
+[01/20/2014 3:42 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=747.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=TEU6WYW9S4QYE, address_street=5925 Dustin Trail, payment_date=02:42:26 Jan 20, 2014 PST, payment_status=Completed, charset=windows-1252, address_zip=75034, first_name=Kondala Rao, mc_fee=18.98, address_country_code=US, address_name=Kondala Rao Kandregula, notify_version=3.7, subscr_id=S-76A22332TT240691U, payer_status=verified, business=admin@ctosonthemove.com, address_country=United States, address_city=Frisco, verify_sign=Arpzm0qW6spufJr68.dEG5X2SDNLA0Wx6zK4y2mOoRbj2sjkJT-ID3zY, payer_email=lakkon@yahoo.com, txn_id=77M64524SE473352V, payment_type=instant, last_name=Kandregula, address_state=TX, receiver_email=admin@ctosonthemove.com, payment_fee=18.98, receiver_id=TGEXKYGNDNRGW, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=747.00, ipn_track_id=c996dad4b0e8b, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Mon, 20 Jan 2014 10:42:42 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=qu0IqD3EMUa711R0pteR8NTmCywDC-nej608MlFkXPqSB8f4ppKTmQIDJE7GQPG4c8R6fQSHPz-jXfRhqgjYd_ElV4_728D4OUj6s7p54eWPYLo1JF2Oa7R8H9k_BtyLW1mNDYiMxERDF2E0cRkoHyn_cVCld-1BvwUkOXgNVBT7vtVzZFo6cqp2aDF5LCA37_TDjBLz-7jmGKWty3HOPUImQxZ47h4zLEC_ez-892-JOAbRd6GLPm0hpDbrnnQrzGT7Hkt0K1ODK-3wIAHhJnmu68QsBLHf-dadocsDeLTVMBYrghqGUzgnUkWHbaV1KAEDrJUa37b5HoOuVGscd7-XVRcUWATmODGoLQwlHva6hwHBrGaQSWyQnF0djGpi0ZUJI1Iir2PXwgkfG6-oRG9fJnAIUxOFeOqGSKy_0iQMvwi6-vrXP3UDjUK; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 18-Jan-2024 10:42:42 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 20-Jan-2016 10:42:42 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1390214862~id=cookie4YGWU5CBkZtqjbkMmu0AVARAIT9IJ+2zFHu6d/c45kenq4F2RQ3RRR4UCDJH6wrjOZOATRsQ8izA006ewGQBG7fLJOxOtQbElVq9BkYgNP1kA9G9W73oKLm0d4Zgv+lQ; expires=Mon, 20-Jan-2014 10:47:42 GMT; path=/; domain=.paypal.com
+
+VERIFIED
+
+[01/20/2014 5:05 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=-747.00, protection_eligibility=Eligible, payer_id=TEU6WYW9S4QYE, address_street=5925 Dustin Trail, payment_date=04:05:27 Jan 20, 2014 PST, payment_status=Refunded, charset=windows-1252, address_zip=75034, first_name=Kondala Rao, mc_fee=-18.68, address_country_code=US, address_name=Kondala Rao Kandregula, notify_version=3.7, reason_code=refund, subscr_id=S-76A22332TT240691U, business=admin@ctosonthemove.com, address_country=United States, address_city=Frisco, verify_sign=Ar65LQ8D4i5231dnJnwTy8lT8UaGAkJMmej7eMGPiVG0SoXqrWE158P1, payer_email=lakkon@yahoo.com, parent_txn_id=77M64524SE473352V, txn_id=5AK93910VT9606453, payment_type=instant, last_name=Kandregula, address_state=TX, receiver_email=admin@ctosonthemove.com, payment_fee=-18.68, receiver_id=TGEXKYGNDNRGW, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=-747.00, ipn_track_id=adfc037cb90bf, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Mon, 20 Jan 2014 12:05:44 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=eg5RXZ8WQ6ZT0kdKCti1s4N_Wqk3dpZ4m0wZp5bqSjN6PM41CGvXI1zlW8X30HnzT9ANJJHfdxelMxPlq61MkiGDa81_6wgJadGJOsLnwy0xvVDV9t2DJdqfB9jvpTPRLkRuXuaIqTiQLe_ywmGDOHCxzlB2khE9DO9maYVyCNIk78O1qpEvt3r6MWhxOX8UEC__47FlLf5F-A_AVaKIvjeKrA4pPWAM3cmAzFu70dmjUxT7MdCFV2_1T_Jr4FIM_e1KDCCM0xrYQv5eLlx0n-BhhFuBD-_HWg4GY7F6YS4jFsWdLO_GwYFwmv5XK9EtFq3TaCn45tGgzNdfErt5BTXqn6_WHxrMy5FMSJFh1PeFCuj_QjSnRFmp-fYrTTEbJINFY7I8Tk0xx5lh5xlLRHjw3Zm5hQoSeWWUFKDAhHG0UHUTbUZ7VTusUcy; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 18-Jan-2024 12:05:44 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 20-Jan-2016 12:05:44 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1390219844~id=cookiet3ZdVmCdrYhYt+7mKBUWY1xpj9yS989bMerBx0H/beGIsDIEteFSIBymLbgJjR74DkwmNK/x/eNfOG85+OLFWLRU+c9GozI3ieijlp+HBz76Bz9jPOYkzIrkiMdhPL4H; expires=Mon, 20-Jan-2014 12:10:44 GMT; path=/; domain=.paypal.com
+
+VERIFIED
+
+[01/20/2014 5:07 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+amount1=1.00, amount3=747.00, address_status=confirmed, subscr_date=04:07:24 Jan 20, 2014 PST, payer_id=TEU6WYW9S4QYE, address_street=5925 Dustin Trail, mc_amount1=1.00, mc_amount3=747.00, charset=windows-1252, address_zip=75034, first_name=Kondala Rao, reattempt=1, address_country_code=US, address_name=Kondala Rao Kandregula, notify_version=3.7, subscr_id=S-76A22332TT240691U, payer_status=verified, business=admin@ctosonthemove.com, address_country=United States, address_city=Frisco, verify_sign=Azrr0htx5fvLJ7m8DocXL1sU78b9AtSvVlkN-eiFUrFIeYDLppcJOVhX, payer_email=lakkon@yahoo.com, last_name=Kandregula, address_state=TX, receiver_email=admin@ctosonthemove.com, recurring=1, txn_type=subscr_cancel, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, period1=1 M, period3=1 M, ipn_track_id=ae2d3c8a11265, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Mon, 20 Jan 2014 12:07:43 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=v-V1aB8Dg92ime-Vtn5W5PVNbVVaJSTHJ2cJvgAS-ifQgAizIyilFxiHR3TV6jfx_Il7C9qNiIO5ZEW5PZLCU81lGsvTAYIxipBXu8uwy1kTJZWiQItdKObviimpkUjEB8FaPLzkHKLVYbtVlYmUBhwRh0cRAdQy0To_A8pZ89DuBumSqT6Vn8itjeKwAiTiD2aIuAoLNWYI5tRZ5T-ZuKW9Jhb14prcRPG2mcnbRHlB-gdiMGL5ekl9uizENmFFFIv9ttSfWP_FYA5c7ERpd6Wr_JLX9jZQ0J9EGflGh0xA5x-Mk4HmJwZLYpm9P_UubxMLy6jbUsG-AK5A250jhGEKG9weaBvZTPAWpY_bWlSlQgv_UnSHby2aCmKTu4J81yJD5V7OFzjvjhisnhy_kXvXGvsqcOt0nqYu_6TKpyHp80w6DmQXum6Zd6i; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 18-Jan-2024 12:07:43 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 20-Jan-2016 12:07:43 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: aksession=1390219963~id=cookieGrxeAqSl/Pb3LCHPT9m+loIMUhb/VzT2Opz2PTsjXbRJAvgJadLpwNlSntoXgQbAb/qB4vaqa4YgIux2ne4mKrHZHgQzh4G5FSklkWAxG+8r6hcpbhnOf3HhVbPzJaYH; expires=Mon, 20-Jan-2014 12:12:43 GMT; path=/; domain=.paypal.com
+
+VERIFIED
+
+[01/22/2014 11:05 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+amount1=1.00, amount3=747.00, address_status=unconfirmed, subscr_date=10:05:33 Jan 22, 2014 PST, payer_id=WK5MRRB3JR5RA, address_street=303, Meghdoot Towers, Saibaba Nagar, MiraRoad(east),, mc_amount1=1.00, mc_amount3=747.00, charset=windows-1252, address_zip=401107, first_name=Samir, reattempt=1, address_country_code=IN, address_name=Samir Tiwari, notify_version=3.7, subscr_id=S-7BW53989AG919972H, payer_status=verified, business=admin@ctosonthemove.com, address_country=India, address_city=Mumbai, verify_sign=ApLQb7JnU7RUKI2q9QDa2TSCXSOdAs3k4CNI17Z9OMqttU0nbsxNbeUE, payer_email=samirtiwari@gmail.com, last_name=Tiwari, address_state=Maharashtra, receiver_email=admin@ctosonthemove.com, recurring=1, txn_type=subscr_cancel, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=IN, period1=1 M, period3=1 M, ipn_track_id=8c423b7ee710, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Wed, 22 Jan 2014 18:05:54 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=jxYKj9PPCgPlDAY4gIWCjM1JZrwRn7RWNLCEHmrVbBdjzogxrapt-SRjHA480nT-tAab9G8w3wqcD-YvDha9YLE34y8zswN1X_MGvCYEG6KIRkq_0r-pXxyfQpYHMTvRYUSsERYQsh1WijxU1oX2mLz-BTn2yUqK_zuFUCElsCrlWLJhvwxGRhczU08ssn04xGpeznXo4RNpW8qgwWIPUUVbnKEdr8cgGMzD1rYWps0i8wPxm6k37pCGbNATz1jRgCMwEEKodaEVexTRvLSBfnr7EPkdubqyP-LzLoFEHfksj33AFn-yVcBWUbxvqGbHXerDr3tERvnBcgh7TvFT5iDN8Y6Y8JKyKLL04M0waf3_IK3f9VZA8Ny1n3RNATDaDWzoomphNQwbLbQxojFDevIk4BL2uMT9uZ0CV0; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 20-Jan-2024 18:05:54 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 22-Jan-2016 18:05:54 GMT; domain=.paypal.com; path=/; HttpOnly
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+8
+VERIFIED
+0
+
+
+
+[01/25/2014 4:15 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_currency=USD, receiver_email=admin@ctosonthemove.com, first_name=Samir, notify_version=3.7, txn_type=subscr_eot, charset=windows-1252, residence_country=IN, business=admin@ctosonthemove.com, payer_email=samirtiwari@gmail.com, last_name=Tiwari, subscr_id=S-7BW53989AG919972H, item_name=CTOsOnTheMove - Subscription, verify_sign=Axj3.aqXSGLt4wqsWvGviNTViUPPAEUHEdIiqsBdhGfEyhCTJsJNXp10, payer_id=WK5MRRB3JR5RA, payer_status=verified, ipn_track_id=a12bdb2959843, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Sat, 25 Jan 2014 11:15:03 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=3z62R3KCHULfmqXGtPt7b_1Pe--1gd24PQ60Hy5oc-i7MceMTcB-tYmxFNU_mwoxLh6jAka1rujiZbMiVw2E9jibHzAhA9dleTDruPRp4AnabeFypblyNVtRvfgG-t8z1whS4FBNhN9hV9WANvJufg4odfsJGaMA6vwG39r4G287PIMKOO5yrzC_siVyQL53jEnaFiVo0wgas5p-Bg29w8LBn5yYgiMXiyolyX2CWUVR93cK152KWer-UWHWrdGOfqhikEsLUg1PCJeza0huHe5RtwdEaL-DP5ywwxMlx8jjrfN6QuAoW6_07uowe0b6FYUvLwVz7G9d44vJkkPTYo6liBDhxsQYETEKnNOJRry3OB5u_YayXJR0HvE4Nosd7druHOIzwhrqIYlJOEBy7rWA-KBnGQj2tRvZ3DkV-zlohzXd05_fZsOdYLC; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 23-Jan-2024 11:15:03 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 25-Jan-2016 11:15:03 GMT; domain=.paypal.com; path=/; HttpOnly
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+8
+VERIFIED
+0
+
+
+
+[02/10/2014 4:50 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=100.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=ERCNSX6M54FZL, address_street=5101 Pulaski St, payment_date=03:50:16 Feb 10, 2014 PST, payment_status=Completed, charset=windows-1252, address_zip=75247, first_name=Robert, mc_fee=2.80, address_country_code=US, address_name=BCD Electro Inc, notify_version=3.7, subscr_id=S-3Y182732SJ9354900, payer_status=verified, business=admin@ctosonthemove.com, address_country=United States, address_city=Dallas, verify_sign=A2J5rMwAxgdKzJzSJFjQ6t4FTVlUA0lHVElhYBJUD0YLbSxjz.Ri8OUM, payer_email=ramaya@bcdelectro.com, txn_id=07W67236UW6369546, payment_type=instant, payer_business_name=BCD Electro Inc, last_name=Harris, address_state=TX, receiver_email=admin@ctosonthemove.com, payment_fee=2.80, receiver_id=TGEXKYGNDNRGW, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=100.00, ipn_track_id=b915ac61b659b, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Mon, 10 Feb 2014 11:50:33 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=KVv6e5eKfZgPpXGNCHbSfAZDlMpUsBoy_VU32z5ng6QpCqh9uyPgcy9JtydejjrkAYk4jtOjBS_Vggf_pcCHoZgJqfFNp7M849EYgEtCXbcQHQ_a_4Ie1rSe0G0XS5uz1GNyb4qwXfeSm_-Jhu-AOrXyNFNNX72FKNw1ucCTEHU60yU-tKln4KLjNM1jEvFuyD7JgjQL_k_fSVvLMW--xMnyBpyex81DEZhVQCuRRH6RSiiUGbcIurCoYQpnvLu6TdloLTUg04A3LwUHNhZ-t3U7VNL8a2C8Dfy9AHStJvT_JeugvUHjIlF_dS8bqdv5nf9oBN_i9UBZbdBDexpHsdlDwTF3ImiuKcxVM8CucQoRjyrFhizmP22bvZTZ1esdjLCB4_BPiuQY4Pru99Lyp2v9kzsPU-IwQqTm55mEcs9nUsoubanqREDH7Ba; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 08-Feb-2024 11:50:33 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 10-Feb-2016 11:50:33 GMT; domain=.paypal.com; path=/; HttpOnly
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+8
+VERIFIED
+0
+
+
+
+[02/14/2014 4:48 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=247.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=4XYC83KSSPYSG, address_street=1 Main St, payment_date=03:47:58 Feb 14, 2014 PST, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=Ananga, mc_fee=7.46, address_country_code=US, address_name=Ananga Samanta, notify_version=3.7, subscr_id=I-PX80W7UGEJSA, payer_status=verified, business=ananga_1275462143_biz@gmail.com, address_country=United States, address_city=San Jose, verify_sign=A1AOZMKaO0KnaFcsuts8mkcF2TAlAz2ls87ofLMhuYDjP6h0Ut7oe1Av, payer_email=ananga_1275896260_per@gmail.com, txn_id=4EM28329YA6996333, payment_type=instant, last_name=Samanta, address_state=CA, receiver_email=ananga_1275462143_biz@gmail.com, payment_fee=7.46, receiver_id=VBY9KVYU7NR88, pending_reason=paymentreview, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, test_ipn=1, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=247.00, ipn_track_id=e508782ec73c6, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Fri, 14 Feb 2014 11:48:30 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=y06bX38UKbU-FfnwlRz1eQ7l31AeDUmv2gBZ2wcLxMW-EfhgpwMynlPITCEWYD0kLf6n2RcNp82_DNenD7gqZIKdTcjKiAYJwFtjvWRlsMRHKDS9W5_hIljlRfXWk0fxb3fZUH-4NfldvFU5qZXurNfx9lDiuhQHUGmorzyFjVU5Xnik8hMqju5N3XGgu5HT8Qtaj8csIoMcWGNqaTbR29YmMIikx7ZRBMG-5xP1uOYCG5yurtYnO9cCMMgC_1VzaOWenaZxhGZ8qaZAq7rt0B8GbBt3V-FlsjK-SIS1FgaatDFSJo3ajNryhmO2j9R2M4PckCUggNM9NOremCIPGjkhBuOmj26ycfyEWp3wW40aYYdEtuBCll_dmsZja5gSKckiWrNORNMW6f5QZkePRojB5nGTjRW42zbQqG; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 12-Feb-2024 11:48:30 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 14-Feb-2016 11:48:30 GMT; domain=.paypal.com; path=/; HttpOnly
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+7
+INVALID
+0
+
+
+
+[02/20/2014 4:07 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_currency=USD, receiver_email=admin@ctosonthemove.com, first_name=Kondala Rao, notify_version=3.7, txn_type=subscr_eot, charset=windows-1252, residence_country=US, business=admin@ctosonthemove.com, payer_email=lakkon@yahoo.com, last_name=Kandregula, subscr_id=S-76A22332TT240691U, item_name=CTOsOnTheMove - Subscription, verify_sign=AYyT3NGi-QbnyLWRM2YtAqkMviAWAoG3quC9l2BSH5yu6LIBrG9b2Waa, payer_id=TEU6WYW9S4QYE, payer_status=verified, ipn_track_id=2bc3c36a53464, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Thu, 20 Feb 2014 11:07:44 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=ERBYRUPm6hWb34sq6j2iCfx_bB_NDpoepnOt828havyEXScNbkW4kmu5OOEeN7KhVOHhz5rRX8V1YKzJ3KD2JaLrSFtPGcuIomS9ZeBiS0k7yqZLs5icDSCsWzdkPbZS7MDsX3JibJwArvX_dDjxc06kC02esGvmd3Pu9HIhg8GL1AKgP1FtBwLkMX3GpO-p2K0sqQC4SAr01Q6UeN4IV-nXAmfIaeRLJwA1ncQJKs8Dt5sR6iY9d5mcVqZSFSQx4C0xMnK93FK8rMFJeA-PiJLEkxPeDJm204fRznYG2WiCYkdTawqhDQRUmDlFvhZ3Nml0xkh7-0IBMouCSCjelW6LjG8zDlLwZIV3rZpWOQQy4NCyr-lZ9e0GHrDZSsf9K0QvsXqld80QjbnTP3cpgwrahcLg5yNTYdTQbu5N6O6q3VoMsTCS_nXGNpG; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 18-Feb-2024 11:07:45 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 20-Feb-2016 11:07:45 GMT; domain=.paypal.com; path=/; HttpOnly
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+8
+VERIFIED
+0
+
+
+
+[03/10/2014 4:10 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=100.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=ERCNSX6M54FZL, address_street=5101 PULASKI ST, payment_date=04:10:05 Mar 10, 2014 PDT, payment_status=Completed, charset=windows-1252, address_zip=75247, first_name=Robert, mc_fee=2.80, address_country_code=US, address_name=BCD Electro Inc, notify_version=3.7, subscr_id=S-3Y182732SJ9354900, payer_status=verified, business=admin@ctosonthemove.com, address_country=United States, address_city=DALLAS, verify_sign=AQfAF9DT9pGahiZIL1vSudUz-1ohA206wyyYY0imNITawBnYucRu5qUu, payer_email=ramaya@bcdelectro.com, txn_id=2SC95305JP9451110, payment_type=instant, payer_business_name=BCD Electro Inc, last_name=Harris, address_state=TX, receiver_email=admin@ctosonthemove.com, payment_fee=2.80, receiver_id=TGEXKYGNDNRGW, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=100.00, ipn_track_id=dff2545a3a58, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Mon, 10 Mar 2014 11:10:22 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=Lq0yeK8G3VbPVQSIw9wZ6rbDuaexjTe8bPRvVOrplKKEuxH_YI8l2gCcyGcDVCek9Zp2c0pBpkzMY_rkMBmvcFCZObRhSGG7B69JbbwLFEnwGZRApAbi-HHcrJMUxg_Wy3DpPVpIkjV6BsEufcbNNwU6WUGQCzjvTNj6hWwWkpEVXoZVWuaDXxs64bmwhxH61pJy0bN6BBbyuU6R3T4A7mWhy9xsDwFc47XSe5N8zHwxcKTl1xSvAkS3fh5bPTrpxkeH-xMhhM9po4cFbDsiXbiyBfiCvgS5taRiRmzsQRMWMFi0x3zPKEUIFrQFZyoiz9oeeGpdEMJJPg5t7iNH7Jh-EfT9pG-Y4-e8WKBTd6PnE8Jy4dR4_DgFx6uhPj5qNOm6V752bMGoabyTSlO55Lvs4JS2DsLItYzzzpCCte99w9gNmuULVEI8Tg0; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 07-Mar-2024 11:10:22 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 09-Mar-2016 11:10:22 GMT; domain=.paypal.com; path=/; HttpOnly
+
+VERIFIED
+
+[03/14/2014 5:23 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=247.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=4XYC83KSSPYSG, address_street=1 Main St, payment_date=05:22:34 Mar 14, 2014 PDT, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=Ananga, mc_fee=7.46, address_country_code=US, address_name=Ananga Samanta, notify_version=3.7, subscr_id=I-PX80W7UGEJSA, payer_status=verified, business=ananga_1275462143_biz@gmail.com, address_country=United States, address_city=San Jose, verify_sign=A98BQ3a6mADgW1gADa-nREev9uvqAoT37zuSh96fAu.8Mieibf6IqzXN, payer_email=ananga_1275896260_per@gmail.com, txn_id=41C35884EN7725522, payment_type=instant, last_name=Samanta, address_state=CA, receiver_email=ananga_1275462143_biz@gmail.com, payment_fee=7.46, receiver_id=VBY9KVYU7NR88, pending_reason=paymentreview, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, test_ipn=1, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=247.00, ipn_track_id=c635cf487c7e7, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 14 Mar 2014 12:23:15 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=cFFIXCjStdUTwobj4-c-CghWBDcwQsRRhzDxxUBorbIWNstdRC4bb1znFDglkdH7ST9aXR7cGeKQW4Ca1gh44zhLK82xOX-Ae0HGMoXKSlE5wS1gGVchLi8aHwpadirK5myyhHgZNvdYtAhtXC-r7ykSuUgaERCGYA1fxFFO4rvjjV5mj4Yfmjv38lelh0APZ2DkOBDlkGS97zLnXWSGcM71AlhmSo_B3AQhaHv61lzc1ECjvRIQmQ4NRYkaPSXLkOjDMma8g3g8Cf09O6kPsr19egzDOytizLUcycrsrfV44J0bByCnDzVQiw1zMYgwP-q7n8PjfVJwsArkMK-mmUHNQ5NrZdytXlKOIc6_S6EEwA-T7dVfGkNM9B5xepmEOIkbVe20NCwxO8xeRiiNaCSCUerxfYE1RL_QKCiXinsgJ2UpmavXNACpCvO; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 11-Mar-2024 12:23:15 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 13-Mar-2016 12:23:15 GMT; domain=.paypal.com; path=/; HttpOnly
+
+INVALID
+
+[03/19/2014 1:26 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+amount1=1.00, amount3=100.00, address_status=confirmed, subscr_date=13:25:51 Mar 19, 2014 PDT, payer_id=ERCNSX6M54FZL, address_street=5101 PULASKI ST, mc_amount1=1.00, mc_amount3=100.00, charset=windows-1252, address_zip=75247, first_name=Robert, reattempt=1, address_country_code=US, address_name=BCD Electro Inc, notify_version=3.7, subscr_id=S-3Y182732SJ9354900, payer_status=verified, business=admin@ctosonthemove.com, address_country=United States, address_city=DALLAS, verify_sign=AM1-DMt5aJV6k50Hfj8d3YlIU2zrAHfKcIPOxWAEdiusmXwkPfeBECmF, payer_email=ramaya@bcdelectro.com, payer_business_name=BCD Electro Inc, last_name=Harris, address_state=TX, receiver_email=admin@ctosonthemove.com, recurring=1, txn_type=subscr_cancel, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, period1=1 M, period3=1 M, ipn_track_id=79c7b7bb1c682, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Wed, 19 Mar 2014 20:26:11 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=8f8Cx5djWkULSKV2K2ATY791a9D2uNu8CkkNewJ--8NmW2yIwomYxv7FSrv8RHsGadm3ItoO6-68QDf3baTo5t9e5VWc090ZBXqhPPaXFbgidYSwhlCQdvuPjySkRx8DpN59jqt34W1I2Sls-qKCgJDenfkaFiLE6D1w9c4NnGaY2EFZL1BcYdXA4gJffEe6JcyjtsNKcFtgUJzLqWJOWQCOGlAQCUqzVK_hbT4Ze2JhMWkCLClqdyjGQxSNwHHaUI_qwbjfAJj7FfPgOS3-IAAJ6Uup0qQqW2lnmHFbAOBV8giW8Ts8_-8HEKz7VbUQn5J7nritWqHF8MHcLO6zG-849DrnrP49Ud50hhi-gqFQDmZtlUnIp3aic8YxUhNrfI3HcbFlzCzpMy2vuVaz7ZJ6lOw3xMJU-YYM4W; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 16-Mar-2024 20:26:12 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 18-Mar-2016 20:26:12 GMT; domain=.paypal.com; path=/; HttpOnly
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+8
+VERIFIED
+0
+
+
+
+[04/10/2014 4:45 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+txn_type=subscr_eot, subscr_id=S-3Y182732SJ9354900, last_name=Harris, residence_country=US, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, business=admin@ctosonthemove.com, verify_sign=A2.P81jmSr1HkBvMuimHRSrSiXjWA8tj9PsMDkjbDAr9Z14CVZe1uHNo, payer_status=verified, payer_email=ramaya@bcdelectro.com, first_name=Robert, receiver_email=admin@ctosonthemove.com, payer_id=ERCNSX6M54FZL, payer_business_name=BCD Electro Inc, charset=windows-1252, notify_version=3.7, ipn_track_id=b1eef9a99a4f8, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 10 Apr 2014 11:45:56 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=YPpK-4WwSIQNFPRQfwfIBLFUdM9UCn1iVlNfruZIqwvqEy2g-HYSgmpSspId7j06puRq6YEjQiICwrikFizRJL3gKR4NPp69TDWH1GVJHLvACN1F1ti-f2Ce0W9FLeKFSc5_mK8DfeUVuNjHslRMuQo0XDyPn_dXISJaNXL9w9iKWVRyMeauqHc9NCGUwcqpeEgE_AzYjJfhqgUqGkP8LPk_0XjfuSsz5n-vZK1ciHYftGUcLIoeCgQgZJK1IN12JJSMm8dWOilHLeTivLZcvNczRUUD2NR9TyXvGsBOPaFpZpx53YkC1Ga0nZVxM7rqT4ggSH2a8tBUkbIPZGIKuy40tbLDCMRxr1_nlHpkbBI3QTogdhoMtBGVoIpKZ5wApZbGhdhF5R0QXisDXbTfGGSU_Gc0c6tthyZ2hGXZ-Muxnzz4XQrIPDbSAK8; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 07-Apr-2024 11:45:55 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 09-Apr-2016 11:45:55 GMT; domain=.paypal.com; path=/; HttpOnly
+
+VERIFIED
+
+[04/14/2014 5:45 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=247.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=4XYC83KSSPYSG, address_street=1 Main St, payment_date=05:45:25 Apr 14, 2014 PDT, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=Ananga, mc_fee=7.46, address_country_code=US, address_name=Ananga Samanta, notify_version=3.7, subscr_id=I-PX80W7UGEJSA, payer_status=verified, business=ananga_1275462143_biz@gmail.com, address_country=United States, address_city=San Jose, verify_sign=AEvg9f6BKxrhAAdrDS9wSE0EE8FFApAQ8O.qRoFpyERkFEe5XKsLHdCT, payer_email=ananga_1275896260_per@gmail.com, txn_id=5UJ042702K792074M, payment_type=instant, last_name=Samanta, address_state=CA, receiver_email=ananga_1275462143_biz@gmail.com, payment_fee=7.46, receiver_id=VBY9KVYU7NR88, pending_reason=paymentreview, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, test_ipn=1, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=247.00, ipn_track_id=8424310250f24, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Mon, 14 Apr 2014 12:45:46 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=VJ4J1Q9Ehw6_ioMcpLy2FKO39N1TEuHHRIHPIC8_C_pB_uVTFHNckOsgBgzBHASavfc94hvpeuFCG0TV9J4iGk7EIN3Qsp8tbm7KDlXfGQIjtVH-q1RGcKFz5WU8ju1tNM1G_Gwrs3vO35C-cr5Bm2TElDYbDgoZ6nVqUIkf1aGpNwIMTIjlp8lwwEBXPJ2GpbpN70HuPOkbcSdYareoU4WBWnMO3-YBF-5bGb2VgrfrTM8VQoP7CItdUiwtQVHWwcyrF5uShoMgeertl8D46nIw3TKB0WPBU_1ikPNsExm_kRGqH5OdjrrhesfQlOcerg-nvo-EAPIqhFX6dallXIAQhdHlMBjgHXai3SIRrlH-oghmEvtJFXpaZIOjEDZXgqPz0AUAiYfN2o5b9ieDWovT25JVgGXyG-wsEflQj9CiZ7ne7edzh4qXkhq; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 11-Apr-2024 12:45:46 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 13-Apr-2016 12:45:46 GMT; domain=.paypal.com; path=/; HttpOnly
+
+INVALID
+
+[05/14/2014 6:16 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=247.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=4XYC83KSSPYSG, address_street=1 Main St, payment_date=06:15:45 May 14, 2014 PDT, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=Ananga, mc_fee=7.46, address_country_code=US, address_name=Ananga Samanta, notify_version=3.8, subscr_id=I-PX80W7UGEJSA, payer_status=verified, business=ananga_1275462143_biz@gmail.com, address_country=United States, address_city=San Jose, verify_sign=Ajiyan4hbO813XQUzjz4anly.cIcAwZWKY8xWdpuN9lokkwx7uDKmNX5, payer_email=ananga_1275896260_per@gmail.com, txn_id=25X34537GV587260H, payment_type=instant, last_name=Samanta, address_state=CA, receiver_email=ananga_1275462143_biz@gmail.com, payment_fee=7.46, receiver_id=VBY9KVYU7NR88, pending_reason=paymentreview, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, test_ipn=1, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=247.00, ipn_track_id=3d927fe0ec300, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 14 May 2014 13:16:24 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=dRulf2x8nVTCcwKsaEvWnlTpmoiVvX-Eb6q-KB6Omj_hTJi7ON0P6BSMXeVh0P9t4ZY0fqySyfOGsNqPCe2c_fszVs_UVe1G1No4-2Ph58QSQDoiLOjjhnHFO67VtxezS8U0yJUIWMGnCG_0AC6HfRcC1REZpjMu-ZppPBMrWhMPWuRunu6ZKnhjS-bVtj0T-lvnxhkorASGLieel06fF1soE5ufziexgcvpsD16LImx3Q3LG2rKVMl7BeYityXRBffn-yfqkwdSVDU1tmvYz5Uw8MII34akAMCKi_QAZpnebF9gEwoYHtyG2ZUwdTKDOIAZSxLU2eJCrJS5itkF6S6unRZL8MjDA7PnaD3zdeZ-AcFAAg-TSR4GFbVSHu75QECqJOk3W3ka1mX0qE7ho8l2Z64rpXJqSn5LmG; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 11-May-2024 13:16:24 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 13-May-2016 13:16:24 GMT; domain=.paypal.com; path=/; HttpOnly
+
+INVALID
+
+[06/14/2014 6:26 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=247.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=4XYC83KSSPYSG, address_street=1 Main St, payment_date=06:27:47 Jun 14, 2014 PDT, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=Ananga, mc_fee=7.46, address_country_code=US, address_name=Ananga Samanta, notify_version=3.8, subscr_id=I-PX80W7UGEJSA, payer_status=verified, business=ananga_1275462143_biz@gmail.com, address_country=United States, address_city=San Jose, verify_sign=Ava.9fn09rkP1ewTi..a9clsi45HAy7e.sZSyXFFAz.D-vap2bDQ.grs, payer_email=ananga_1275896260_per@gmail.com, txn_id=53F39825D6639733A, payment_type=instant, last_name=Samanta, address_state=CA, receiver_email=ananga_1275462143_biz@gmail.com, payment_fee=7.46, receiver_id=VBY9KVYU7NR88, pending_reason=paymentreview, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, test_ipn=1, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=247.00, ipn_track_id=aa3e5804303d2, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Date: Sat, 14 Jun 2014 13:28:09 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=hGJJDeeGOH9kn8W_Z_qM1p2sRzEVhUjpmxIb-vLpn7x1wSTM0blzKn3YHVVQ8VCBPz1Ue5BaFxnuzYn__BJeSE7uW1DtYJHAfgcJ_v53u6_L6o6uUJy1nlu4jJ1F13wq5k-tGMQHuzWO7EW3I2_eR7WjhbIqCP3i639Qj1h218BcH62yLCCc9lIMWAn81ZH72KT8jYGNhAzmrOrFo4I_wPhDDa8dOAtdzZQ6NSQ2eYchDCw8SmnonjE_i6kKMOqdoGk-DmXGotunMRu-DI9jGotgdb6JWZkm1HT_kj18wGKBiU2a6jSlM3TJX5mKt82076nBO_EIEy9qWsAapSSnUNQFjFg1lfp8DzuCSSw3aMMsgF1CO98XEDALeaQ0ajz-M9040Byh0-M2ygHronSrfHfWoD4UDsOFn94q5fB4XTdjaoMNuvOrg4kRi24; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 11-Jun-2024 13:28:09 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 13-Jun-2016 13:28:09 GMT; domain=.paypal.com; path=/; HttpOnly
+
+INVALID
+
+[07/14/2014 6:54 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=247.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=4XYC83KSSPYSG, address_street=1 Main St, payment_date=06:54:37 Jul 14, 2014 PDT, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=Ananga, mc_fee=7.46, address_country_code=US, address_name=Ananga Samanta, notify_version=3.8, subscr_id=I-PX80W7UGEJSA, payer_status=verified, business=ananga_1275462143_biz@gmail.com, address_country=United States, address_city=San Jose, verify_sign=AI-IpfVv9.X2ayXRsomUWdBcGGcKAihOMAi6fGSE8Qhql9pxEbRxLYG., payer_email=ananga_1275896260_per@gmail.com, txn_id=0C920740NM380924J, payment_type=instant, last_name=Samanta, address_state=CA, receiver_email=ananga_1275462143_biz@gmail.com, payment_fee=7.46, receiver_id=VBY9KVYU7NR88, pending_reason=paymentreview, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, test_ipn=1, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=247.00, ipn_track_id=f351bb8fb5db2, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=14400
+Strict-Transport-Security: max-age=14400
+Content-Type: text/html; charset=UTF-8
+DC: slc-a-origin-www-1.paypal.com
+Date: Mon, 14 Jul 2014 13:54:59 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=7p__VcjFbKvxuB780vDzkF-pkvr_xTPkOS-LrAzqmsJybMj_0-Vyllzcsz0YwHlOQCOC_XgsC-3IntuTMwZ5BopWAOT0dpAoq46TY9D2_l69AAJP_1Aom7cltuoWGyT_e6Hp07Q4KZmsffz8pZ8hb7wjr0vkOHyOyT_F6GGyLbd1weWCzryk3oq7Pj57tXNr3XTAZ8pQefMOIPwcM7Vx4XOShU6ZRNZhd3E4EtGH6spzlMfd5qytszdrywaRabT9kZCwyW1JG8vZfzN5P_9Lz7ACKRcNjaCipl46gXC2gW7GpWZotOvA29Isn0yCxXX2kYeTbT4l8o8CGiwBnfw2abYsodzhsDc2mTR8Yq027V-3y5Ui9ARNXVWoKi2R3d-ZN3oGrFvi9DdMfAIgm7CwY53-42uq_2hniIMeRizuIOMgmcISEVGOiGJrSiS; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 11-Jul-2024 13:54:59 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 13-Jul-2016 13:54:59 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.73.8.137.1405346099197374; path=/; expires=Wed, 06-Jul-44 13:54:59 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D870433619; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.73.8.35.1405346099189882; path=/; expires=Wed, 06-Jul-44 13:54:59 GMT
+Set-Cookie: AKDC=slc-a-origin-www-1.paypal.com; expires=Mon, 14-Jul-2014 14:24:59 GMT; path=/; secure
+
+INVALID
+
+[08/14/2014 7:11 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=247.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=4XYC83KSSPYSG, address_street=1 Main St, payment_date=07:10:37 Aug 14, 2014 PDT, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=Ananga, mc_fee=7.46, address_country_code=US, address_name=Ananga Samanta, notify_version=3.8, subscr_id=I-PX80W7UGEJSA, payer_status=verified, business=ananga_1275462143_biz@gmail.com, address_country=United States, address_city=San Jose, verify_sign=AicIXeZULBeG2rbGTHu9OS.rTD00AKAQD4iei8rNJcFfymnMpdTBu3L., payer_email=ananga_1275896260_per@gmail.com, txn_id=3AU1821928864362Y, payment_type=instant, last_name=Samanta, address_state=CA, receiver_email=ananga_1275462143_biz@gmail.com, payment_fee=7.46, receiver_id=VBY9KVYU7NR88, pending_reason=paymentreview, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, test_ipn=1, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=247.00, ipn_track_id=263047805ea1, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=14400
+Strict-Transport-Security: max-age=14400
+Content-Type: text/html; charset=UTF-8
+DC: slc-a-origin-www-2.paypal.com
+Date: Thu, 14 Aug 2014 14:11:18 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=0J75Qa72moMLrlPukZ8nd54zbKyaqptLo0MTmW-KjUnK3PbInDVS66SXvsGS64g9Q0XjDl67wEDCVKApr9V0uZJjBjA2I4N5-4EaGcnTOiMe7zL82TMjWNfK5TX9WColExtBI0LISvCSkZdpRgGZjtwg1g7S7YjXoSj-8i6wZyKCk1IIF62--FQ00IJ6y4HltGTkNFDVXHxBlnG3RtPfixJHxM-volgwS6inbyd9fl0CVrn0l6yx1vzDHGHtXrgwP7G_ep-ZMupiXEr6pGFh_Ugn0IRaAcW7GRMCAt5tUtH8PdtLmlt0NsVb6IryRoZ0TCFlHYNFw6WHDgz02Vhm6b2WLRk4RDFbjn2gIbPimXi3mQpXXkwVGxxKa7DiCCDqgSUlPW4eHKeB8t3Iocu0kmJuNFOGGZNTLicu9BRXhEY0jYtbKo1LBRtViTS; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 11-Aug-2024 14:11:18 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 13-Aug-2016 14:11:18 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.73.8.134.1408025477676489; path=/; expires=Sat, 06-Aug-44 14:11:17 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D2244209747; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.73.8.65.1408025477662750; path=/; expires=Sat, 06-Aug-44 14:11:17 GMT
+Set-Cookie: AKDC=slc-a-origin-www-2.paypal.com; expires=Thu, 14-Aug-2014 14:41:18 GMT; path=/; secure
+
+INVALID
+
+[09/14/2014 6:44 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=247.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=4XYC83KSSPYSG, address_street=1 Main St, payment_date=06:44:40 Sep 14, 2014 PDT, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=Ananga, mc_fee=7.46, address_country_code=US, address_name=Ananga Samanta, notify_version=3.8, subscr_id=I-PX80W7UGEJSA, payer_status=verified, business=ananga_1275462143_biz@gmail.com, address_country=United States, address_city=San Jose, verify_sign=ALPqKYMrlAMdWLLTqeVV6A-S.zi0AyNkFW6F0N41dFQNfERtUqz44zWp, payer_email=ananga_1275896260_per@gmail.com, txn_id=7MD17351UV409292N, payment_type=instant, last_name=Samanta, address_state=CA, receiver_email=ananga_1275462143_biz@gmail.com, payment_fee=7.46, receiver_id=VBY9KVYU7NR88, pending_reason=paymentreview, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, test_ipn=1, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=247.00, ipn_track_id=2c88876fd497, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=14400
+Strict-Transport-Security: max-age=14400
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-2.paypal.com
+Date: Sun, 14 Sep 2014 13:44:55 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=Gxei01fAl_xORlNIsN--w27cPYJhhP7GxRGddOGgJlhpMJZBTBhdfC0J-jrTDi2htgjZihc-5JZlVm_w_zw84oU80zefgXVwPq0LiGmOxkVT8SknXY6joMeNIuSDT8SBXAJmpad_sFPf663YjsRZZCHH3P1etRsZ4ZtovDUmjkp1gbzXL6CulA90hCHm6W4ZvN0p1sv7rkBl5V8TpnsIPUVpS1z6VTonAjUr1A7KL6H0u4BfTYPjQyOZt7zyu3gLWylrUxgwBsYWEATFaCN4OCQZkJRYYSLmX6CRXDvtSqoC20PIzJYPF8EUF-Hzk0-2GmoQgaLjPRFbgud76g4g_q5yig8U2y6veKDGQlsE15-ZOB261qcXosmq1WkFfyhlr1t6VqWnl00ZZEqqJ3ehQqpkic0Lo3XHp3GlkVDUq6_s9xAftIy3koblf2y; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 11-Sep-2024 13:44:55 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Tue, 13-Sep-2016 13:44:55 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.74.8.134.1410702295368249; path=/; expires=Tue, 06-Sep-44 13:44:55 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D3617264980; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.74.8.58.1410702295358864; path=/; expires=Tue, 06-Sep-44 13:44:55 GMT
+Set-Cookie: AKDC=slc-b-origin-www-2.paypal.com; expires=Sun, 14-Sep-2014 14:14:55 GMT; path=/; secure
+
+INVALID
+
+[10/14/2014 7:23 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=247.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=4XYC83KSSPYSG, address_street=1 Main St, payment_date=07:22:02 Oct 14, 2014 PDT, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=Ananga, mc_fee=7.46, address_country_code=US, address_name=Ananga Samanta, notify_version=3.8, subscr_id=I-PX80W7UGEJSA, payer_status=verified, business=ananga_1275462143_biz@gmail.com, address_country=United States, address_city=San Jose, verify_sign=ADuM0xU61L33fjHKkBWVOFE6AYr6AopOZSepB8Y1xmSU6DElnhXMk0zU, payer_email=ananga_1275896260_per@gmail.com, txn_id=8PK90376HU9997538, payment_type=instant, last_name=Samanta, address_state=CA, receiver_email=ananga_1275462143_biz@gmail.com, payment_fee=7.46, receiver_id=VBY9KVYU7NR88, pending_reason=paymentreview, txn_type=subscr_payment, item_name=CTOsOnTheMove - Subscription, mc_currency=USD, residence_country=US, test_ipn=1, transaction_subject=CTOsOnTheMove - Subscription, payment_gross=247.00, ipn_track_id=9b817e7d125cd, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+DC: slc-a-origin-www-2.paypal.com
+Date: Tue, 14 Oct 2014 14:23:20 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=vWqCcPz2-KkWuPu9hs4dLzcrgE1rHTATJ7ye35Lgs29M9Ke5m1U5kekLl_KG_YCIFmu8napNMwfz308w36l4BLhA1Aa8-4vbt25SbCVtpQ-izQ9DKMsbjbAxrXfl-OJVqtQAqNo4GYsbk7f9A1sJhL8eifCIuSPbc-TG3gomMbWF50o4FiWBbwJBCD2YtCkPCwKpm14r5CE2-vdy3bkLiwHOgFgviyjloVyvpFxsGFxWEFZ5iQ085WkLwiWTHS7zq4xE7n8os18-UDQoR4fRw2MTTfYf4KlxT-cyCxsYP03s1JyH13oZiPsUhAfPqmnTJEF7Jhe55CTVQV90plP0LFNmivVjUWvb_KyTh89nCAz7uJX5BemxNvQvZT9qfryquoO4ay7mqibhDo5Vpq0nV6CghfAAD2POZZikwG; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 11-Oct-2024 14:23:20 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 13-Oct-2016 14:23:20 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.73.8.137.1413296600368570; path=/; expires=Thu, 06-Oct-44 14:23:20 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D3627105620; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.73.8.71.1413296600357113; path=/; expires=Thu, 06-Oct-44 14:23:20 GMT
+Set-Cookie: AKDC=slc-a-origin-www-2.paypal.com; expires=Tue, 14-Oct-2014 14:53:20 GMT; path=/; secure
+
+INVALID
+

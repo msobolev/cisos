@@ -1,0 +1,96 @@
+.ois_outer_15 {
+	height:184px!important;
+	width:264px!important;
+	border-radius:2px!important
+}
+
+.ois_main_15 {
+	border:2px solid#fff!important;
+	margin:0!important;
+	overflow:hidden!important;
+	height:180px!important;
+	width:260px!important;
+	position:relative!important;
+	border:2px solid#fff!important;
+	border-radius:2px!important
+}
+
+.ois_title_15 {
+	font-size:18px!important;
+	line-height:26px!important;
+	color:#fff!important;
+	text-align:center!important;
+	position:absolute!important;
+	top:0!important;
+	padding:15px!important;
+	z-index:99!important
+}
+
+.ois_textbox_15,.ois_form_wrap_15 input[type="text"],.ois_form_wrap_15 input[type="email"] {
+	width:175px!important;
+	padding:5px 8px!important;
+	font-size:14px!important;
+	background-color:#FAFAFA!important;
+	background-image:none!important;
+	border:1px solid#DDD!important;
+	-webkit-box-shadow:inset 0 1px 1px 0 rgba(0,0,0,0.0976562)!important;
+	-moz-box-shadow:inset 0 1px 1px 0 rgba(0,0,0,0.0976562)!important;
+	box-shadow:inset 0 1px 1px 0 rgba(0,0,0,0.0976562)!important;
+	color:#888!important;
+	cursor:auto!important;
+	display:inline-block!important;
+	font-family:'Helvetica Neue',Helvetica,Arial,sans-serif!important;
+	font-style:normal!important;
+	font-variant:normal!important;
+	font-weight:400!important;
+	letter-spacing:normal!important;
+	line-height:18px!important;
+	margin:3px auto!important;
+	outline:none!important;
+	text-indent:0!important;
+	text-shadow:none!important;
+	text-transform:none!important;
+	vertical-align:baseline!important;
+	word-spacing:0!important
+}
+
+.ois_form_wrap_15 {
+	background:transparent!important;
+	position:absolute!important;
+	top:55px!important;
+	left:30px;
+	text-align:center!important;
+	z-index:99!important;
+	width:175px
+}
+
+.ois_button_15,.ois_form_wrap_15 input[type="submit"] {
+	background-color:#fff!important;
+	border:1px solid#BBB!important;
+	border-radius:3px!important;
+	color:#464646!important;
+	cursor:pointer!important;
+	display:inline-block!important;
+	font-family:sans-serif!important;
+	font-size:12px!important;
+	font-style:normal!important;
+	font-variant:normal!important;
+	font-weight:400!important;
+	letter-spacing:normal!important;
+	line-height:13px!important;
+	margin:5px auto!important;
+	outline:none!important;
+	padding:8px 12px!important;
+	text-align:center!important;
+	text-decoration:none!important;
+	text-indent:0!important;
+	text-shadow:#fff 0 1px 0!important;
+	text-transform:none!important
+}
+
+.ois_inner_15 {
+	width:100%!important;
+	height:100%!important;
+	opacity:.5!important;
+	filter:alpha(opacity=50)
+}

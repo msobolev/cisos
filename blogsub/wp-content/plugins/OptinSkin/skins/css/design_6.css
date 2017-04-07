@@ -1,0 +1,138 @@
+.ois_box_6 {
+	background-attachment:scroll!important;
+	background-clip:border-box!important;
+	background-color:transparent!important;
+	background-origin:padding-box!important;
+	border-bottom-left-radius:3px!important;
+	border-bottom-right-radius:3px!important;
+	border-bottom-width:0!important;
+	border-left-width:0!important;
+	border-right-width:0!important;
+	border-top-left-radius:3px!important;
+	border-top-right-radius:3px!important;
+	border-top-width:0!important;
+	color:#555!important;
+	font-family:Helvetica!important;
+	font-size:15px!important;
+	font-style:normal!important;
+	font-variant:normal!important;
+	font-weight:400!important;
+	line-height:24px!important;
+	margin-bottom:0!important;
+	margin-left:0!important;
+	margin-right:0!important;
+	margin-top:0!important;
+	outline-color:#555!important;
+	outline-style:none!important;
+	outline-width:0!important;
+	padding-bottom:10px!important;
+	padding-left:15px!important;
+	padding-right:15px!important;
+	padding-top:10px!important;
+	position:static!important;
+	text-align:center!important;
+	vertical-align:baseline!important
+}
+
+.ois_underscore {
+	height:24px!important;
+	text-align:center!important
+}
+
+.ois_form_6,.ois_form_6 div {
+	text-align:center!important
+}
+
+.ois_title_6 {
+	border-bottom-color:#000!important;
+	border-bottom-left-radius:0!important;
+	border-bottom-right-radius:0!important;
+	border-bottom-width:0!important;
+	border-collapse:separate!important;
+	border-left-color:#000!important;
+	border-left-width:0!important;
+	border-right-color:#000!important;
+	border-right-width:0!important;
+	border-top-color:#000!important;
+	border-top-left-radius:0!important;
+	border-top-right-radius:0!important;
+	border-top-width:0!important;
+	font-size:25px!important;
+	font-style:normal!important;
+	font-variant:normal!important;
+	font-weight:400!important;
+	height:30px!important;
+	line-height:normal!important;
+	margin-bottom:0!important;
+	margin-left:0!important;
+	margin-right:0!important;
+	margin-top:0!important;
+	outline-color:#555!important;
+	outline-style:none!important;
+	outline-width:0!important;
+	padding-bottom:5px!important;
+	padding-left:0!important;
+	padding-right:0!important;
+	padding-top:0!important;
+	position:static!important;
+	text-align:center!important;
+	vertical-align:baseline!important;
+	white-space:normal!important;
+}
+
+.ois_sm_button_wrapper_6 {
+	margin-top:-5px!important
+}
+
+.ois_textbox_6,.ois_box_6 input[type="text"],.ois_box_6 input[type="email"] {
+	padding:5px 5px 5px 10px!important;
+	font-size:13px!important;
+	background-color:#FAFAFA!important;
+	background-image:none!important;
+	border:1px solid#DDD!important;
+	-webkit-box-shadow:inset 0 1px 1px 0 rgba(0,0,0,0.0976562)!important;
+	-moz-box-shadow:inset 0 1px 1px 0 rgba(0,0,0,0.0976562)!important;
+	box-shadow:inset 0 1px 1px 0 rgba(0,0,0,0.0976562)!important;
+	color:#888!important;
+	cursor:auto!important;
+	display:inline-block!important;
+	font-family:'Helvetica Neue',Helvetica,Arial,sans-serif!important;
+	font-style:normal!important;
+	font-variant:normal!important;
+	font-weight:300!important;
+	letter-spacing:normal!important;
+	line-height:18px!important;
+	margin:2px 0!important;
+	outline:none!important;
+	text-indent:0!important;
+	text-shadow:none!important;
+	text-transform:none!important;
+	vertical-align:baseline!important;
+	word-spacing:0!important
+}
+
+.ois_button_6,.ois_box_6 input[type="submit"] {
+	background-image:url(/wp-admin/images/white-grad.png)!important;
+	background-color:#fff!important;
+	border:1px solid#BBB!important;
+	border-radius:3px!important;
+	color:#464646!important;
+	cursor:pointer!important;
+	display:inline-block!important;
+	font-family:sans-serif!important;
+	font-size:12px!important;
+	font-style:normal!important;
+	font-variant:normal!important;
+	font-weight:400!important;
+	letter-spacing:normal!important;
+	line-height:13px!important;
+	margin:5px 0!important;
+	outline:none!important;
+	padding:4px 8px!important;
+	text-align:center!important;
+	text-decoration:none!important;
+	text-indent:0!important;
+	text-shadow:#fff 0 1px 0!important;
+	text-transform:none!important;
+	clear:both!important
+}

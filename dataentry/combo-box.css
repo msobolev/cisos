@@ -1,0 +1,465 @@
+
+
+ div.controlBox {
+	  font-family:tahoma,verdana,arial;
+	  font-size:14px;
+	  color:#737373;
+	  border:1px solid #98bdd3;
+	  width:250px;
+	  margin:0px;
+	  padding:0px;
+ }
+
+     div.controlBox ul {
+	      position:absolute;
+          display:none;
+		  margin:0px;
+          padding:0px;
+          width:250px;
+		  height:auto;
+          overflow:auto;
+		  z-index:999999;
+		  background-color:#FFFFFF;
+	      top:20px;
+          left:-1px;
+          border:1px solid #98bdd3;
+     }
+          div.controlBox ul li {
+               display:block;
+               margin:0px;
+               padding:0px;
+          }
+
+          div.controlBox ul li.hover {
+               background:#204080;
+               color:white;
+               cursor:hand;
+			   margin:0px;
+               padding:0px;
+          }
+
+     div.controlBox input {
+          display:block;
+          margin:0px;
+          padding-top:2px;
+		  width:227px;
+	      height:19px;
+          border:none;
+		  font-family:Verdana;
+		  font-size:14px;
+		  font-weight:normal;
+		  color:#737373;
+		  text-align:left;
+		  text-decoration:none;
+          background:white;
+          border:none;
+		  float:left;
+
+     }
+
+     div.controlBox img {
+          width:20px;
+          height:19px;
+		  float:right;
+		  margin:0px;
+          padding:0px;
+        
+     }
+	 
+	 
+
+
+div.controlBox1 {
+	 font-family:tahoma,verdana,arial;
+          font-size:14px;
+		  color:#737373;
+	      border:1px solid #98bdd3;
+          width:122px;
+		  margin:0px;
+          padding:0px;
+		  float:left;
+     }
+
+     div.controlBox1 ul {
+	      position:absolute;
+          display:none;
+		  margin:0px;
+          padding:0px;
+          width:122px;
+		  height:auto;
+          overflow:auto;
+		  z-index:999999;
+		  background-color:#FFFFFF;
+	      top:20px;
+          left:-1px;
+		  float:left;
+          border:1px solid #98bdd3;
+     }
+          div.controlBox1 ul li {
+               display:block;
+               margin:0px;
+               padding:1px 2px;
+          }
+
+          div.controlBox1 ul li.hover {
+               background:#204080;
+               color:white;
+               cursor:hand;
+			   margin:0px;
+               padding:1px 2px;
+          }
+
+     div.controlBox1 input {
+          display:block;
+          margin:0px;
+          padding:0px;
+		  width:100px;
+	      height:20px;
+          border:none;
+		  font-family:Verdana;
+		  font-size:14px;
+		  font-weight:normal;
+		  color:#737373;
+		  text-align:left;
+		  text-decoration:none;
+          background:white;
+          border:none;
+		  		  float:left;
+     }
+
+     div.controlBox1 img {
+	 	  position:relative;
+          width:20px;
+          height:20px;
+		  float:right;
+		  margin:0px;
+          padding:0px;
+        
+     }
+
+
+div.controlBox2 {
+	 font-family:tahoma,verdana,arial;
+          font-size:14px;
+		  color:#737373;
+	      border:1px solid #98bdd3;
+          width:90px;
+		  margin:0px;
+          padding:0px;
+		  float:left;
+     }
+
+     div.controlBox2 ul {
+	      position:absolute;
+          display:none;
+		  margin:0px;
+          padding:0px;
+           width:90px;
+		  height:auto;
+          overflow:auto;
+		  z-index:999999;
+		  background-color:#FFFFFF;
+	      top:20px;
+          left:-1px;
+		  float:left;
+          border:1px solid #98bdd3;
+     }
+          div.controlBox2 ul li {
+               display:block;
+               margin:0px;
+               padding:1px 2px;
+          }
+
+          div.controlBox2 ul li.hover {
+               background:#204080;
+               color:white;
+               cursor:hand;
+			   margin:0px;
+               padding:1px 2px;
+          }
+
+     div.controlBox2 input {
+          display:block;
+          margin:0px;
+          padding:1px;
+		  width:68px;
+	      height:20px;
+          border:none;
+		  font-family:Verdana;
+		  font-size:14px;
+		  font-weight:normal;
+		  color:#737373;
+		  text-align:left;
+		  text-decoration:none;
+          background:white;
+          border:none;
+		  float:left;
+     }
+
+     div.controlBox2 img {
+	 	  position:relative;
+          width:20px;
+          height:20px;
+		  float:right;
+		  margin:0px;
+          padding:0px;
+        
+     }
+/*fdsfdsfdsf*/
+div.controlBox3 {
+	 font-family:tahoma,verdana,arial;
+          font-size:14px;
+		  color:#737373;
+	      border:1px solid #98bdd3;
+          width:145px;
+		  margin-top:2px;
+          padding:0px;
+		  float:left;
+     }
+
+     div.controlBox3 ul {
+	      position:absolute;
+          display:none;
+		  margin:0px;
+          padding:0px;
+           width:145px;
+		  height:auto;
+          overflow:auto;
+		  z-index:999999;
+		  background-color:#FFFFFF;
+	      top:20px;
+          left:-1px;
+		  float:left;
+          border:1px solid #98bdd3;
+     }
+          div.controlBox3 ul li {
+               display:block;
+               margin:0px;
+               padding:1px 2px;
+          }
+
+          div.controlBox3 ul li.hover {
+               background:#204080;
+               color:white;
+               cursor:hand;
+			   margin:0px;
+               padding:1px 2px;
+          }
+
+     div.controlBox3 input {
+          display:block;
+          margin:0px;
+          padding:1px;
+		  width:122px;
+	      height:20px;
+          border:none;
+		  font-family:Verdana;
+		  font-size:14px;
+		  font-weight:normal;
+		  color:#737373;
+		  text-align:left;
+		  text-decoration:none;
+          background:white;
+          border:none;
+		  float:left;
+     }
+
+     div.controlBox3 img {
+	 	  position:relative;
+          width:20px;
+          height:20px;
+		  float:right;
+		  margin:0px;
+          padding:0px;
+        
+     }
+
+
+div.controlBox4 {
+	 font-family:tahoma,verdana,arial;
+          font-size:14px;
+		  color:#737373;
+	      border:1px solid #98bdd3;
+          width:235px;
+		  margin:0px;
+          padding:0px;
+		  float:left;
+     }
+
+     div.controlBox4 ul {
+	      position:absolute;
+          display:none;
+		  margin:0px;
+          padding:0px;
+           width:235px;
+		  height:auto;
+          overflow:auto;
+		  z-index:999999;
+		  background-color:#FFFFFF;
+	      top:20px;
+          left:-1px;
+		  float:left;
+          border:1px solid #98bdd3;
+     }
+          div.controlBox4ul li {
+               display:block;
+               margin:0px;
+               padding:1px 2px;
+          }
+
+          div.controlBox4 ul li.hover {
+               background:#204080;
+               color:white;
+               cursor:hand;
+			   margin:0px;
+               padding:1px 2px;
+          }
+
+     div.controlBox4 input {
+          display:block;
+          margin:0px;
+          padding:1px;
+		  width:211px;
+	      height:20px;
+          border:none;
+		  font-family:Verdana;
+		  font-size:14px;
+		  font-weight:normal;
+		  color:#737373;
+		  text-align:left;
+		  text-decoration:none;
+          background:white;
+          border:none;
+		  float:left;
+     }
+
+     div.controlBox4 img {
+	 	  position:relative;
+          width:20px;
+          height:20px;
+		  float:right;
+		  margin:0px;
+          padding:0px;
+        
+     }
+/* New Combo Add 2010-04-28 start*/
+
+    .combobox {
+        border: solid 1px #98bdd3;
+        padding: 0px;
+        margin: 0px;
+    }
+    .combotext
+    {
+      margin:0px;
+	  padding-top:2px;
+	  width:227px;
+	  height:19px;
+	  border:none;
+	  font-family:Verdana;
+	  font-size:14px;
+	  font-weight:normal;
+	  color:#737373;
+	  text-align:left;
+	  text-decoration:none;
+	  background:white;
+    }
+    .comboOption {
+        font-family: Sans-Serif;
+        font-size: 10pt;
+        color: Black;
+        cursor: default;
+        text-decoration:none;
+    }
+    .comboOption a:active
+    {
+        color: Black;
+        text-decoration:none;
+    }
+    .comboOption a:link
+    {
+        color: Black;
+        text-decoration:none;
+    }
+    .comboOption a:visited
+    {
+        color: Black;
+        text-decoration:none;
+    }
+    .comboOption a:hover 
+    {
+        color: White;
+        text-decoration:none;
+    }
+
+/* New Combo Add 2010-04-28 end*/
+/* add for month && Yesr start */
+div.controlBox5 {
+ 	  font-family:tahoma,verdana,arial;
+	  font-size:14px;
+	  color:#737373;
+	  border:1px solid #98bdd3;
+	  width:62px;
+	  margin:0px;
+	  padding:0px;
+	  float:left;
+ }
+
+ div.controlBox5 ul {
+	  position:absolute;
+	  display:none;
+	  margin:0px;
+	  padding:0px;
+	  width:62px;
+	  height:auto;
+	  overflow:auto;
+	  z-index:999999;
+	  background-color:#FFFFFF;
+	  top:20px;
+	  left:-1px;
+	  float:left;
+	  border:1px solid #98bdd3;
+ }
+  div.controlBox5 ul li {
+	   display:block;
+	   margin:0px;
+	   padding:1px 2px;
+  }
+
+  div.controlBox5 ul li.hover {
+	   background:#204080;
+	   color:white;
+	   cursor:hand;
+	   margin:0px;
+	   padding:1px 2px;
+  }
+
+ div.controlBox5 input {
+	  display:block;
+	  margin:0px;
+	  padding:0px;
+	  width:40px;
+	  height:20px;
+	  border:none;
+	  font-family:Verdana;
+	  font-size:14px;
+	  font-weight:normal;
+	  color:#737373;
+	  text-align:left;
+	  text-decoration:none;
+	  background:white;
+	  border:none;
+	  float:left;
+ }
+
+ div.controlBox5 img {
+	  position:relative;
+	  width:20px;
+	  height:20px;
+	  float:right;
+	  margin:0px;
+	  padding:0px;
+	
+ }
+
+/* add for month && Yesr end*/

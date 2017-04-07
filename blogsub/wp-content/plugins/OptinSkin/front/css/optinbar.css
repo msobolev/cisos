@@ -1,0 +1,81 @@
+#ois_optinbar input[type="text"], .ois_button_optinbar {
+	-webkit-user-select:none!important;
+	background-color:#fff!important;
+	border-bottom-color:rgba(0,0,0,0.0976562)!important;
+	border-bottom-left-radius:2px!important;
+	border-bottom-right-radius:2px!important;
+	border-bottom-style:solid!important;
+	border-bottom-width:1px!important;
+	border-left-color:rgba(0,0,0,0.0976562)!important;
+	border-left-style:solid!important;
+	border-left-width:1px!important;
+	border-right-color:rgba(0,0,0,0.0976562)!important;
+	border-right-style:solid!important;
+	border-right-width:1px!important;
+	border-top-color:rgba(0,0,0,0.0976562)!important;
+	border-top-left-radius:2px!important;
+	border-top-right-radius:2px!important;
+	border-top-style:solid!important;
+	border-top-width:1px!important;
+	color:#333!important;
+	cursor:default!important;
+	display:inline-block!important;
+	font-size:13px!important;
+	font-weight:400!important;
+	text-transform:none!important;
+	line-height:20px!important;
+	margin-bottom:0!important;
+	margin-left:0!important;
+	margin-right:0!important;
+	margin-top:0!important;
+	min-width:97px!important;
+	outline-color:#444!important;
+	outline-style:none!important;
+	outline-width:0!important;
+	padding:4px 8px!important;
+	position:relative!important;
+	text-align:center!important;
+	text-shadow:rgba(0,0,0,0.0976562)0 1px 0!important;
+	background-image:url(../images/white-grad.png)!important;
+}
+
+#ois_optinbar {
+	display:inline!important
+}
+
+.ois_form_optinbar {
+	display:inline!important
+}
+
+
+
+#ois_optinbar input[type="text"],.ois_textbox_optinbar {
+	width:200px!important;
+	text-align:center!important;
+	padding:5px!important;
+	background-color:#FAFAFA!important;
+	background-image:none!important;
+	box-sizing:border-box!important;
+	-webkit-box-sizing:border-box!important;
+	-moz-box-sizing:border-box!important;
+	border:1px solid#DDD!important;
+	-webkit-box-shadow:inset 0 1px 1px 0 rgba(0,0,0,0.0976562)!important;
+	-moz-box-shadow:inset 0 1px 1px 0 rgba(0,0,0,0.0976562)!important;
+	box-shadow:inset 0 1px 1px 0 rgba(0,0,0,0.0976562)!important;
+	color:#888!important;
+	cursor:auto!important;
+	display:inline-block!important;
+	font-family:'Helvetica Neue',Helvetica,Arial,sans-serif!important;
+	font-style:normal!important;
+	font-variant:normal!important;
+	font-weight:300!important;
+	letter-spacing:normal!important;
+	line-height:18px!important;
+	margin:2px 0!important;
+	outline:none!important;
+	text-indent:0!important;
+	text-shadow:none!important;
+	text-transform:none!important;
+	vertical-align:baseline!important;
+	word-spacing:0!important
+}

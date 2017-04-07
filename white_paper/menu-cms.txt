@@ -1,0 +1,7 @@
+
+Site URL : http://www.templateheart.com/demo/menu-cms/
+
+Admin URL : http://www.templateheart.com/demo/menu-cms/admin
+
+user name: admin
+password : 123456

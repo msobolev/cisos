@@ -1,0 +1,18 @@
+# 5 Auto Contact URL Create  
+0,30 * * * * /usr/bin/php "/var/www/html/auto-contact-url-create.php"
+# 6 Personal Sitemap Create
+55 0 * * * /usr/bin/php "/var/www/html/auto-sitemap-personal.php"
+# 7 Company Sitemap Create
+40 0 * * * /usr/bin/php "/var/www/html/auto-sitemap-company.php"
+# 8 Movement Sitemap Create
+10 0 * * * /usr/bin/php "/var/www/html/auto-sitemap-movement.php"
+# 9 All Page Sitemap Create
+0 1 * * * /usr/bin/php "/var/www/html/auto-sitemap-all-page.php"
+# 10 Alert Email Next Date Update
+#50 23 * * * /usr/bin/php "/var/www/html/alert-date-update.php"
+# 2 Auto Sitemap submit
+20 11 * * * /usr/bin/php "/var/www/html/auto-sitemap-submit.php"
+# 11 Auto Alert Email Sent
+#15 1,5,10,15,20 * * * /usr/bin/php "/var/www/html/auto-email-send.php" 2 >> "/var/www/html/errorlog.txt"
+# 12 Weekly Update
+#20 0 * * 5 /usr/bin/php "/var/www/html/weekly-update.php"

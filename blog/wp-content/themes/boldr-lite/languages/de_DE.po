@@ -1,0 +1,1554 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BoldR Pro 1.2.0\n"
+"POT-Creation-Date: 2013-08-23 11:17+0100\n"
+"PO-Revision-Date: 2014-04-07 10:03+0100\n"
+"Last-Translator: \n"
+"Language-Team: FromBeyond <info@frombeyond.de>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:25
+msgid "404"
+msgstr "404"
+
+#: ../404.php:29
+msgid "Page Not Found"
+msgstr "Seite nicht gefunden"
+
+#: ../404.php:30 ../index.php:119 ../page-full-width.php:55 ../page.php:55
+#: ../single.php:147
+msgid "What you are looking for isn't here..."
+msgstr "Das wonach Du suchst ist nicht da…"
+
+#: ../404.php:31
+msgid "Maybe a search will help ?"
+msgstr "Vielleicht hilft die Suche?"
+
+#: ../comments.php:17
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Dieser Beitrag ist passwortgeschützt. Gib das Passwort ein um den Kommentar "
+"zu lesen"
+
+#: ../comments.php:24
+#, php-format
+msgid "One Response to %2$s"
+msgstr "Eine Antwort auf %2$s"
+
+#: ../comments.php:30
+msgid "Reply"
+msgstr "Antworten"
+
+#: ../comments.php:38
+msgid "Older comments"
+msgstr "Ältere Kommentare"
+
+#: ../comments.php:41
+msgid "Newer comments"
+msgstr "Neuere Kommentare"
+
+#: ../comments.php:53
+msgid "Comments are closed."
+msgstr "Kommentare geschlossen"
+
+#: ../footer.php:27
+msgid "Proudly powered by"
+msgstr "Stolz präsentiert von"
+
+#: ../functions.php:89
+#, php-format
+msgid "Page %s"
+msgstr "Seite %s"
+
+#: ../functions.php:130
+msgid "Default Sidebar"
+msgstr "Standard Seitenleiste"
+
+#: ../functions.php:142
+msgid "Footer"
+msgstr "Fußbereich"
+
+#: ../functions.php:263
+msgid "Read More"
+msgstr "Weiterlesen"
+
+#: ../index.php:32
+msgid "Search Results for "
+msgstr "Suchergebnisse für"
+
+#: ../index.php:37
+msgid "Tag: "
+msgstr "Tag:"
+
+#: ../index.php:42
+msgid "Category: "
+msgstr "Kategorie:"
+
+#: ../index.php:47
+msgid "Daily archives: "
+msgstr "Tägliches Archiv:"
+
+#: ../index.php:50
+msgid "Monthly archives: "
+msgstr "Monatliches Archiv:"
+
+#: ../index.php:53
+msgid "Yearly archives: "
+msgstr "Jährliches Archiv:"
+
+#: ../index.php:78 ../single.php:44
+msgid "No"
+msgstr "Kein"
+
+#: ../index.php:78 ../single.php:44
+msgid "1"
+msgstr "1"
+
+#: ../index.php:78 ../single.php:44
+msgid "%"
+msgstr "%"
+
+#: ../index.php:79 ../single.php:45
+msgid "Comment"
+msgstr "Kommentar"
+
+#: ../index.php:79 ../single.php:45
+msgid "Comments"
+msgstr "Kommentare"
+
+#: ../index.php:79 ../single.php:45
+msgid "Comments Off"
+msgstr "Kommentare deaktiviert"
+
+#: ../index.php:83 ../single.php:49
+msgid "by "
+msgstr "von "
+
+#: ../index.php:85 ../page-full-width.php:40 ../page.php:40 ../single.php:51
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: ../index.php:100 ../single.php:68
+msgid "Posted in"
+msgstr "Gepostet in"
+
+#: ../index.php:118 ../page-full-width.php:54 ../page.php:54 ../single.php:146
+msgid "Not Found"
+msgstr "Nicht gefunden"
+
+#: ../index.php:125
+msgid "Previous Posts"
+msgstr "Vorheriger Beitrag"
+
+#: ../index.php:128
+msgid "Next Posts"
+msgstr "Nächster Beitrag"
+
+#: ../sidebar.php:16
+msgid "Recent Posts"
+msgstr "Aktuellste Beiträge"
+
+#: ../sidebar.php:22
+msgid "Archives"
+msgstr "Archiv"
+
+#: ../sidebar.php:28
+msgid "Meta"
+msgstr "Meta"
+
+#: ../single.php:75
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: ../single.php:80
+msgid "Next page"
+msgstr "Nächste Seite"
+
+#: ../single.php:81
+msgid "Previous page"
+msgstr "Vorherige Seite"
+
+#: ../single.php:100
+msgid "Previous Image"
+msgstr "Vorherige Seite"
+
+#: ../single.php:103
+msgid "Next Image"
+msgstr "Nächste Seite"
+
+#: ../single.php:109 ../single.php:132
+msgid "Previous Post"
+msgstr "Vorheriger Beitrag"
+
+#: ../single.php:112 ../single.php:135
+msgid "Next Post"
+msgstr "Nächster Beitrag"
+
+#~ msgid "Monthly Archives"
+#~ msgstr "Monats-Archiv"
+
+#~ msgid "All Categories"
+#~ msgstr "Alle Kategorien"
+
+#~ msgid "All Pages"
+#~ msgstr "Alle Seiten"
+
+#~ msgid "Category:"
+#~ msgstr "Kategorie:"
+
+#~ msgid "Client:"
+#~ msgstr "Kunde:"
+
+#~ msgid ""
+#~ "IceFit's improved version of the \"recent posts\" widget. Includes "
+#~ "thumbnails and optional category filter."
+#~ msgstr ""
+#~ "IceFit's verbesserte Version des  \"letzte Beiträge\" Widgets. Inklusive "
+#~ "Thumbnails und optionalem Kategoriefilter"
+
+#~ msgid "IceFit Blog Posts"
+#~ msgstr "IceFit Blog Beiträge"
+
+#~ msgid "Title"
+#~ msgstr "Titel"
+
+#~ msgid "Number of posts"
+#~ msgstr "Anzahl Beiträge"
+
+#~ msgid "Category"
+#~ msgstr "Kategorie"
+
+#~ msgid "No Comment"
+#~ msgstr "Kein Kommentar"
+
+#~ msgid "1 Comment"
+#~ msgstr "1 Kommentar"
+
+#~ msgid "% Comments"
+#~ msgstr "% Kommentare"
+
+#~ msgid "Name:"
+#~ msgstr "Name:"
+
+#~ msgid "Email:"
+#~ msgstr "E-Mail:"
+
+#~ msgid "Phone:"
+#~ msgstr "Telefon:"
+
+#~ msgid "Subject:"
+#~ msgstr "Betreff:"
+
+#~ msgid "Message:"
+#~ msgstr "Nachricht:"
+
+#~ msgid "Send"
+#~ msgstr "Abschicken"
+
+#~ msgid "Contact Form"
+#~ msgstr "Kontaktformular"
+
+#~ msgid "IceFit Contact Form"
+#~ msgstr "IceFit Kontaktformular"
+
+#~ msgid "Contact Us"
+#~ msgstr "Kontakt"
+
+#~ msgid "Please enter your name."
+#~ msgstr "Bitte Name eingeben"
+
+#~ msgid "Please enter your E-Mail address."
+#~ msgstr "Bitte E-Mail-Adresse eingeben"
+
+#~ msgid "Please enter a valid E-Mail address."
+#~ msgstr "Bitte gültige E-Mail-Adresse eingeben"
+
+#~ msgid "Please enter your message."
+#~ msgstr "Bitte Nachricht eingeben"
+
+#~ msgid "Thank you. Your message has been sent successfully."
+#~ msgstr "Danke! Deine Nachricht wurde erfolgreich versandt."
+
+#~ msgid ""
+#~ "Sorry, an unexpected error occurred while trying to send your message."
+#~ msgstr ""
+#~ "Sorry, ein unerwarteter Fehler ist beim Versand deiner Nachricht "
+#~ "aufgetreten"
+
+#~ msgid "Display your contact info."
+#~ msgstr "Deine Kontaktinformationen anzeigen"
+
+#~ msgid "IceFit Contact Info"
+#~ msgstr "IceFit Kontaktinformationen"
+
+#~ msgid "Get in touch"
+#~ msgstr "In Verbindung setzen"
+
+#~ msgid "Address"
+#~ msgstr "Adresse"
+
+#~ msgid "Phone"
+#~ msgstr "Telefon"
+
+#~ msgid "Email"
+#~ msgstr "E-Mail"
+
+#~ msgid "Contact Form Link"
+#~ msgstr "Kontaktformular-Link"
+
+#~ msgid "Features"
+#~ msgstr "Features"
+
+#~ msgid "Feature"
+#~ msgstr "Feature"
+
+#~ msgid "All Features"
+#~ msgstr "Alle Features"
+
+#~ msgid "Add New"
+#~ msgstr "Neu erstellen"
+
+#~ msgid "Add New Feature"
+#~ msgstr "Neues Feature"
+
+#~ msgid "Edit Feature"
+#~ msgstr "Bearbeite Feature"
+
+#~ msgid "New Feature"
+#~ msgstr "Neue Besonderheit"
+
+#~ msgid "View Feature"
+#~ msgstr "Betrachte Besonderheit"
+
+#~ msgid "Features Archive"
+#~ msgstr "Besonderheiten Archiv"
+
+#~ msgid "Search Features"
+#~ msgstr "Suche Besonderheit"
+
+#~ msgid "No Feature Found"
+#~ msgstr "Kein Feature gefunden"
+
+#~ msgid "No Feature found in Trash"
+#~ msgstr "Keine Features im Papierkorb"
+
+#~ msgid "Icon"
+#~ msgstr "Icon"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Content"
+#~ msgstr "Inhalt"
+
+#~ msgid "Date"
+#~ msgstr "Datum"
+
+#~ msgid "Learn More"
+#~ msgstr "Mehr..."
+
+#~ msgid "Displays Features"
+#~ msgstr "Zeige Features"
+
+#~ msgid "IceFit Features"
+#~ msgstr "IceFit Features"
+
+#~ msgid "Count"
+#~ msgstr "Anzahl"
+
+#~ msgid "Theme Options"
+#~ msgstr "Theme Optionen"
+
+#~ msgid ""
+#~ "Warning: The PHP Tidy extension is not enabled on your server; this may "
+#~ "prevent Icefit Improve Excerpt from working properly!"
+#~ msgstr ""
+#~ "Warnung: Die PHP Tidy Erweiterung ist auf diesem Server nicht aktiviert - "
+#~ "Das verhindert möglicherweise \"IceFit Improve Excerpt\" daran korrekt zu "
+#~ "funktionieren"
+
+#~ msgid "Web Standards"
+#~ msgstr "Web Standard"
+
+#~ msgid "Google Webfonts"
+#~ msgstr "Google WebFonts"
+
+#~ msgid "Upload Image"
+#~ msgstr "Bild hochladen"
+
+#~ msgid "Remove"
+#~ msgstr "Entfernen"
+
+#~ msgid "Default"
+#~ msgstr "Standard"
+
+#~ msgid "Import"
+#~ msgstr "Importieren"
+
+#~ msgid "Reset Options"
+#~ msgstr "Zurücksetzen"
+
+#~ msgid "Save all Changes"
+#~ msgstr "Speichere alle Änderungen"
+
+#~ msgid "BoldR Pro Settings"
+#~ msgstr "BoldR Pro Einstellungen"
+
+#~ msgid "All Slides"
+#~ msgstr "Alle Folien"
+
+#~ msgid "Main settings"
+#~ msgstr "Grundeinstellungen"
+
+#~ msgid "Favicon"
+#~ msgstr "Favicon"
+
+#~ msgid ""
+#~ "Set your favicon. 16x16 or 32x32 pixels, either 8-bit or 24-bit colors. "
+#~ "PNG (W3C standard), GIF, or ICO."
+#~ msgstr ""
+#~ "Wähle dein Favicon - 16x16px oder 32x32px, entweder 8-bit oder 24-bit "
+#~ "Farbe. PNG (W3C standard), GIF oder ICO"
+
+#~ msgid "Custom Header Code"
+#~ msgstr "Benutzerdefinierter Kopfbereichs-Code"
+
+#~ msgid ""
+#~ "Paste your own custom code to be added in the page header (before the "
+#~ "closing &lt;/head&gt; tag)."
+#~ msgstr ""
+#~ "Fügen Deinen eigenen Code in die Seiten-Kopfbereich ein (vor &lt;/"
+#~ "head&gt; tag)."
+
+#~ msgid "Tracking Code"
+#~ msgstr "Nachverfolgungscode"
+
+#~ msgid ""
+#~ "Paste your own custom code to be added in the footer (i.e. Google "
+#~ "Analytics tracking code, before the closing &lt;/body&gt; tag)."
+#~ msgstr ""
+#~ "Füge deinen eigenen Code in den Fußbereich ein (z.B. Google Analytics)"
+
+#~ msgid "Custom CSS"
+#~ msgstr "Benutzerdefiniertes CSS"
+
+#~ msgid "Paste your custom CSS here"
+#~ msgstr "Füge dein eigenes CSS hier ein"
+
+#~ msgid "Main Styling"
+#~ msgstr "Generelles Design"
+
+#~ msgid "Main Color"
+#~ msgstr "Hauptfarbe"
+
+#~ msgid "Set the main color"
+#~ msgstr "Wähle die Hauptfarbe"
+
+#~ msgid "Content Font"
+#~ msgstr "Schriftart Inhalt"
+
+#~ msgid "Content Font Size"
+#~ msgstr "Schriftgröße Inhalt"
+
+#~ msgid "Content Font Color"
+#~ msgstr "Schriftfarbe Inhalt"
+
+#~ msgid "Layout"
+#~ msgstr "Seitenlayout"
+
+#~ msgid "Choose between wide or boxed layout"
+#~ msgstr "Wähle zwischen Wide oder Boxed Layout"
+
+#~ msgid "Wide"
+#~ msgstr "Wide"
+
+#~ msgid "Boxed"
+#~ msgstr "Boxed"
+
+#~ msgid "Background Color (boxed layout)"
+#~ msgstr "Hintergrundfarbe (Boxed Layout)"
+
+#~ msgid ""
+#~ "Set a background color (for boxed layout - used as fallback only if an "
+#~ "image is set below)"
+#~ msgstr ""
+#~ "Wähle eine Hintergrundfarbe (für das Boxed Layout - dient als Backup wenn "
+#~ "ein Bild unten ausgewählt wird)"
+
+#~ msgid "Background Image (boxed layout)"
+#~ msgstr "Hintergrundbild (Boxed Layout)"
+
+#~ msgid "Upload your own background (for boxed layout)"
+#~ msgstr "Lade Deinen eigenen Hintergrund hoch (für das Boxed Layout)"
+
+#~ msgid "Background Image Repeat (boxed layout)"
+#~ msgstr "Hintergrundbild Wiederholung (Boxed Layout)"
+
+#~ msgid "No Repeat"
+#~ msgstr "Keine Wiederholung"
+
+#~ msgid "Tile"
+#~ msgstr "Kacheln"
+
+#~ msgid "Tile Horizontally"
+#~ msgstr "Horizontal kacheln"
+
+#~ msgid "Tile Vertically"
+#~ msgstr "Vertikal kacheln"
+
+#~ msgid "Background Image Position (boxed layout)"
+#~ msgstr "Hintergrundbild Position (Boxed Layout)"
+
+#~ msgid "Left"
+#~ msgstr "Links"
+
+#~ msgid "Center"
+#~ msgstr "Zentriert"
+
+#~ msgid "Right"
+#~ msgstr "Rechts"
+
+#~ msgid "Background Image Attachment (boxed layout)"
+#~ msgstr "Hintergrundbild Flexibilität (Boxed Layout)"
+
+#~ msgid "Scroll"
+#~ msgstr "Scrollen"
+
+#~ msgid "Fixed"
+#~ msgstr "Fixiert"
+
+#~ msgid "Inside Background Color"
+#~ msgstr "Hintergrundfarbe Innen"
+
+#~ msgid ""
+#~ "Set a background color (for the inside wrapper - used as fallback only if "
+#~ "an image is set below)"
+#~ msgstr ""
+#~ "Wähle einen Hintergrundfarbe (für den Innenbereich - nur als Backup wenn "
+#~ "ein Bild selektiert wurde)"
+
+#~ msgid "Inside Background Image"
+#~ msgstr "Hintergrundbild Innen"
+
+#~ msgid "Upload your own background (for the inside wrapper)"
+#~ msgstr "Lade deinen eigenen Hintergrund hoch (für Innenbereich)"
+
+#~ msgid "Inside Background Image Repeat"
+#~ msgstr "Hintergrund Innen Wiederholung"
+
+#~ msgid "Inside Background Image Position"
+#~ msgstr "Hintergrund Innen Position"
+
+#~ msgid "Inside Background Image Attachment"
+#~ msgstr "Hintergrund Innen Flexibilität"
+
+#~ msgid "Header Settings"
+#~ msgstr "Kopfbereich Einstellungen"
+
+#~ msgid "Logo"
+#~ msgstr "Logo"
+
+#~ msgid "Upload your own logo"
+#~ msgstr "Eigenes Logo hochladen"
+
+#~ msgid "Site Title"
+#~ msgstr "Seitentitel"
+
+#~ msgid ""
+#~ "Choose \"display title\" if you want to use a text-based title instead of "
+#~ "an uploaded logo."
+#~ msgstr ""
+#~ "Wähle \"Zeige Titel\" falls Du einen textbasierten Titel anstatt eines "
+#~ "Logos verwenden willst"
+
+#~ msgid "Use Logo"
+#~ msgstr "Benutze Logo"
+
+#~ msgid "Display Title"
+#~ msgstr "Zeige Titel"
+
+#~ msgid "Site Title Font"
+#~ msgstr "Seitentitel Schriftart"
+
+#~ msgid "Site Title Font Size"
+#~ msgstr "Seitentitel Schriftgröße"
+
+#~ msgid "Font size for the site title, in pixels (default to 50)"
+#~ msgstr "Schriftgröße für Seitentitel, in px (Standard ist 50)"
+
+#~ msgid "Site Title Font Color"
+#~ msgstr "Seitentitel Schriftfarbe"
+
+#~ msgid "Font color for the site title, in hex (default to #333333)"
+#~ msgstr "Schriftfarbe für Seitentitel, in HEX (Standard ist #333333)"
+
+#~ msgid "Header Layout"
+#~ msgstr "Kopfbereich Layout"
+
+#~ msgid "Tagline and Custom HTML can be set below."
+#~ msgstr "Tags und benutzerdefiniertes HTML kann hier eingefügt werden."
+
+#~ msgid "Logo Left"
+#~ msgstr "Logo links"
+
+#~ msgid "Logo Center"
+#~ msgstr "Logo zentriert"
+
+#~ msgid "Logo left + Tagline"
+#~ msgstr "Logo linkt + Untertitel"
+
+#~ msgid "Logo Left + Social Media"
+#~ msgstr "Logo links + Soziale Medien"
+
+#~ msgid "Logo Left + Custom HTML"
+#~ msgstr "Logo links + Benutzer-HTML"
+
+#~ msgid "Tagline Font"
+#~ msgstr "Untertitel Schriftart"
+
+#~ msgid "Tagline Font Size"
+#~ msgstr "Untertitel Schriftgröße"
+
+#~ msgid "Font size for the tagline, in pixels (default to 16)"
+#~ msgstr "Schriftgröße für Tags, in px (Standard ist 16)"
+
+#~ msgid "Tagline Font Color"
+#~ msgstr "Untertitel Schriftfarbe"
+
+#~ msgid "Font color for the tagline, in hex (default to #707070)"
+#~ msgstr "Schriftfarbe für Tags, in hex (Standard ist #707070)"
+
+#~ msgid "Header Custom HTML"
+#~ msgstr "Kopfbereich Benutzer-HTML"
+
+#~ msgid "Header Top Padding"
+#~ msgstr "Kopfbereich Abstand oben"
+
+#~ msgid ""
+#~ "Adjust the padding top value for the header area, in pixels (default to "
+#~ "40)"
+#~ msgstr ""
+#~ "Ändere den oberen Abstandswert  für den Kopfbereich, in px (Standard ist "
+#~ "40)"
+
+#~ msgid "Header Bottom Padding"
+#~ msgstr "Kopfbereich Abstand unten"
+
+#~ msgid ""
+#~ "Adjust the padding bottom value for the header area, in pixels (default "
+#~ "to 40)"
+#~ msgstr ""
+#~ "Ändere den unteren Abstandswert  für den Kopfbereich, in px (Standard ist "
+#~ "40)"
+
+#~ msgid "Sticky Header"
+#~ msgstr "\"Klebender\" Kopfbereich"
+
+#~ msgid "Normal Header Only"
+#~ msgstr "Nur normaler Kopfbereich"
+
+#~ msgid "Sticky Header on scroll"
+#~ msgstr "\"Klebender\" Kopfbereich bei Scrollen"
+
+#~ msgid "Sticky Navbar on scroll"
+#~ msgstr "\"Klebende\" Menüleiste bei Scrollen"
+
+#~ msgid "Sticky Header Only"
+#~ msgstr "Nur \"klebender\" Kopfbereich"
+
+#~ msgid "Sticky Navbar Only"
+#~ msgstr "Nur \"klebende\" Menüleiste"
+
+#~ msgid "No Header"
+#~ msgstr "Kein Kopfbereich"
+
+#~ msgid "Navbar Layout"
+#~ msgstr "Navigationsleiste Layout"
+
+#~ msgid "Menu Layout"
+#~ msgstr "Menü Layout"
+
+#~ msgid "Left + Search"
+#~ msgstr "Links + Suche"
+
+#~ msgid "Left No Search"
+#~ msgstr "Links + keine Suche"
+
+#~ msgid "Center No Search"
+#~ msgstr "Zentriert + keine Suche"
+
+#~ msgid "Menu Font"
+#~ msgstr "Menü Schriftart"
+
+#~ msgid "Menu Font Size"
+#~ msgstr "Menü Schriftgröße"
+
+#~ msgid "In px, default to 16."
+#~ msgstr "in px, Standard ist 16"
+
+#~ msgid "Menu Font Color"
+#~ msgstr "Menü Schriftfarbe"
+
+#~ msgid "Menu Text Transform"
+#~ msgstr "Menü Text Transformation"
+
+#~ msgid "Uppercase"
+#~ msgstr "GROSSBUCHSTABEN"
+
+#~ msgid "None"
+#~ msgstr "Keine"
+
+#~ msgid "Menu Item Hover: Box effect"
+#~ msgstr "Menü Auswahl Hover: Box Effekt"
+
+#~ msgid ""
+#~ "Make sure to pick a color other than white below if you set this to Off."
+#~ msgstr ""
+#~ "Setze eine Farbe anders als Weiß unten wenn Du das hier ausschaltest"
+
+#~ msgid "On"
+#~ msgstr "An"
+
+#~ msgid "Off"
+#~ msgstr "Aus"
+
+#~ msgid "Menu Item Hover: Text color"
+#~ msgstr "Menü Auswahl Hover: Textfarbe"
+
+#~ msgid "Headings Styling"
+#~ msgstr "Kopfbereich Style"
+
+#~ msgid "Headings Font"
+#~ msgstr "Kopfbereich Schriftart"
+
+#~ msgid "Choose a font for headings"
+#~ msgstr "Wähle eine Schriftart für den Kopfbereich"
+
+#~ msgid "H1 font size"
+#~ msgstr "H1 Schriftgröße"
+
+#~ msgid "In px. Default = 21."
+#~ msgstr "in px. Standard ist 21."
+
+#~ msgid "H1 font color"
+#~ msgstr "H1 Schriftfarbe"
+
+#~ msgid "H2 font size"
+#~ msgstr "H2 Schriftgröße"
+
+#~ msgid "In px. Default = 18."
+#~ msgstr "in px. Standard ist 18."
+
+#~ msgid "H2 font color"
+#~ msgstr "H2 Schriftfarbe"
+
+#~ msgid "H3 font size"
+#~ msgstr "H3 Schriftgröße"
+
+#~ msgid "In px. Default = 16."
+#~ msgstr "in px. Standard ist 16."
+
+#~ msgid "H3 font color"
+#~ msgstr "H3 Schriftfarbe"
+
+#~ msgid "H4 font size"
+#~ msgstr "H4 Schriftgröße"
+
+#~ msgid "In px. Default = 14."
+#~ msgstr "in px. Standard ist 14."
+
+#~ msgid "H4 font color"
+#~ msgstr "H4 Schriftfarbe"
+
+#~ msgid "H5 font size"
+#~ msgstr "H5 Schriftgröße"
+
+#~ msgid "In px. Default = 13."
+#~ msgstr "in px. Standard ist 13."
+
+#~ msgid "H5 font color"
+#~ msgstr "H5 Schriftfarbe"
+
+#~ msgid "H6 font size"
+#~ msgstr "H6 Schriftgröße"
+
+#~ msgid "In px. Default = 12."
+#~ msgstr "in px. Standard ist 12."
+
+#~ msgid "H6 font color"
+#~ msgstr "H6 Schriftfarbe"
+
+#~ msgid "Page Titles font size"
+#~ msgstr "Seitentitel Schriftgröße"
+
+#~ msgid "Page Titles font color"
+#~ msgstr "Seitentitel Schriftfarbe"
+
+#~ msgid "Blogpost Titles font size"
+#~ msgstr "Beitragstitel Schriftgröße"
+
+#~ msgid "In px. Default = 24."
+#~ msgstr "in px. Standard ist 24."
+
+#~ msgid "Blogpost Titles font color"
+#~ msgstr "Beitragstitel Schriftfarbe"
+
+#~ msgid "Slider Settings"
+#~ msgstr "Folien Einstellungen"
+
+#~ msgid "Slider animation"
+#~ msgstr "Folien Animation"
+
+#~ msgid "Slide"
+#~ msgstr "Folien aninmieren"
+
+#~ msgid "Fade"
+#~ msgstr "Ausblenden"
+
+#~ msgid "Slider delay"
+#~ msgstr "Folien Verzögerung"
+
+#~ msgid ""
+#~ "Set the delay between slides, in milliseconds; default to 4000 ( = 4 "
+#~ "seconds)"
+#~ msgstr ""
+#~ "Setze die Verzögerung zwischen den Folien, in Millisekunden; Standard ist "
+#~ "4000 (= 4 Sekunden)"
+
+#~ msgid "Animation speed"
+#~ msgstr "Animationsgeschwindigkeit"
+
+#~ msgid ""
+#~ "Set the animation speed, in milliseconds; default to 600 ( = 0.6 seconds)"
+#~ msgstr ""
+#~ "Setze die Animationsgeschwindigkeit, in Millisekunden; Standard ist 600 "
+#~ "(= 0,6 Sekunden)"
+
+#~ msgid "Slide direction"
+#~ msgstr "Animationsrichtung"
+
+#~ msgid "Horizontal"
+#~ msgstr "Horizontal"
+
+#~ msgid "Vertical"
+#~ msgstr "Vertikal"
+
+#~ msgid "Reverse animation direction"
+#~ msgstr "Umgekehrte Richtung"
+
+#~ msgid "Yes"
+#~ msgstr "Ja"
+
+#~ msgid "Auto animate slideshow"
+#~ msgstr "Automatische Slideshow"
+
+#~ msgid ""
+#~ "Animate the slideshow automatically. Set to false to only allow manual "
+#~ "animation (i.e. when users click the slide navigation buttons)"
+#~ msgstr ""
+#~ "Starte Animation automatisch. Setze auf \"Nein\" wenn Du nur durch "
+#~ "Benutzerklicks animieren willst."
+
+#~ msgid "Init delay"
+#~ msgstr "Anfangsverzögerung"
+
+#~ msgid ""
+#~ "You can optionally set a delay before the animation starts, in "
+#~ "milliseconds; default to 0"
+#~ msgstr ""
+#~ "Du kannst optional eine Anfangsverzögerung einstellen,  in Millisekunden; "
+#~ "Standard ist 0"
+
+#~ msgid "Randomize slides"
+#~ msgstr "Zufallswiedergabe"
+
+#~ msgid "Blog settings"
+#~ msgstr "Blog Einstellungen"
+
+#~ msgid "Blog Sidebar Side"
+#~ msgstr "Blog Seitenleiste Position"
+
+#~ msgid ""
+#~ "Select the side of the sidebar for the index and single posts of your "
+#~ "blog."
+#~ msgstr ""
+#~ "Wähle die Seite der Seitenleiste für die Inhaltsseite und Einzelansicht "
+#~ "deines Blogs."
+
+#~ msgid "Show Page title on Blog Index Page"
+#~ msgstr "Seitentitel auf Blog"
+
+#~ msgid "Blog Index Content"
+#~ msgstr "Blog Darstellung"
+
+#~ msgid ""
+#~ "Select what content should be displayed on blog index pages. The Icefit "
+#~ "Improved Excerpt is capable of preserving some formatting tags (set "
+#~ "below)."
+#~ msgstr ""
+#~ "Wähle welcher Inhalt auf den Blog-Inhaltsseiten gezeigt werden soll. "
+#~ "IceFit \"Verbesserter Auszug\" kann dabei die Formatierung beibehalten "
+#~ "(siehe unten)."
+
+#~ msgid "Full Content"
+#~ msgstr "Voller Inhalt"
+
+#~ msgid "Default Excerpt"
+#~ msgstr "Standard Auszug"
+
+#~ msgid "Icefit Improved Excerpt"
+#~ msgstr "IceFit \"Verbesserter Auszug\""
+
+#~ msgid "Excerpt Lenght"
+#~ msgstr "Auszuglänge"
+
+#~ msgid "Set how many words an excerpt must contains (default: 55)"
+#~ msgstr "Lege fest wieviele Wörter ein Auszug enthalten muß (Standard: 55)"
+
+#~ msgid "Icefit Improved Excerpt: Tags to preserve"
+#~ msgstr "IceFit \"Verbesserter Auszug\": Geschützte Tags "
+
+#~ msgid ""
+#~ "Set which tags the Improved Excerpt generator should try to preserve, in "
+#~ "this format: &lt;br&gt;&lt;p&gt;&lt;i&gt;&lt;em&gt;&lt;b&gt;&lt;a&gt;&lt;"
+#~ "strong&gt;"
+#~ msgstr ""
+#~ "Lege fest welche Tags der \"Verbesserter Auszug\" -Generator beibehalten "
+#~ "soll, in folgendem Format: &lt;br&gt;&lt;p&gt;&lt;i&gt;&lt;em&gt;&lt;b&gt;"
+#~ "&lt;a&gt;&lt;strong&gt;"
+
+#~ msgid "Activate slider on blog pages"
+#~ msgstr "Slideshow in Blog"
+
+#~ msgid "Enable slideshow on blog index pages."
+#~ msgstr "Slideshow in Blog Einzelansicht"
+
+#~ msgid "Activate slider on single blogpost pages"
+#~ msgstr "Slideshow in Einzel-Blogbeitragsseiten"
+
+#~ msgid "Slides category for blog page"
+#~ msgstr "Folien Kategorie für Blogseite"
+
+#~ msgid "Select which slides to use for the blog index slideshow."
+#~ msgstr ""
+#~ "Wähle welche Folien du in der Bloginhalts-Slideshow verwenden möchtest."
+
+#~ msgid "Show featured image in single post view"
+#~ msgstr "Zeige Feature-Bilder in Einzelbeitragsansicht"
+
+#~ msgid "Show comment counter box"
+#~ msgstr "Zeige Kommentar-Zähler Box"
+
+#~ msgid "On index page and single posts"
+#~ msgstr "Auf Inhaltsseite und einzelnen Beiträgen"
+
+#~ msgid "On index page only"
+#~ msgstr "Nur auf Startseite"
+
+#~ msgid "On single posts only"
+#~ msgstr "Nur bei einzelnen Beiträgen"
+
+#~ msgid "Hide everywhere"
+#~ msgstr "Verstecke überall"
+
+#~ msgid "Sidebars"
+#~ msgstr "Seitenleisten"
+
+#~ msgid "Additional Sidebars"
+#~ msgstr "Zusätzliche Seitenleisten"
+
+#~ msgid ""
+#~ "Enter names for your additional sidebars (one per line). You will then "
+#~ "find them in Appearence > Widgets"
+#~ msgstr ""
+#~ "Gibt die Namen für deine zusätzlichen Seitenleisten (eine pro Zeile) ein. "
+#~ "Du findest sie unter Design > Widgets"
+
+#~ msgid "Sidebars Widgets Title and Lists Font"
+#~ msgstr "Seitenleisten Widgets Titel und Listen Schriftart"
+
+#~ msgid "Sidebars Widgets Title Font Size"
+#~ msgstr "Seitenleisten Widgets Titel und Listen Schriftgröße"
+
+#~ msgid "In pixel. Default to 15."
+#~ msgstr "in px. Standard ist 15."
+
+#~ msgid "Sidebars Widgets Title Font Color"
+#~ msgstr "Seitenleisten Widgets Titel und Listen Schriftfarbe"
+
+#~ msgid "In hex. Default to #eeeeee."
+#~ msgstr "in Hex. Standard ist #EEEEEE"
+
+#~ msgid "Sidebars Widgets Title Box"
+#~ msgstr "Seitenleiste Widget Titelbox"
+
+#~ msgid "Make sure to pick an appropriate color above if you turn this off."
+#~ msgstr ""
+#~ "Vergewissere Dich das Du eine passende Farbe wählst, wenn du diese "
+#~ "Funktion deaktivierst."
+
+#~ msgid "Sidebars Widgets Title Box Color"
+#~ msgstr "Seitenleiste Widgets Titelbox Farbe"
+
+#~ msgid "In hex. Default to #333333."
+#~ msgstr "in HEX. Standard ist #333333"
+
+#~ msgid "Portfolio Settings"
+#~ msgstr "Portfolio Einstellungen"
+
+#~ msgid "Main Portfolio Page"
+#~ msgstr "Portfolio Hauptseite"
+
+#~ msgid "Portfolio Grid Only"
+#~ msgstr "Nur Portfolio Raster"
+
+#~ msgid "Page Content above Grid"
+#~ msgstr "Seiteninhalt über Raster"
+
+#~ msgid "Page Content below Grid"
+#~ msgstr "Seiteninhalt unter Raster"
+
+#~ msgid "Portfolio entries Slug"
+#~ msgstr "Portfolio Slugs"
+
+#~ msgid ""
+#~ "Warning: Using the same slug for portfolio entries and for your main "
+#~ "portfolio page will cause conflicts! Note: When you change this setting, "
+#~ "please go to Settings > Permalinks and hit \"Save Changes\" to update "
+#~ "your permalink structure."
+#~ msgstr ""
+#~ "WARNUNG: Die Nutzung des selben Slug für Portfolioeinträge und für dein "
+#~ "Hauptportfolio erzeugt Konflikte! Hinweis: Wenn Du diese Einstellung "
+#~ "änderst gehe bitte zu Einstellungen > Permalinks und klicke auf \"Alles "
+#~ "speichern\" um die Struktur upzudaten."
+
+#~ msgid "Enable Sidebar for single portfolio entries"
+#~ msgstr "Seitenleiste für einzelne Portfolioeinträge"
+
+#~ msgid "No sidebar"
+#~ msgstr "Keine Seitenleiste"
+
+#~ msgid "Left Sidebar"
+#~ msgstr "Seitenleiste links"
+
+#~ msgid "Right Sidebar"
+#~ msgstr "Seitenleiste rechts"
+
+#~ msgid "Select Sidebar for single portfolio entries"
+#~ msgstr "Wähle Seitenleiste für einzelne Portfolioeinträge"
+
+#~ msgid ""
+#~ "If you have just created new sidebars and cannot see them in this list, "
+#~ "please reload this page."
+#~ msgstr ""
+#~ "Wenn du gerade neue Sidebars erstellt hast und sie nicht angezeigt "
+#~ "werden, lade die Seite neu."
+
+#~ msgid "Display Date meta in single portfolio entries"
+#~ msgstr "Zeige Datums-Meta in Einzelportfolioeinträgen"
+
+#~ msgid "Display Category meta in single portfolio entries"
+#~ msgstr "Zeige Kategorien-Meta in Einzelportfolioeinträgen"
+
+#~ msgid "Display Client meta in single portfolio entries"
+#~ msgstr "Zeigen Kunden-Meta in Einzelportfolioeinträgen"
+
+#~ msgid "Display \"Related projects\" below portfolio entries"
+#~ msgstr "Zeige \"Verwandte Projekte\" unter Portfolio-Einträgen"
+
+#~ msgid "\"Related projects\" section title"
+#~ msgstr "\"Verwandte Projekte\" Bereichstitel"
+
+#~ msgid "Footer Settings"
+#~ msgstr "Fußbereich Einstellungen"
+
+#~ msgid "Additional Footer Widget groups"
+#~ msgstr "Zusätzliche Fußbereich Widget-Gruppen"
+
+#~ msgid ""
+#~ "Enter names for your additional widgetized footer (one per line). You "
+#~ "will then find them in Appearence > Widgets"
+#~ msgstr ""
+#~ "Gibt die Bezeichnungen für deine zusätzlichen Widget-Fußbereiche (eine "
+#~ "pro Zeile) ein. Du findest diese in Design > Widgets"
+
+#~ msgid "Footer Widgets Columns"
+#~ msgstr "Fußbereich Widgets Spalten"
+
+#~ msgid "3 Columns"
+#~ msgstr "3 Spalten"
+
+#~ msgid "4 Columns"
+#~ msgstr "4 Spalten"
+
+#~ msgid "Footer Border Top Width"
+#~ msgstr "Fußbereich Rahmen Oben Breite"
+
+#~ msgid "In pixel. Default to 6px"
+#~ msgstr "in px. Standard ist 6."
+
+#~ msgid "Footer Border Top Color"
+#~ msgstr "Fußbereich Rahmenfarbe"
+
+#~ msgid "Footer Background Color"
+#~ msgstr "Fußbereich Hintergrundfarbe"
+
+#~ msgid "Footer Content Color"
+#~ msgstr "Fußbereich Inhaltsfarbe"
+
+#~ msgid "Footer Widgets Title and Lists Font"
+#~ msgstr "Fußbereich Widget Titel- und Listen Schriftart"
+
+#~ msgid "Footer Widgets Title Font Size"
+#~ msgstr "Fußzeilen Widget Titel Schriftgröße"
+
+#~ msgid "In pixel. Default to 24."
+#~ msgstr "in px. Standard ist 24."
+
+#~ msgid "Footer Widgets Title Font Color"
+#~ msgstr "Fußbereich Widget Titel Schriftfarbe"
+
+#~ msgid "Footer padding top (above widgets)"
+#~ msgstr "Fußzeilen Grenze oben (über Widgets)"
+
+#~ msgid "In pixel. Default to 50."
+#~ msgstr "in px. Standard ist 50."
+
+#~ msgid "Footer margin bottom (below widgets)"
+#~ msgstr "Fußbereich Grenze unten (unter Widgets)"
+
+#~ msgid "Sub Footer Background Color"
+#~ msgstr "Unterfußbereich Hintergrundfarbe"
+
+#~ msgid "Sub Footer Content Color"
+#~ msgstr "Unterfußbereich Inhaltsfarbe"
+
+#~ msgid "Sub Footer left content (Copyright line)"
+#~ msgstr "Unterfußbereich linker Inhalt (Copyrightbereich)"
+
+#~ msgid ""
+#~ "Customize the copyright note at the bottom of your site - or leave it as "
+#~ "is and give credits to the author :)<br />You can use the following "
+#~ "dynamic tokens: %date%, %sitename%"
+#~ msgstr ""
+#~ "Personalisiere den Copyright-Hinweis am Ende deiner Seite - oder lasse "
+#~ "Sie wie sie ist und helfe damit dem Autor :) <br/> Du kannst folgenden "
+#~ "dynamischen Token nutzen: %date%, %sitename%"
+
+#~ msgid "Copyright start year"
+#~ msgstr "Copyright Anfangsjahr"
+
+#~ msgid ""
+#~ "Enter the year this website was created to compute the copyright %date% "
+#~ "token."
+#~ msgstr ""
+#~ "Trage das Jahr ein, in dem diese Webseite erstellt wurde um das korrekte "
+#~ "Copyright-Datum zu berechnen."
+
+#~ msgid "Sub Footer right content"
+#~ msgstr "Unterfußbereich rechter Inhalt"
+
+#~ msgid ""
+#~ "You can pick what menu to use in Appearence > Menu > Theme location "
+#~ "(under \"footer menu\")."
+#~ msgstr "Du kannst das zu verwendende Menü in App"
+
+#~ msgid "Menu"
+#~ msgstr "Menü"
+
+#~ msgid "Custom text"
+#~ msgstr "Benutzerdefinierter Text"
+
+#~ msgid "Sub Footer right custom text"
+#~ msgstr "Unterfußbereich rechter Benutzertext"
+
+#~ msgid "You can use the following dynamic tokens: %date%, %sitename%."
+#~ msgstr "Du kannst folgenden dynamische Token nutzen: %date%, %sitename%."
+
+#~ msgid "Social Media"
+#~ msgstr "Soziale Medien"
+
+#~ msgid "Facebook URL"
+#~ msgstr "Facebook URL"
+
+#~ msgid "Make sure to enter a full URL (starting with http or https)"
+#~ msgstr "Gibt bitte eine volle URL ein (angefangen mit http oder https)"
+
+#~ msgid "Twitter URL"
+#~ msgstr "Twitter URL"
+
+#~ msgid "Google Plus URL"
+#~ msgstr "Google+ URL"
+
+#~ msgid "Linkedin URL"
+#~ msgstr "LinkedIN URL"
+
+#~ msgid "Instagram URL"
+#~ msgstr "Instagram URL"
+
+#~ msgid "Pinterest URL"
+#~ msgstr "Pintrest URL"
+
+#~ msgid "Tumblr URL"
+#~ msgstr "Tumblr URL"
+
+#~ msgid "StumbleUpon URL"
+#~ msgstr "StumbleUpon URL"
+
+#~ msgid "Dribbble URL"
+#~ msgstr "Dribbble URL"
+
+#~ msgid "Behance URL"
+#~ msgstr "Behance URL"
+
+#~ msgid "Deviantart URL"
+#~ msgstr "Deviantart URL"
+
+#~ msgid "Flickr URL"
+#~ msgstr "Flickr URL"
+
+#~ msgid "Youtube URL"
+#~ msgstr "YouTube URL"
+
+#~ msgid "Vimeo URL"
+#~ msgstr "Vimeo URL"
+
+#~ msgid "Yelp URL"
+#~ msgstr "Yelp URL"
+
+#~ msgid "RSS Feed URL"
+#~ msgstr "Newsfeed URL"
+
+#~ msgid ""
+#~ "Make sure to enter a full URL (starting with http or https). Your default "
+#~ "RSS feed is at: "
+#~ msgstr ""
+#~ "Gibt bitte eine volle URL ein (angefangen mit http oder https). Dein "
+#~ "Standard-RSS feed ist unter: "
+
+#~ msgid "404 Handling"
+#~ msgstr "404 Fehlerbehandlung"
+
+#~ msgid "404 Errors Handling"
+#~ msgstr "404 Fehlerbehandlung"
+
+#~ msgid "Default template (404.php)"
+#~ msgstr "Standardtemplate (404.php)"
+
+#~ msgid "Custom Redirect (set below)"
+#~ msgstr "Benutzerdefinierte Umleitung (siehe unten)"
+
+#~ msgid "404 Custom Redirect"
+#~ msgstr "404 Benutzerdefinierte Umleitung"
+
+#~ msgid ""
+#~ "Input any URL to redirect all caught 404 errors to. Please make sure to "
+#~ "enter a full URL, starting with http or https."
+#~ msgstr ""
+#~ "Gibt eine URL ein, die alle 404-Fehler auffängt. Vergewissere Dich das es "
+#~ "eine komplette URL (inkl. http oder https) ist."
+
+#~ msgid "Import/Export"
+#~ msgstr "Importieren/Exportieren"
+
+#~ msgid "Export Settings"
+#~ msgstr "Export Einstellungen"
+
+#~ msgid ""
+#~ "Copy this string to export all current settings (excluding uploaded "
+#~ "images) to another site using BoldR Pro. If you have just made changes to "
+#~ "your settings, make sure to hit \"save all changes\" and reload this page."
+#~ msgstr ""
+#~ "Kopiere diesen String um alle deine Einstellung (ohne Bilder) auf eine "
+#~ "andere BoldR Pro Seite zu exportieren. Nachdem Du deine Änderungen "
+#~ "gemacht hast, klicke auf \"Speichere alle Änderungen\" und lade diese "
+#~ "Seite neu."
+
+#~ msgid "Import Settings"
+#~ msgstr "Import Einstellungen"
+
+#~ msgid ""
+#~ "To import your own settings from another site using BoldR Pro, paste the "
+#~ "export string here and click \"Import\". Warning: this will override all "
+#~ "current settings (except uploaded images)."
+#~ msgstr ""
+#~ "Um deine eigenen Einstellung von einer anderen Seite die auch BoldR Pro "
+#~ "nutzt zu importieren, kopiere den Export-String hierher und klicke  "
+#~ "\"Importieren\". Warnung: Damit überschreibst Du deine aktuellen "
+#~ "Einstellungen!"
+
+#~ msgid "Options Index"
+#~ msgstr "Einstellungübersicht"
+
+#~ msgid "Option Index"
+#~ msgstr "Einstellungsübersicht"
+
+#~ msgid ""
+#~ "This index allows you to see every available settings at a glance, to "
+#~ "help you find the setting you are looking for quickly and easily."
+#~ msgstr ""
+#~ "Diese Ansicht erlaubt Dir alle verfügbaren Einstellung auf einen Blick zu "
+#~ "finden."
+
+#~ msgid "Default Footer"
+#~ msgstr "Standard Fußbereich"
+
+#~ msgid "No Widgetized Footer"
+#~ msgstr "Kein Fußzeilen Widget"
+
+#~ msgid "Icefit Page Settings"
+#~ msgstr "IceFit Seiteneinstellungen"
+
+#~ msgid "Use Global Setting"
+#~ msgstr "Benutze globale Einstellung"
+
+#~ msgid "Sidebar Side"
+#~ msgstr "Seitenleisten Seite"
+
+#~ msgid "Select Sidebar"
+#~ msgstr "Wähle Seitenleiste"
+
+#~ msgid "Slider"
+#~ msgstr "Folien"
+
+#~ msgid "Slides Category"
+#~ msgstr "Folien Kategorie"
+
+#~ msgid "Show Page Title"
+#~ msgstr "Zeige Seitentitel"
+
+#~ msgid "Select Footer"
+#~ msgstr "Wähle Fußbereich"
+
+#~ msgid "Partners/Clients"
+#~ msgstr "Partner/Kunden"
+
+#~ msgid "Partner/Client"
+#~ msgstr "Partner/Kunde"
+
+#~ msgid "All Partners/Clients"
+#~ msgstr "Alle Partner/Kunden"
+
+#~ msgid "Add New Partner/Client"
+#~ msgstr "Neuer Partner/Kunde"
+
+#~ msgid "Edit Partner/Client"
+#~ msgstr "Bearbeite Partner/Kunde"
+
+#~ msgid "New Partner/Client"
+#~ msgstr "Neuen Partner/Kunde"
+
+#~ msgid "View Partner/Client"
+#~ msgstr "Zeige Patner/Kunde"
+
+#~ msgid "Partners/Clients Archive"
+#~ msgstr "Partner/Kunden Archiv"
+
+#~ msgid "Search Partners/Clients"
+#~ msgstr "Suche Partner/Kunden"
+
+#~ msgid "No Partner/Client Found"
+#~ msgstr "Kein Partner/Kunde gefunden"
+
+#~ msgid "No Partner/Client found in Trash"
+#~ msgstr "Keine Partner/Kunden gefunden"
+
+#~ msgid "Partners/Clients Categories"
+#~ msgstr "Partner/Kunden Kategorien"
+
+#~ msgid "Partners/Clients Category"
+#~ msgstr "Partner/Kunden Kategorie"
+
+#~ msgid "Search Category"
+#~ msgstr "Suche Kategorie"
+
+#~ msgid "Parent Category"
+#~ msgstr "Übergeordnete Kategorie"
+
+#~ msgid "Parent Category:"
+#~ msgstr "Übegeordnete Kategorie:"
+
+#~ msgid "Edit Category"
+#~ msgstr "Bearbeite Kategorie"
+
+#~ msgid "Update Category"
+#~ msgstr "Kategorie aktualisieren"
+
+#~ msgid "Add New Category"
+#~ msgstr "Neue Kategorie"
+
+#~ msgid "New Category Name"
+#~ msgstr "Neuer Kategoriename"
+
+#~ msgid "Partner"
+#~ msgstr "Partner"
+
+#~ msgid "Displays Partners"
+#~ msgstr "Zeige Partner"
+
+#~ msgid "IceFit Partners"
+#~ msgstr "IceFit Partner"
+
+#~ msgid "Partners"
+#~ msgstr "Partner"
+
+#~ msgid "Portfolio"
+#~ msgstr "Portfolio"
+
+#~ msgid "Portfolio Entry"
+#~ msgstr "Portfolio Eintrag"
+
+#~ msgid "All Entries"
+#~ msgstr "Alle Einträge"
+
+#~ msgid "Add New Portfolio Entry"
+#~ msgstr "Neuer Portfolioeintrag"
+
+#~ msgid "Edit Portfolio Entry"
+#~ msgstr "Bearbeite Portfolio"
+
+#~ msgid "New Portfolio Entry"
+#~ msgstr "Neuer Portfolioeintrag"
+
+#~ msgid "View Portfolio Entry"
+#~ msgstr "Zeige Portfolioeintrag"
+
+#~ msgid "Portfolio Archive"
+#~ msgstr "Portfolio Archiv"
+
+#~ msgid "Search Portfolio Entries"
+#~ msgstr "Suche Portfolioeinträge"
+
+#~ msgid "No Entry Found"
+#~ msgstr "Keine Einträge gefunden"
+
+#~ msgid "No Entry found in Trash"
+#~ msgstr "Keine Einträge im Papierkorb gefunden"
+
+#~ msgid "Portfolio Categories"
+#~ msgstr "Portfolio Kategorien"
+
+#~ msgid "Portfolio Category"
+#~ msgstr "Portfolio Kategorie"
+
+#~ msgid "Client"
+#~ msgstr "Kunde"
+
+#~ msgid "Project Date"
+#~ msgstr "Projekt Datum"
+
+#~ msgid "Portfolio Item Information"
+#~ msgstr "Portfolio Information"
+
+#~ msgid "Displays a list of recent portfolio"
+#~ msgstr "Zeige eine Liste der aktuellsten Portfolios"
+
+#~ msgid "IceFit Portfolio"
+#~ msgstr "IceFit Referenz"
+
+#~ msgid "Recent Works"
+#~ msgstr "Aktuelle Arbeiten"
+
+#~ msgid "Number of items"
+#~ msgstr "Anzahl Objekte"
+
+#~ msgid "Slides"
+#~ msgstr "Folien"
+
+#~ msgid "Add New Slide"
+#~ msgstr "Neue Folie hinzufügen"
+
+#~ msgid "Edit Slide"
+#~ msgstr "Folie editieren"
+
+#~ msgid "New Slide"
+#~ msgstr "Neue Folie"
+
+#~ msgid "View Slide"
+#~ msgstr "Betrachte Folie"
+
+#~ msgid "Slides Archive"
+#~ msgstr "Folienarchiv"
+
+#~ msgid "Search Slides"
+#~ msgstr "Suche Folie"
+
+#~ msgid "No Slide Found"
+#~ msgstr "Keine Folie gefunden"
+
+#~ msgid "No Slide found in Trash"
+#~ msgstr "Keine Folie im Papierkorb gefuden"
+
+#~ msgid "Slides Categories"
+#~ msgstr "Folien Kategorie"
+
+#~ msgid "Thumbnail"
+#~ msgstr "Thumbnail"
+
+#~ msgid "Slide Link"
+#~ msgstr "Folien Link"
+
+#~ msgid "Caption"
+#~ msgstr "Beschreibung"
+
+#~ msgid "Link"
+#~ msgstr "Link"
+
+#~ msgid "IceFit Social Media"
+#~ msgstr "IceFit Soziale Medien"
+
+#~ msgid "Follow Us"
+#~ msgstr "Folge uns"
+
+#~ msgid "Testimonials"
+#~ msgstr "Referenzen"
+
+#~ msgid "Testimonial"
+#~ msgstr "Referenz"
+
+#~ msgid "All Testimonials"
+#~ msgstr "Alle Referenzen"
+
+#~ msgid "Add New Testimonial"
+#~ msgstr "Neue Referenz hinzufügen"
+
+#~ msgid "Edit Testimonial"
+#~ msgstr "Bearbeite Referenz"
+
+#~ msgid "New Testimonial"
+#~ msgstr "Neue Referenz"
+
+#~ msgid "View Testimonial"
+#~ msgstr "Betrachte Referenz"
+
+#~ msgid "Testimonials Archive"
+#~ msgstr "Referenz Archiv"
+
+#~ msgid "Search Testimonials"
+#~ msgstr "Suche Referenz"
+
+#~ msgid "No Testimonial Found"
+#~ msgstr "Keine Referenz gefunden"
+
+#~ msgid "No Testimonial found in Trash"
+#~ msgstr "Keine Referenz im Papierkorb gefunden"
+
+#~ msgid "Position"
+#~ msgstr "Position"
+
+#~ msgid "Company"
+#~ msgstr "Firma"
+
+#~ msgid "Displays Testimonials"
+#~ msgstr "Zeige Referenz"
+
+#~ msgid "IceFit Testimonials"
+#~ msgstr "IceFit Referenzen"

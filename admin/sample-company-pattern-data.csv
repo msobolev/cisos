@@ -1,0 +1,31 @@
+Email Pattern,Example,,,,,,#,Prefix and all
+"First name initial, last name",John,M,Doe,domain.com,=>,jdoe@domain.com,1,JDoe@domain.com
+"First name, dot, last name",John,M,Doe,domain.com,=>,john.doe@domain.com,2,John.Doe@domain.com
+First name,John,M,Doe,domain.com,=>,john@domain.com,3,John@domain.com
+"First name, initial of last name",John,M,Doe,domain.com,=>,johnd@domain.com,4,JohnD@domain.com
+"First name, underscore last name",John,M,Doe,domain.com,=>,john_doe@domain.com,5,John_Doe@domain.com
+Last name,John,M,Doe,domain.com,=>,doe@domain.com,6,Doe@domain.com
+"First name, last name",John,M,Doe,domain.com,=>,johndoe@domain.com,7,JohnDoe@domain.com
+"Last name, first name initial",John,M,Doe,domain.com,=>,doej@domain.com,8,DoeJ@domain.com
+"First name initial, dot, last name",John,M,Doe,domain.com,=>,j.doe@domain.com,9,J.Doe@domain.com
+"Last name, dot, first name",John,M,Doe,domain.com,=>,doe.john@domain.com,10,Doe.John@domain.com
+"Last name initial, first name",John,M,Doe,domain.com,=>,djohn@domain.com,11,DJohn@domain.com
+"First name, hyphen, last name",John,M,Doe,domain.com,=>,john-doe@domain.com,12,John-Doe@domain.com
+"First name initial, middle name initial, last name",John,M,Doe,domain.com,=>,johnmdoe@domain.com,13,JohnMDoe@domain.com
+"First name initial, first two characters of last name",John,M,Doe,domain.com,=>,johndo@domain.com,14,JohnDo@domain.com
+"First name initial, first five characters of last name",John,M,Doe,domain.com,=>,johndoe@domain.com,15,JohnDoe@domain.com
+"First name initial, first four characters of last name",John,M,Doe,domain.com,=>,johndoe@domain.com,16,JohnDoe@domain.com
+"First name initial, first three characters of last name",John,M,Doe,domain.com,=>,johndoe@domain.com,17,JohnDoe@domain.com
+"First name initial, first seven characters of last name",John,M,Doe,domain.com,=>,johndoe@domain.com,18,JohnDoe@domain.com
+"First name initial, first six characters of last name",John,M,Doe,domain.com,=>,johndoe@domain.com,19,JohnDoe@domain.com
+"Last name, underscore first name",John,M,Doe,domain.com,=>,doe_john@domain.com,20,Doe_John@domain.com
+"First name, dot, middle name initial, dot, last name",John,M,Doe,domain.com,=>,john.m.doe@domain.com,21,John.M.Doe@domain.com
+"First name, underscore, middle name initial, underscore, last name",John,M,Doe,domain.com,=>,john_m_doe@domain.com,22,John_M_Doe@domain.com
+"Last name, dot, first name initial",John,M,Doe,domain.com,=>,doe.j@domain.com,23,Doe.J@domain.com
+"Last name, underscore, the first two characters of the first name",John,M,Doe,domain.com,=>,doe_jo@domain.com,24,Doe_John@domain.com
+"First name initial, underscore, last name",John,M,Doe,domain.com,=>,j_doe@domain.com,25,J_Doe@domain.com
+"First name initial, last name initial",John,M,Doe,domain.com,=>,jd@domain.com,26,JD@domain.com
+"First name initial, middle name initial, last name initial",John,M,Doe,domain.com,=>,jmd@domain.com,27,JMD@domain.com
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,

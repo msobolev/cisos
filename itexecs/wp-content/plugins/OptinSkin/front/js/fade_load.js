@@ -1,0 +1,3 @@
+jQuery(document).ready(function($){if(window.ois_fade!==undefined){for(x in ois_fade){var id=x.split('_');$('#ois_'+id[1]).children().hide();$('#ois_'+id[1]).addClass('ois_fader');$('#ois_'+id[1]).attr('fadeSec',ois_fade[x]);}
+var ois_interval2=setInterval(function(){var num_faders=0;$('.ois_fader').each(function(){num_faders++;if($(this).is(':onScreen')){if(!$(this).children().is(":visible")){if($(this).attr('fadesec')){var fadeSec=parseInt($(this).attr('fadesec'))*100;}else{var fadeSec=500;}
+$(this).children().delay(fadeSec).fadeIn(1000);$(this).removeClass('ois_fader');}}});if(num_faders==0){clearInterval(ois_interval2);}},3000);}});

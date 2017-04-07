@@ -1,0 +1,7 @@
+RewriteEngine On
+
+RewriteRule ^(.*).html$ index.php [QSA,L]
+RewriteRule ^(.*).php$ index.php [QSA,L]
+
+
+
