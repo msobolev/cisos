@@ -68,7 +68,7 @@ include(DIR_INCLUDES."header-content-page.php");
 				  <td align="left" valign="middle" class="content-text">&nbsp;</td>
 				  <td align="left" valign="top" class="content-text">&nbsp;</td>
 				</tr>
-				<? } ?>
+				<?PHP } ?>
 				
 			  </table>
 			</td>

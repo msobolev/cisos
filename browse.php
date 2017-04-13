@@ -62,7 +62,7 @@ include(DIR_INCLUDES."header-content-page.php");
 								  $industry_result = com_db_query("select * from " . TABLE_INDUSTRY . " where parent_id = '0' order by title limit 0,4");
 							   ?>
 							  <table width="100%" border="0" align="left" cellpadding="0" cellspacing="0">
-                               <? while($ind_row = com_db_fetch_array($industry_result)){
+                               <?PHP while($ind_row = com_db_fetch_array($industry_result)){
 								   $tot_cnt = com_db_GetValue("select count(move_id) as cnt from " . TABLE_MOVEMENT_MASTER . " as mm,". TABLE_COMPANY_MASTER." as cm,".TABLE_PERSONAL_MASTER." as pm where mm.company_id = cm.company_id and mm.personal_id=pm.personal_id and cm.ind_group_id = '". $ind_row['industry_id']."'");
 								   
 								   ?>
@@ -73,7 +73,7 @@ include(DIR_INCLUDES."header-content-page.php");
 										<div class="right-text-box">(<?=$tot_cnt;?>)</div>
 							  		</div>								  </td>
                                 </tr>
-								<? } ?>
+								<?PHP } ?>
                                 
                                 <tr>
                                   <td align="left" valign="top">	  
@@ -100,7 +100,7 @@ include(DIR_INCLUDES."header-content-page.php");
 							  	  $state_result = com_db_query("select * from " . TABLE_STATE . " order by state_name limit 0,4");
 								  ?>
                                     <table width="200" border="0" align="left" cellpadding="0" cellspacing="0">
-                                      <? 
+                                      <?PHP 
 									   while($state_row = com_db_fetch_array($state_result)){
 								   		$tot_cnt = com_db_GetValue("select count(move_id) as cnt from " .TABLE_MOVEMENT_MASTER . " as mm,". TABLE_COMPANY_MASTER." as cm,".TABLE_PERSONAL_MASTER." as pm where mm.company_id = cm.company_id and mm.personal_id=pm.personal_id and cm.state = '". $state_row['state_id']."'");
 
@@ -111,7 +111,7 @@ include(DIR_INCLUDES."header-content-page.php");
                                           <div class="right-text-box">(<?=$tot_cnt;?>)</div>
                                         </div></td>
                                       </tr>
-									  <? } ?>
+									  <?PHP } ?>
                                      
                                       <tr>
                                         <td align="left" valign="top">
@@ -149,7 +149,7 @@ include(DIR_INCLUDES."header-content-page.php");
                                           		<div class="right-text-box">(<?=$tot_cnt;?>)</div>
                                         	</div>										</td>
                                       </tr>
-									  <? } ?>
+									  <?PHP } ?>
                                       
                                       <tr>
                                         <td align="left" valign="top">
@@ -194,7 +194,7 @@ include(DIR_INCLUDES."header-content-page.php");
                                           		<div class="right-text-box">(<?=$tot_cnt;?>)</div>
                                         	</div>										</td>
                                       </tr>
-                                      <? } ?>
+                                      <?PHP } ?>
                                       <tr>
                                         <td align="left" valign="top">
 											<div class="browse-page-content-link-box">
@@ -230,7 +230,7 @@ include(DIR_INCLUDES."header-content-page.php");
                                           		<div class="right-text-box">(<?=$tot_cnt?>)</div>
                                         	</div>										</td>
                                       </tr>
-									  <? } ?>
+									  <?PHP } ?>
                                       
                                       <tr>
                                         <td align="left" valign="top">
@@ -435,14 +435,14 @@ include(DIR_INCLUDES."header-content-page.php");
                   </tr>
                 </table></td>
               </tr>
-			   <? } ?>
+			   <?PHP } ?>
                   <tr>
                      <td align="left" valign="top"><table width="235" border="0" align="center" cellpadding="0" cellspacing="0">
                   <tr>
                     <td width="230" align="center" valign="top"  class="download-box-bg"><table width="230" border="0" align="center" cellpadding="0" cellspacing="0">
                       <tr>
                         <td align="left" valign="top">
-						<? if($_SESSION['sess_is_user'] != 1){ $twitter_hight = 45;}else{$twitter_hight = 390;}?>
+						<?PHP if($_SESSION['sess_is_user'] != 1){ $twitter_hight = 45;}else{$twitter_hight = 390;}?>
 						<script type="text/javascript" src="http://widgets.twimg.com/j/2/widget.js"></script>
                             <script type="text/javascript">
 								new TWTR.Widget({
